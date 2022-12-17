@@ -27,5 +27,5 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="MOOVIMEX" tvg-logo="https://www.thefilmcollaborative.org/resourceplace/img/vod/moovimex.jpg" tvg-group-title="Cine",MOOVIMEX
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-id="CINE SUREÑO" tvg-logo="https://image.xumo.com/v1/channels/channel/99991739/600x337.jpg" tvg-group-title="Cine",CINE SUREÑO
+#EXTINF:-1 tvg-chno="10" tvg-id="CINE SUREÑO" tvg-logo="https://static.wixstatic.com/media/526a76_d866938889a04b4d8584e0842ff4d4c1~mv2.jpg" tvg-group-title="Cine",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
