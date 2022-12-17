@@ -29,3 +29,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="CINE SUREÑO" tvg-logo="https://static.wixstatic.com/media/526a76_d866938889a04b4d8584e0842ff4d4c1~mv2.jpg" tvg-group-title="Cine",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="SOFY" tvg-logo="https://sofy.tv/blog/wp-content/uploads/2017/12/logo.png" tvg-group-title="Cine",SOFY
+https://sofy-ger-samsung.amagi.tv:443/playlist720.m3u8
