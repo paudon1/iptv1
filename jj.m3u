@@ -23,3 +23,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-id="MY TIME MN MÉXICO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" tvg-group-title="Cine",MY TIME MN MÉXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-id="MOOVIMEX" tvg-logo="https://www.thefilmcollaborative.org/resourceplace/img/vod/moovimex.jpg" tvg-group-title="Cine",MOOVIMEX
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
