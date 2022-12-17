@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="A3CINE" tvg-logo="https://mma.prnewswire.com/media/629670/Atrescine_Logo.jpg" tvg-group-title="Cine",A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="CINÉ CLUB" tvg-logo="http://associations.it-sudparis.eu/images/logos/cine.png" tvg-group-title="Cine",CINÉ CLUB
+#EXTINF:-1 tvg-chno="2" tvg-id="CINÉ CLUB" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" tvg-group-title="Cine",CINÉ CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="TOP CINE" tvg-logo="https://pbs.twimg.com/profile_images/1491501038314131462/UG92Ut-G_400x400.jpg" tvg-group-title="Cine",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="RETRO PLUS" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" tvg-group-title="Cine",RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
