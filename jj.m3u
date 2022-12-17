@@ -1,41 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" id="A3CINE" tvg-logo="https://mma.prnewswire.com/media/629670/Atrescine_Logo.jpg" group-title="2Cine",A3CINE
+#EXTINF:-1 tvg-chno="1" id="A3CINE" tvg-logo="https://mma.prnewswire.com/media/629670/Atrescine_Logo.jpg" group-title="Cine",A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-chno="2" id="CINÉ CLUB" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="1Cine",CINÉ CLUB
+#EXTINF:-1 tvg-chno="2" id="CINÉ CLUB" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="Cine",CINÉ CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
 
-#EXTINF:-1 tvg-chno="3" id="TOP CINE" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/topcine.png" group-title="2Cine",TOP CINE
+#EXTINF:-1 tvg-chno="3" id="TOP CINE" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/topcine.png" group-title="Cine",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-chno="4" id="RETRO PLUS" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="1Cine",RETRO PLUS
+#EXTINF:-1 tvg-chno="4" id="RETRO PLUS" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="Cine",RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5" id="ACTION MOVIES RAKUTEN" tvg-logo="https://static.wixstatic.com/media/526a76_822c21298e3249ba807b142641fb8518~mv2.jpg" group-title="2Cine",ACTION MOVIES RAKUTEN
+#EXTINF:-1 tvg-chno="5" id="ACTION MOVIES RAKUTEN" tvg-logo="https://static.wixstatic.com/media/526a76_822c21298e3249ba807b142641fb8518~mv2.jpg" group-title="Cine",ACTION MOVIES RAKUTEN
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6" id="COMEDY MOVIES RAKUTEN" tvg-logo="https://tamilmovienight.com/wp-content/uploads/2019/08/Comedy-Movies-2.jpg" group-title="1Cine",COMEDY MOVIES RAKUTEN
+#EXTINF:-1 tvg-chno="6" id="COMEDY MOVIES RAKUTEN" tvg-logo="https://tamilmovienight.com/wp-content/uploads/2019/08/Comedy-Movies-2.jpg" group-title="Cine",COMEDY MOVIES RAKUTEN
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" id="MY TIME MOVIE NETWORK ESPAÑA" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="2Cine",MY TIME MN ESPAÑA
+#EXTINF:-1 tvg-chno="7" id="MY TIME MOVIE NETWORK ESPAÑA" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Cine",MY TIME MOVIE NETWORK ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" id="MY TIME MOVIE NETWORK MÉXICO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="1Cine",MY TIME MN MÉXICO
+#EXTINF:-1 tvg-chno="8" id="MY TIME MOVIE NETWORK MÉXICO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Cine",MY TIME MOVIE NETWORK MÉXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="9" id="MOOVIMEX" tvg-logo="https://static.wixstatic.com/media/526a76_502320adf46248a5b8518a0377879af8~mv2.jpg" group-title="2Cine",MOOVIMEX
+#EXTINF:-1 tvg-chno="9" id="MOOVIMEX" tvg-logo="https://static.wixstatic.com/media/526a76_502320adf46248a5b8518a0377879af8~mv2.jpg" group-title="Cine",MOOVIMEX
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10" id="CINE SUREÑO" tvg-logo="https://static.wixstatic.com/media/526a76_d866938889a04b4d8584e0842ff4d4c1~mv2.jpg" group-title="1Cine",CINE SUREÑO
+#EXTINF:-1 tvg-chno="10" id="CINE SUREÑO" tvg-logo="https://static.wixstatic.com/media/526a76_d866938889a04b4d8584e0842ff4d4c1~mv2.jpg" group-title="Cine",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-chno="11" id="CINE MUNDO +" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/12/CINEMUNDO.jpg" group-title="2Cine",CINE MUNDO +
+#EXTINF:-1 tvg-chno="11" id="CINE MUNDO +" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/12/CINEMUNDO.jpg" group-title="Cine",CINE MUNDO +
 https://video-weaver.qro04.hls.ttvnw.net/v1/playlist/CpQFMtfb60OnNdF7T4LQS7-33lXJjbsjkSAlQHdFNW9tqZ5hkcZE-IzSJw3uxSPTztLz_NfUYYqK0dlELb1vQS6HPcwxatVSq-EghhOVx-4uCd8tyJq8lXqBPmXUPNlzbyv4bLjsOKaWxItz25xFFg7WrCeBzDVxTnwjeyeHuUhQR1LVbgOqG2c3ZgtLqFI79DXPvcXnm4uHNGolBV-p3TepSpC2IThrQwj8kykKZwplSBNilHC4W0B6B9uqarECp_PYOIKc8pr-JZ4Xqh0qwj1FCN1ncoc-gToloqQHFVvuo8UMtyzP7tzuISgJR905120xbnZLRUF05PWyox6xVtbSl3OiuJj7LyjCoeyH_YLslhN1NtiUJo_beX28UhclFj1l3bj2KdLvvF1W18Jsy7VVN3c59vdC-cf8SysJwdRYd-cIGSjCARa9xLMTbd4B7hwq6mzC3yB4NMN_IBaO0vXVBBh-DYzbDMw1BcT5NZbEy_rIQwT6TMhOik0YhpXmhMli0kiVj651-nDVczKo-hIPf3U_jxvEu5MRb1Zy_3nbHZDj440iUk4Sj8SmttmQRs-FUIASUZTCCW9_LFcy95emRObR3BD9FUoo3Py_Ls_afmbvXUFcagqHVhJuMgeqMOgcCUUToA_LWrcCjB7nRN4m6iEoTqUsjc6PT3eaj9UTPbnNygdF4DeWRuf7pzuw52fs91xiM-dO-DlaSk8sj9nTHJZiDh1dgx1f7j-Zo9XKLWmGTaIFGgiYZ0VBoRmnxQ3-Ds4pVuM51bcFz8LxUL2Is0M4LalcZ-xFj_SeHy_Fjhb48705gvOEeF-36teL9MK1BBBkV0RCIMH9l6UaBLDMSryujiaqBLIre85uckZGXceBZG1QGgyDEn-2exqTdZVaajsgASoJdXMtZWFzdC0yMLIF.m3u8
 
-#EXTINF:-1 tvg-chno="12" id="ACCIÓN MEXICANA CANELA TV" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-accion-mexicana-16x9.jpg" group-title="1Cine",ACCIÓN MEXICANA CANELA TV
+#EXTINF:-1 tvg-chno="12" id="ACCIÓN MEXICANA CANELA TV" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-accion-mexicana-16x9.jpg" group-title="Cine",ACCIÓN MEXICANA CANELA TV
 https://stream.ads.ottera.tv/cl/3ZXqyp-P2_qySDx_6P-WN/854x480_550000_3_f.m3u8
 
-#EXTINF:-1 tvg-chno="13" id="CINE ROMÁNTICO CANELA TV" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-cine-romantico.jpg" group-title="2Cine",CINE ROMÁNTICO CANELA TV
+#EXTINF:-1 tvg-chno="13" id="CINE ROMÁNTICO CANELA TV" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-cine-romantico.jpg" group-title="Cine",CINE ROMÁNTICO CANELA TV
 https://stream.ads.ottera.tv/cl/q-bcYy6OKgwDvxfEALi_F/854x480_550000_3_f.m3u8
+
+#EXTINF:-1 tvg-chno="14" id="NUESTRO CINE CANAL 22.1" tvg-logo="https://www.ilce.edu.mx/images/RadioyTV/221.jpg" group-title="Cine",NUESTRO CINE CANAL 22.1
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w666224240_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="15" id="CANELA CLÁSICOS" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-classics-16x9_0.png" group-title="Cine",CANELA CLÁSICOS
+https://stream.ads.ottera.tv/cl/JAjGZ2JCYialwLoOkRiZF/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 tvg-chno="16" id="CANELA CINEMA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png" group-title="Cine",CANELA CINEMA
+https://stream.ads.ottera.tv/cl/KycUjIxy03kLXEvSvOLep/854x480_550000_3_f.m3u8
+
+#EXTINF:-1 tvg-chno="17" id="RUN:TIME CINE Y SERIES" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="Cine",RUN:TIME CINE Y SERIES
+https://stream.ads.ottera.tv/cl/jjV81oaZkNXl7dZoruHAM/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 tvg-chno="18" id="RUN:TIME TV Y PELÍCULAS" tvg-logo="https://i.blogs.es/6502c9/portada/1366_2000.jpg" group-title="Cine",RUN:TIME TV Y PELÍCULAS
+https://stream.ads.ottera.tv/cl/-ohFT2QN8KKQlxQ1aSsQa/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 tvg-chno="19" id="FLOU CINE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Cine",FLOU CINE
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/d7086616-7c07-455b-b6b3-cac3128269f0/0.m3u8
+
+
+
+
 
