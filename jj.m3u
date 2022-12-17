@@ -12,7 +12,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="RETRO PLUS" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" tvg-group-title="Cine",RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="ACTION MOVIES" tvg-logo="https://static.wikia.nocookie.net/foxtelmovies/images/c/c2/Action.png" tvg-group-title="Cine",ACTION MOVIES
+#EXTINF:-1 tvg-chno="5" tvg-id="ACTION MOVIES" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6436.1478300344.png" tvg-group-title="Cine",ACTION MOVIES
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-id="COMEDY MOVIES" tvg-logo="https://media.info/i/lf/0/1478300583/6437.png" tvg-group-title="Cine",COMEDY MOVIES
