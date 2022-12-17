@@ -57,7 +57,17 @@ https://stream.ads.ottera.tv/cl/-ohFT2QN8KKQlxQ1aSsQa/854x480_1355200_2_f.m3u8
 #EXTINF:-1 tvg-chno="19" id="FLOU CINE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Cine",FLOU CINE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/d7086616-7c07-455b-b6b3-cac3128269f0/0.m3u8
 
+#EXTINF:-1 tvg-chno="20" id="JUNTOS" tvg-logo="https://a.jsrdn.com/hls/23008/juntos/logo_20211119_205416_68.png" group-title="Cine",JUNTOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="21" id="CINE REAL" tvg-logo="https://latinartv.com/sites/default/files/logos/cine-real.jpg" group-title="Cine",CINE REAL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="22" id="HORRORFY" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/10/Horrorfy_v2_1920x1080-752x423.jpg" group-title="Cine",HORRORFY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="23" id="TU CINE" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/logo_20211206_224154_68.png" group-title="Cine",TU CINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="24" id="AGUASCALIENTES TV" tvg-logo="https://static.wixstatic.com/media/526a76_4d0884eed7d44198b48c0730145e04e9~mv2.jpg/v1/fill/w_360,h_358,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/526a76_4d0884eed7d44198b48c0730145e04e9~mv2.jpg" group-title="Estatales",AGUASCALIENTES TV
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
