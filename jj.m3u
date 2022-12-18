@@ -95,3 +95,42 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32" id="EDOMEX TV" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="Estatales",EDOMEX TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1815260835.m3u8
+
+#EXTINF:-1 tvg-chno="33" id="MICHOACÁN TV" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="Estatales",MICHOACÁN TV
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="34" id="MORELOS TV" tvg-logo="http://radial314.com/imgimryt/2018/logo_imryt.png" group-title="Estatales",MORELOS TV
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="35" id="NUEVO LEÓN TV" tvg-logo="https://periodicoabcrm.blob.core.windows.net/images/2020/03/09/28.png" group-title="Estatales",NUEVO LEÓN TV
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" id="PUEBLA TV" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Puebla-TV-en-vivo.png" group-title="Estatales",PUEBLA TV
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="37" id="QUERÉTARO TV" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="Estatales",QUERÉTARO TV
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="38" id="QUINTANA ROO TV" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/SQCS-TV-en-vivo-1024x576.png" group-title="Estatales",QUINTANA ROO TV
+https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="39" id="SAN LUIS POTOSÍ TV" tvg-logo="https://pbs.twimg.com/profile_images/1599915099694637057/mYg42twj_400x400.jpg" group-title="Estatales",SAN LUIS POTOSÍ TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="40" id="SINALOA* TV" tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_liderentelevisionlocal.png" group-title="Estatales",SINALOA* TV
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="41" id="TABASCO TV" tvg-logo="https://diariopresenterm.blob.core.windows.net.optimalcdn.com/images/2021/05/21/whatsappimage20210521at6.52.40pm-focus-min0.03-0.33-732-549.jpg" group-title="Estatales",TABASCO TV
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="42" id="VERACRUZ TV" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvmas-rtv-veracruz-586.jpg" group-title="Estatales",VERACRUZ TV
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="43" id="ZACATECAS TV" tvg-logo="https://www.biodiversidad.gob.mx/Difusion/SDB/2018/imagenes/usuarios/semana/materiales/161/2018-05-21_13-50-19_logo%20sizart.jpg" group-title="Estatales",ZACATECAS TV
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="44" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Internacional",GENIOS TV PERÚ
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+
+
