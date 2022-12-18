@@ -135,16 +135,6 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-chno="45" id="ILCE" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Cultura",ILCE
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="46" id="PSN TIJUANA" tvg-logo="https://www.freeetv.com/images/02_logo/psn_dominican_republic.jpg" group-title="Cultura",PSN TIJUANA
-https://playback2.akamaized.net/streams/27053071_8131710_lsin77e32ate94hgnzy_1/master.m3u8?dw=14400&hdnts=exp=1671350454~acl=/streams/27053071_8131710_lsin77e32ate94hgnzy_1/master.m3u8*~hmac=ec6f7daea122590e112fa5cf650826aa824e195b6893cf898eb8d06ef56f56be
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-chno="46" id="AMX NOTICIAS" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="Noticias",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
