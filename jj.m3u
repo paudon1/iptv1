@@ -69,7 +69,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/pla
 #EXTINF:-1 tvg-chno="23" id="TU CINE" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/logo_20211206_224154_68.png" group-title="Cine",TU CINE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="24" id="AGUASCALIENTES TV" tvg-logo="https://static.wixstatic.com/media/526a76_4d0884eed7d44198b48c0730145e04e9~mv2.jpg/v1/fill/w_360,h_358,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/526a76_4d0884eed7d44198b48c0730145e04e9~mv2.jpg" group-title="Estatales",AGUASCALIENTES TV
+#EXTINF:-1 tvg-chno="24" id="AGUASCALIENTES TV" tvg-logo="https://static.wixstatic.com/media/526a76_4d0884eed7d44198b48c0730145e04e9~mv2.jpg" group-title="Estatales",AGUASCALIENTES TV
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="25" id="BAJA CALIFORNIA SUR TV" tvg-logo="http://iert.bcs.gob.mx/wp-content/uploads/2021/09/canal8_logo.png" group-title="Estatales",BAJA CALIFORNIA SUR TV
