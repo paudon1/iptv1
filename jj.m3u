@@ -144,5 +144,5 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="48" id="MILENIO TELEVISIÓN NOROESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Noticias",MILENIO TELEVISIÓN NOROESTE
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-chno="49" id="RT RSPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Noticias",RT ESPAÑOL
+#EXTINF:-1 tvg-chno="49" id="RT RSPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias",RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
