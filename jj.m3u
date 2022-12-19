@@ -132,38 +132,56 @@ https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-chno="44" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Variado Interacional",GENIOS TV PERÚ
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-#EXTINF:-1 tvg-chno="45" id="ILCE" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Cultura",ILCE
-https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="46" id="AMX NOTICIAS" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="Noticias",AMX NOTICIAS
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="47" id="EURONEWS ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1200px-Euronews_2016_logo.svg.png" group-title="Noticias",EURONEWS ESPAÑOL
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="48" id="MILENIO TELEVISIÓN NOROESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Noticias",MILENIO TELEVISIÓN NOROESTE
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 tvg-chno="49" id="RT RSPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias",RT ESPAÑOL
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="50" id="HECHOS ECUADOR" tvg-logo="https://image.roku.com/developer_channels/prod/61e6310d3789dc98e0cdf05b093919c177ea86faa06a9362ea4bc5b107517ee0.png" group-title="Noticias",HECHOS ECUADOR
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="51" id="CANAL 6 MULTIMEDIOS" tvg-logo="https://image.multimedios.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dbf5dbbfc8f16bb63ce1.jpg" group-title="Variado Nacional",CANAL 6 MULTIMEDIOS
-http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-chno="52" id="WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Variado Interacional",WOW TV
+#EXTINF:-1 tvg-chno="45" id="WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Variado Interacional",WOW TV
 https://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="53" id="TELEMAX ARGENTINA" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.degradado_terminado.png.676dcd81730d71f0644af02a471994fd.png" group-title="Variado Interacional",TELEMAX ARGENTINA
+#EXTINF:-1 tvg-chno="46" id="TELEMAX ARGENTINA" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.degradado_terminado.png.676dcd81730d71f0644af02a471994fd.png" group-title="Variado Interacional",TELEMAX ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
-#EXTINF:-1 tvg-chno="54" id="CANAL 26 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Variado Interacional",CANAL 26 ARGENTINA
+#EXTINF:-1 tvg-chno="47" id="CANAL 26 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Variado Interacional",CANAL 26 ARGENTINA
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="55" id="TEN TV HONDURAS" tvg-logo="https://www.hn504.net/img/tv/TEN-10.png" group-title="Variado Interacional",TEN TV HONDURAS
+#EXTINF:-1 tvg-chno="48" id="TEN TV HONDURAS" tvg-logo="https://www.hn504.net/img/tv/TEN-10.png" group-title="Variado Interacional",TEN TV HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
-#EXTINF:-1 tvg-chno="56" id="RCG MEDIA" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png" group-title="Variado Nacional",RCG MEDIA
+#EXTINF:-1 tvg-chno="49" id="FRECUENCIA MUSICAL" tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2017/01/ic_launcher-playstore-370x370.png" group-title="Variado Internacional",FRECUENCIA MUSICAL
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="50" id="AMX NOTICIAS" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="Noticias",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" id="CANAL 44 CHIHUAHUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="Noticias",CANAL 44 CHIHUAHUA
+http://tvpremiumhd.club/lista-gratuita/214010/on/lives.php?id=5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" id="EURONEWS ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1200px-Euronews_2016_logo.svg.png" group-title="Noticias",EURONEWS ESPAÑOL
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="53" id="MILENIO TELEVISIÓN NOROESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Noticias",MILENIO TELEVISIÓN NOROESTE
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-chno="54" id="RT RSPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias",RT ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="55" id="HECHOS ECUADOR" tvg-logo="https://image.roku.com/developer_channels/prod/61e6310d3789dc98e0cdf05b093919c177ea86faa06a9362ea4bc5b107517ee0.png" group-title="Noticias",HECHOS ECUADOR
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="56" id="CANAL 6 MULTIMEDIOS" tvg-logo="https://image.multimedios.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dbf5dbbfc8f16bb63ce1.jpg" group-title="Variado Nacional",CANAL 6 MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-chno="57" id="RCG MEDIA" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png" group-title="Variado Nacional",RCG MEDIA
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
+
+#EXTINF:-1 tvg-chno="58" id="CANAL 15 SABINAS COAHUILA" tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png" group-title="Variado Nacional",CANAL 15 SABINAS COAHUILA
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400512601.m3u8
+
+#EXTINF:-1 tvg-chno="59" id="CANAL 10 CANCÚN" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/Canal10_squ-Square.png" group-title="Variado Nacional",CANAL 10 CANCÚN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="60" id="CANAL 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Canal_Catorce.png" group-title="Variado Nacional",CANAL 14
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="61" id="ILCE" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Cultura",ILCE
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="62" id="TELERITMO" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Música",TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
