@@ -129,7 +129,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-chno="43" id="ZACATECAS TV" tvg-logo="https://www.biodiversidad.gob.mx/Difusion/SDB/2018/imagenes/usuarios/semana/materiales/161/2018-05-21_13-50-19_logo%20sizart.jpg" group-title="Estatales",ZACATECAS TV
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="44" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Variado-Interacional",GENIOS TV PERÚ
+#EXTINF:-1 tvg-chno="44" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Variado Interacional",GENIOS TV PERÚ
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-chno="45" id="ILCE" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Cultura",ILCE
@@ -147,5 +147,23 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-chno="49" id="RT RSPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias",RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="49" id="HECHOS ECUADOR" tvg-logo="https://image.roku.com/developer_channels/prod/61e6310d3789dc98e0cdf05b093919c177ea86faa06a9362ea4bc5b107517ee0.png" group-title="Noticias",HECHOS ECUADOR
+#EXTINF:-1 tvg-chno="50" id="HECHOS ECUADOR" tvg-logo="https://image.roku.com/developer_channels/prod/61e6310d3789dc98e0cdf05b093919c177ea86faa06a9362ea4bc5b107517ee0.png" group-title="Noticias",HECHOS ECUADOR
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" id="CANAL 6 MULTIMEDIOS" tvg-logo="https://image.multimedios.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dbf5dbbfc8f16bb63ce1.jpg" group-title="Variado Nacional",CANAL 6 MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-chno="52" id="WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Variado Interacional",WOW TV
+https://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="53" id="TELEMAX ARGENTINA" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.degradado_terminado.png.676dcd81730d71f0644af02a471994fd.png" group-title="Variado Interacional",TELEMAX ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="54" id="CANAL 26 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Variado Interacional",CANAL 26 ARGENTINA
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="55" id="TEN TV HONDURAS" tvg-logo="https://www.hn504.net/img/tv/TEN-10.png" group-title="Variado Interacional",TEN TV HONDURAS
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-chno="56" id="RCG MEDIA" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png" group-title="Variado Nacional",RCG MEDIA
+https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
