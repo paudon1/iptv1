@@ -147,3 +147,5 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-chno="49" id="RT RSPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias",RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="49" id="HECHOS ECUADOR" tvg-logo="https://image.roku.com/developer_channels/prod/61e6310d3789dc98e0cdf05b093919c177ea86faa06a9362ea4bc5b107517ee0.png" group-title="Noticias",HECHOS ECUADOR
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
