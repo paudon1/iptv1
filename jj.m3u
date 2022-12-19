@@ -129,7 +129,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-chno="43" id="ZACATECAS TV" tvg-logo="https://www.biodiversidad.gob.mx/Difusion/SDB/2018/imagenes/usuarios/semana/materiales/161/2018-05-21_13-50-19_logo%20sizart.jpg" group-title="Estatales",ZACATECAS TV
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="44" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Internacional",GENIOS TV PERÚ
+#EXTINF:-1 tvg-chno="44" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Variado-Interacional",GENIOS TV PERÚ
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-chno="45" id="ILCE" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Cultura",ILCE
@@ -138,3 +138,5 @@ https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" id="AMX NOTICIAS" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="Noticias",AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="47" id="EURONEWS ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1200px-Euronews_2016_logo.svg.png" group-title="Noticias",EURONEWS ESPAÑOL
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
