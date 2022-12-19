@@ -183,5 +183,5 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 tvg-chno="61" id="ILCE" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Cultura",ILCE
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="62" id="TELERITMO" tvg-logo="https://seeklogo.com/images/I/ILCE-logo-6377A485BC-seeklogo.com.png" group-title="Música",TELERITMO
+#EXTINF:-1 tvg-chno="62" id="TELERITMO" tvg-logo="https://static.wixstatic.com/media/526a76_49684a92b76d41de8bb0f2ab56d8aa42~mv2.png/v1/fill/w_360,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/526a76_49684a92b76d41de8bb0f2ab56d8aa42~mv2.png" group-title="Música",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
