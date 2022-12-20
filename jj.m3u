@@ -126,19 +126,19 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-chno="42" id="ZACATECAS TV" tvg-logo="https://www.biodiversidad.gob.mx/Difusion/SDB/2018/imagenes/usuarios/semana/materiales/161/2018-05-21_13-50-19_logo%20sizart.jpg" group-title="Estatales",ZACATECAS TV
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Variado Interacional",GENIOS TV PERÚ
+#EXTINF:-1 tvg-chno="43" id="GENIOS TV PERÚ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg" group-title="Variado Internacional",GENIOS TV PERÚ
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-chno="44" id="WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Variado Interacional",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="45" id="TELEMAX ARGENTINA" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.degradado_terminado.png.676dcd81730d71f0644af02a471994fd.png" group-title="Variado Interacional",TELEMAX ARGENTINA
+#EXTINF:-1 tvg-chno="45" id="TELEMAX ARGENTINA" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.degradado_terminado.png.676dcd81730d71f0644af02a471994fd.png" group-title="Variado Internacional",TELEMAX ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
-#EXTINF:-1 tvg-chno="46" id="CANAL 26 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Variado Interacional",CANAL 26 ARGENTINA
+#EXTINF:-1 tvg-chno="46" id="CANAL 26 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Variado Internacional",CANAL 26 ARGENTINA
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="47" id="TEN TV HONDURAS" tvg-logo="https://www.hn504.net/img/tv/TEN-10.png" group-title="Variado Interacional",TEN TV HONDURAS
+#EXTINF:-1 tvg-chno="47" id="TEN TV HONDURAS" tvg-logo="https://www.hn504.net/img/tv/TEN-10.png" group-title="Variado Internacional",TEN TV HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
 #EXTINF:-1 tvg-chno="48" id="FRECUENCIA MUSICAL" tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2017/01/ic_launcher-playstore-370x370.png" group-title="Variado Internacional",FRECUENCIA MUSICAL
