@@ -145,7 +145,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="49" id="CENTRAL TV PERÚ" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-central-tv-en-vivo-300x177.jpg" group-title="Variado Internacional",CENTRAL TV PERÚ
-https://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50" id="AMX NOTICIAS" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="Noticias",AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
@@ -191,15 +191,3 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-chno="64" id="TELERITMO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png" group-title="Música",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
