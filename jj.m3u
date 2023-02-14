@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" id="A3CINE" tvg-logo="https://mma.prnewswire.com/media/629670/Atrescine_Logo.jpg" group-title="Cine",A3CINE
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-1 tvg-chno="1" id="ORBIT",ORBIT
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2" id="CINÉ CLUB" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="Cine",CINÉ CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
