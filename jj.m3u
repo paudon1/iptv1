@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno="1" id="ORBIT",ORBIT
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2" id="CINÉ CLUB" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="Cine",CINÉ CLUB
-https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-chno="2" id="PLANETA",PLANETA
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" id="TOP CINE" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/topcine.png" group-title="Cine",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
