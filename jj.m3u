@@ -98,7 +98,7 @@ https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="0" id="CORTO FILMS | ES" tvg-logo="https://static.wixstatic.com/media/526a76_bf860240b18f4229a947935f23b27089~mv2.jpg" group-title="UNIQUE CINE",CORTO FILMS | ES
-https://livelist01.yowi.tv/lista/7b69fc60c67962d703e9c95b60cb17c56b921b75/index-f3-v1-a1.m3u8
+https://livelist01.yowi.tv/lista/7b69fc60c67962d703e9c95b60cb17c56b921b75/index-f4-v1-a1.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CINEMA + | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="UNIQUE CINE",CINEMA + | ESP
 http://hvtrafico.ddns.net:1935/cinema720/cinema720.stream/playlist.m3u8
