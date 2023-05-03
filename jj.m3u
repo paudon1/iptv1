@@ -94,7 +94,6 @@ https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-chno="0" id="CINEMA + | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="UNIQUE CINE",CINEMA + | ESP
 http://hvtrafico.ddns.net:1935/cinema720/cinema720.stream/playlist.m3u8
 
@@ -250,7 +249,7 @@ https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="SAN VITO | EC" tvg-logo="https://static.wixstatic.com/media/526a76_668574d2a6694339b06bf988a8ce5ce3~mv2.jpg" group-title="VALUE CINE",SAN VITO | EC
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CNI DIGITAL | GT" tvg-logo="https://static.wixstatic.com/media/526a76_4cc505526782423da8cee66aa7030ff9~mv2.jpg" group-title="VALUE CINE",CNI DIGITAL | GT
+#EXTINF:-1 tvg-chno="0" id="CNI DIGITAL | GT" tvg-logo="https://static.wixstatic.com/media/526a76_d4361f45f8494a42852832b89b5b4ae3~mv2.jpg" group-title="VALUE CINE",CNI DIGITAL | GT
 http://204.12.202.90:8080/playgt/playgt2023/143
 
 #EXTINF:-1 tvg-chno="0" id="EXTREMA | CR" tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="VALUE CINE",EXTREMA | CR
@@ -303,7 +302,7 @@ https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="CANAL 5 SOLOLÁ | GT" tvg-logo="https://static.wixstatic.com/media/526a76_7347c1b9b636412b816099f6362d7d75~mv2.jpg" group-title="STRIKE CINE",CANAL 5 SOLOLÁ | GT
 http://204.12.202.90:8080/playgt/playgt2023/141
 
-#EXTINF:-1 tvg-chno="0" id="TELESUR ILO * | PE" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",TELESUR ILO * | PE
+#EXTINF:-1 tvg-chno="0" id="TELESUR ILO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="STRIKE CINE",TELESUR ILO * | PE
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="URANIO * | PE" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",URANIO * | PE
@@ -315,13 +314,13 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-chno="0" id="MULTICANAL * | EC" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",MULTICANAL * | EC
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TELESUR MOLLENDO * | PE" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",TELESUR MOLLENDO * | PE
+#EXTINF:-1 tvg-chno="0" id="TELESUR MOLLENDO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_8ab7d918a5324989b087c01f8023e7b9~mv2.jpg" group-title="STRIKE CINE",TELESUR MOLLENDO * | PE
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CANAL 9 DEL NORDESTE | AR" tvg-logo="https://static.wixstatic.com/media/526a76_ea5aa4e999a84c6f9561a871a29944f5~mv2.jpg" group-title="STRIKE CINE",CANAL 9 DEL NORDESTE | AR
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="E ALTOMAYO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_f5823046dc254e8d889bb1cf74e40e4c~mv2.jpg" group-title="STRIKE CINE",E ALTOMAYO| PE
+#EXTINF:-1 tvg-chno="0" id="E ALTOMAYO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_edec279ed59d4e1184f36cd8f5b8addb~mv2.jpg" group-title="STRIKE CINE",E ALTOMAYO| PE
 https://stream.plixitv.live/westv/westv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="FRECUENCIA MUSICAL | EC" tvg-logo="https://static.wixstatic.com/media/526a76_fea78cc689e5475d8bfc7b2bc02610e4~mv2.jpg" group-title="STRIKE CINE",FRECUENCIA MUSICAL | EC
@@ -858,4 +857,12 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="V | HN" group-title="REVISIÓN",V | HN
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
+
+
+
+
+
+
+
+
 
