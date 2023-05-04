@@ -80,14 +80,28 @@ https://stmv2.zcasthn.com.br/supertv/supertv/chunklist_w750474411.m3u8
 #EXTINF:-1 tvg-chno="0" id="A3CINE | ES" tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="PREMIUM CINE",A3CINE | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NUESTRO CINE RTVE | ES" tvg-logo="https://static.wixstatic.com/media/526a76_e15103076eb9480a8288cdbbdc20a2df~mv2.jpg" group-title="PREMIUM CINE",NUESTRO CINE RTVE | ES
-https://rtvelivestream.akamaized.net/hls/nxrtgolumi/music/stream1_1371_2750.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="CANAL 22.2 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_09c6ae5de51c4948bac8dcd0b631420f~mv2.jpg" group-title="PREMIUM CINE",CANAL 22.2 | MX
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w666224240_b1428000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="MOVIE FE | VE" tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="PREMIUM CINE",MOVIE FE | VE
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CINERAMA | BO" tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="PREMIUM CINE",CINERAMA | BO
+https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CINE AR | AR" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="PREMIUM CINE",CINE AR | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NUESTRO CINE RTVE | ES" tvg-logo="https://static.wixstatic.com/media/526a76_e15103076eb9480a8288cdbbdc20a2df~mv2.jpg" group-title="PREMIUM CINE",NUESTRO CINE RTVE | ES
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/music/stream1_1371_2750.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ESTRELLA TV CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="PREMIUM CINE",ESTRELLA TV CINE | ESP
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb553d16726c648d93d43d64d1ef41a3dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27753c79e0a957f378bbdbe306f2c180680585ee2be5da5edf50b448b39f7b2184f887a14e5d45fc8d549ef9ddc539d129b77a4159495a2d88118d1d2c7010566884561a7b1eef8fa1bbef11fd0f79f71309f7e5a3e7437c882e333caa1e43d2e72f7eddfb725de1ecb9b2c82614dff685aea3251f8169e1cabf547b4a1bad102453ce4e95a732ea1ebafcade2630b264fea6e69f00143113a31935aa40fd1a515fbd5e020c8dc01adcd149e0e13d446c98c30cf399c3b581fd5fb76376eabe0e61c4bbb7ca3ca2cc2e839768c920de79e7e31639554e4b92b95cd09fe393510840ab8f44dd1f17b894decd8f4e73fd69155ee777ca1b2b588c653c32b576b9ad3562df7251c52d6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0265b4ebcb99db090130b063f164005c4b7b427d5dd965b687cab642f6e701f0085448739ad6767346e984e9dfc7337ef600622e9a03358201cb5c0a38e8ad38a09f548dac1f93638281b049936162d7adca6873baa6c6c37e6d7cccb3fce6de62f1b4fd9854d/74/1280x720_2657019/index.m3u8
+
+
+
+
+
 
 
 
@@ -289,6 +303,35 @@ https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TELEMIX! | AR" tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="STRIKE CINE",TELEMIX! | AR
 https://panel.dattalive.com/8068/8068/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 17 NOSARA | CR" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",CANAL 17 NOSARA | CR
+https://stmv.streamingvip.click/tvnosara/tvnosara/chunklist_w902132523.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 8 PUNTA CANA | DO" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",CANAL 8 PUNTA CANA | DO
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RETRO X TV | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",RETRO X TV | ESP
+https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist_w265793327.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TELERED | CR" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",TELERED | CR
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TIGUERITOS | DO" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",TIGUERITOS | DO
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w1505701865.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TIKICIA | CR" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="STRIKE CINE",TIKICIA | CR
+https://5ca9af4645e15.streamlock.net/retroxtv/videoretroxtv/chunklist_w739152635.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="0" id="CR TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_86a068d60d794841879809cec89a2d8e~mv2.jpg" group-title="STRIKE CINE",CR TV | PE
 https://live.obslivestream.com/crtvmux/index.m3u8
@@ -857,12 +900,3 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="V | HN" group-title="REVISIÓN",V | HN
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
-
-
-
-
-
-
-
-
-
