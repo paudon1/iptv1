@@ -3,6 +3,158 @@
 
 
 
+#EXTINF:-1 tvg-chno="1" id="VIX CINE CLUB | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_e0b98e22339648539c595e62c673bfe4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",VIX CINE CLUB | ESP
+https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="SONY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",SONY | ESP
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CINE AR | AR" tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE AR | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="A3CINE | ES" tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="ABSOLUTAMENTE CINE",A3CINE | ES
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="MY TIME ESPAÑA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME ESPAÑA | ES
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CINEMA + | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINEMA + | ESP
+http://hvtrafico.ddns.net:1935/cinema720/cinema720.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="MY TIME MÉXICO | MX" tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME MÉXICO | MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id=RAKUTEN TOP FREE MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN TOP FREE MOVIES| ESP
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO CINE ESTELAR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ESTELAR | ESP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME TRASH | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME TRASH | ESP
+https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE LATINO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2e55a0fc10b14eae9edab2efd3915c34~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE LATINO | ESP
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE | ESP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CINE | ESP
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE EUROPA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_ffc8ddec28d44f1283a1e237060622d8~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE EUROPA | ESP
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id=RAKUTEN ESPAÑOL MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ESPAÑOL MOVIES| ESP
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/26bd87a4-89f6-412b-ad94-e87f6b24ac97/0.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE ASIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_0176d4215fd34fa3a5268259be3ce3ac~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ASIA | ESP
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME ROMANCE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_3f0b69a288304c208459b6c07b954243~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME ROMANCE | ESP
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE FAMILY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_03b94af8e5614cc0a3ae450987953e73~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE FAMILY | ESP
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id=RAKUTEN ROMÁNTICO MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ROMÁNTICO MOVIES | ESP
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/66bd9575-1e03-4866-b186-013c347c2d01/0.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME THRILLER | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME THRILLER | ESP
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE SUSPENSO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE SUSPENSO | ESP
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id=RAKUTEN THRILLERS MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN THRILLERS MOVIES | ESP
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/b0030d4c-ac24-4a59-906c-7cc3cff4240d/0.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO CINE TERROR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE TERROR | ESP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME CRIMEN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CRIMEN | ESP
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE TERROR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_afdf50109eed4d80a5b92b6c2bf0c79d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE TERROR | ESP
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RAKUTEN ACTION MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ACTION MOVIES | ES
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO CINE ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ACCIÓN | ESP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME ACCIÓN | ESP
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ACCIÓN | ESP
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RAKUTEN DRAMA MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN DRAMA | ES
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO CINE DRAMA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_f64771bc56364ac5872940071d142064~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE DRAMA | ESP
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE DRAMA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE DRAMA | ESP
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RAKUTEN COMEDY MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_22b7b7cdb33e4a7790b350032ff6da77~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN COMEDY MOVIES | ES
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO CINE COMEDIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE COMEDIA | ESP
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME COMEDIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b852fda1b9f741a29f21d5128da05bef~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME COMEDIA | ESP
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE COMEDY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_22bb0bb8bea34713b8ed4702b765b025~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE COMEDY | ESP
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO CINE CLÁSICO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_113d396d129544d5a0ff8a4bbd2e9b3a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE CLÁSICO | ESP
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="0" id="XTREMA CINE HINDI | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d04b8d948a9146809a27655fbcfbdb8e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE HINDI | ESP
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RUN:TIME CLÁSICOS | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b3ddc8d6824043fbaaf57efbc667dc00~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CLÁSICOS | ESP
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="HORRORFY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_9daa2f9022a84bcdbdf063230805e692~mv2.jpg" group-title="ABSOLUTAMENTE CINE",HORRORFY | ESP
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="JUNTOS | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_400a4e83aa2e443197ac54f3d506fc3e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",JUNTOS | ESP
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TOP CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_46b55838105047af9ea6c41b8aee5004~mv2.jpg" group-title="ABSOLUTAMENTE CINE",TOP CINE | ESP
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TU CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="ABSOLUTAMENTE CINE",TU CINE | ESP
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CINE REAL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE REAL | ESP
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CINE SUREÑO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE SUREÑO | ESP
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-chno="0" id="IMAGEN UNIVERSAL | DO" tvg-logo="https://static.wixstatic.com/media/526a76_b8728304118a4d949fe4d976164c137e~mv2.jpg" group-title="AAA CINE",IMAGEN UNIVERSAL | DO
@@ -23,8 +175,7 @@ http://204.12.202.90:8080/playgt/playgt2023/103
 #EXTINF:-1 tvg-chno="0" id="PLANETA TV MOVIE | CL" tvg-logo="https://static.wixstatic.com/media/526a76_9c09f2f95f51479c8c418f25cfc5ab82~mv2.jpg" group-title="AAA CINE",PLANETA TV MOVIE | CL
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="SONY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="AAA CINE",SONY | ESP
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="0" id="OPINIÓN SUR | CL" tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="AAA CINE",OPINIÓN SUR | CL
 https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
@@ -44,8 +195,7 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="COTO BRUS | CR" tvg-logo="https://static.wixstatic.com/media/526a76_67ad41ce96d14d94a111a36f2408d9f2~mv2.jpg" group-title="AAA CINE",COTO BRUS | CR
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="1" id="VIX CINE CLUB | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_e0b98e22339648539c595e62c673bfe4~mv2.jpg" group-title="AAA CINE",VIX CINE CLUB | ESP
-https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
+
 
 #EXTINF:-1 tvg-chno="0" id="ORIGEN | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="AAA CINE",ORIGEN | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
@@ -91,134 +241,7 @@ https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="0" id="CINE AR * | AR" tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="AAB CINE",CINE AR | AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="A3CINE | ES" tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="AAB CINE",A3CINE | ES
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CINEMA + | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="AAB CINE",CINEMA + | ESP
-http://hvtrafico.ddns.net:1935/cinema720/cinema720.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="MY TIME ESPAÑA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="AAB CINE",MY TIME ESPAÑA | ES
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="MY TIME MÉXICO | MX" tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="AAB CINE",MY TIME MÉXICO | MX
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN TOP FREE MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_c7a70caadddd4990ad8e006a474bef97~mv2.jpg" group-title="AAB CINE",RAKUTEN TOP FREE MOVIES| ESP
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE ESTELAR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="AAB CINE",PLUTO CINE ESTELAR | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME TRASH | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg" group-title="AAB CINE",RUN:TIME TRASH | ESP
-https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE LATINO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2e55a0fc10b14eae9edab2efd3915c34~mv2.jpg" group-title="AAB CINE",XTREMA CINE LATINO | ESP
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="AAB CINE",PLUTO CINE | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="AAB CINE",RUN:TIME CINE | ESP
-https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE EUROPA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_ffc8ddec28d44f1283a1e237060622d8~mv2.jpg" group-title="AAB CINE",XTREMA CINE EUROPA | ESP
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN ESPAÑOL MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_db4385121db8408f9d119f9039dbfa38~mv2.jpg" group-title="AAB CINE",RAKUTEN ESPAÑOL MOVIES| ESP
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/26bd87a4-89f6-412b-ad94-e87f6b24ac97/0.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE ASIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_0176d4215fd34fa3a5268259be3ce3ac~mv2.jpg" group-title="AAB CINE",XTREMA CINE ASIA | ESP
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME ROMANCE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_3f0b69a288304c208459b6c07b954243~mv2.jpg" group-title="AAB CINE",RUN:TIME ROMANCE | ESP
-https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE FAMILY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_03b94af8e5614cc0a3ae450987953e73~mv2.jpg" group-title="AAB CINE",XTREMA CINE FAMILY | ESP
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN ROMÁNTICO MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="AAB CINE",RAKUTEN ROMÁNTICO MOVIES | ESP
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/66bd9575-1e03-4866-b186-013c347c2d01/0.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME THRILLER | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="AAB CINE",RUN:TIME THRILLER | ESP
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE SUSPENSO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="AAB CINE",XTREMA CINE SUSPENSO | ESP
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN THRILLERS MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_fd850da9daa24f788a15d98d6b7ea73d~mv2.jpg" group-title="AAB CINE",RAKUTEN THRILLERS MOVIES | ESP
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/b0030d4c-ac24-4a59-906c-7cc3cff4240d/0.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE TERROR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="AAB CINE",PLUTO CINE TERROR | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME CRIMEN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg" group-title="AAB CINE",RUN:TIME CRIMEN | ESP
-https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE TERROR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_afdf50109eed4d80a5b92b6c2bf0c79d~mv2.jpg" group-title="AAB CINE",XTREMA CINE TERROR | ESP
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RAKUTEN ACTION MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="AAB CINE",RAKUTEN ACTION MOVIES | ES
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="AAB CINE",PLUTO CINE ACCIÓN | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="AAB CINE",RUN:TIME ACCIÓN | ESP
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="AAB CINE",XTREMA CINE ACCIÓN | ESP
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RAKUTEN DRAMA MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="AAB CINE",RAKUTEN DRAMA | ES
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE DRAMA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_f64771bc56364ac5872940071d142064~mv2.jpg" group-title="AAB CINE",PLUTO CINE DRAMA | ESP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE DRAMA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="AAB CINE",XTREMA CINE DRAMA | ESP
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RAKUTEN COMEDY MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_22b7b7cdb33e4a7790b350032ff6da77~mv2.jpg" group-title="AAB CINE",RAKUTEN COMEDY MOVIES | ES
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE COMEDIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="AAB CINE",PLUTO CINE COMEDIA | ESP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME COMEDIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b852fda1b9f741a29f21d5128da05bef~mv2.jpg" group-title="AAB CINE",RUN:TIME COMEDIA | ESP
-https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE COMEDY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_22bb0bb8bea34713b8ed4702b765b025~mv2.jpg" group-title="AAB CINE",XTREMA CINE COMEDY | ESP
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE CLÁSICO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_113d396d129544d5a0ff8a4bbd2e9b3a~mv2.jpg" group-title="AAB CINE",PLUTO CINE CLÁSICO | ESP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE HINDI | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d04b8d948a9146809a27655fbcfbdb8e~mv2.jpg" group-title="AAB CINE",XTREMA CINE HINDI | ESP
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME CLÁSICOS | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b3ddc8d6824043fbaaf57efbc667dc00~mv2.jpg" group-title="AAB CINE",RUN:TIME CLÁSICOS | ESP
-https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="HORRORFY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_9daa2f9022a84bcdbdf063230805e692~mv2.jpg" group-title="AAB CINE",HORRORFY | ESP
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="JUNTOS | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_400a4e83aa2e443197ac54f3d506fc3e~mv2.jpg" group-title="AAB CINE",JUNTOS | ESP
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TOP CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_46b55838105047af9ea6c41b8aee5004~mv2.jpg" group-title="AAB CINE",TOP CINE | ESP
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TU CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="AAB CINE",TU CINE | ESP
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CINE REAL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="AAB CINE",CINE REAL | ESP
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CINE SUREÑO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="AAB CINE",CINE SUREÑO | ESP
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 
 
