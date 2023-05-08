@@ -291,8 +291,7 @@ https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist_w265793327.m3u8
 #EXTINF:-1 tvg-chno="0" id="TV EN LÍNEA CUSCO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_696b2e7735f247e2a5bef6f10dc860d2~mv2.jpg" group-title="CONSTANTEMENTE CINE",TV EN LÍNEA CUSCO | PE
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 7 TELE VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg"
-group-title="CONSTANTEMENTE CINE",CANAL 7 TELE VALENCIA | ES
+#EXTINF:-1 tvg-chno="0" id="CANAL 7 TELE VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg" group title="CONSTANTEMENTE CINE",CANAL 7 TELE VALENCIA | ES
 https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="FRECUENCIA MUSICAL | EC" tvg-logo="https://static.wixstatic.com/media/526a76_fea78cc689e5475d8bfc7b2bc02610e4~mv2.jpg" group-title="CONSTANTEMENTE CINE",FRECUENCIA MUSICAL | EC
