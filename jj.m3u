@@ -380,56 +380,55 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-chno="0" id="ABYA YALA TV | BO" tvg-logo="https://static.wixstatic.com/media/526a76_c92b05559ef346f08675328cc721d065~mv2.jpg" group-title="DISCONTINUO CINE",ABYA YALA TV | BO
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-chno="0" id="ANZOÁTEGUI  | VE" group-title="REVISIÓN",ANZOÁTEGUI  | VE
+#EXTINF:-1 tvg-chno="0" id="ANZOÁTEGUI TELEVISIÓN | VE" tvg-logo="https://static.wixstatic.com/media/526a76_73cfefa0dcf54b41a535e28f9be35540~mv2.jpg" group-title="DISCONTINUO CINE",ANZOÁTEGUI TELEVISIÓN | VE
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ATN | CO" group-title="REVISIÓN",ATN | CO
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-chno="0" id="ATV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_3fb50cb072e94d89b9b14ef196a11c1d~mv2.jpg" group-title="DISCONTINUO CINE",ATV | PE
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ATV | PE" group-title="REVISIÓN",ATV | PE
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="0" id="BAJO TECHO | DO" group-title="REVISIÓN",BAJO TECHO | DO
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
@@ -666,6 +665,9 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 
 #EXTINF:-1 tvg-chno="0" id="TELEMAX | AR" group-title="EDUCATIVO",TELEMAX | AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ATN | CO" group-title="EDUCATIVO",ATN | CO
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TELEPACÍFICO | CO" group-title="EDUCATIVO",TELEPACÍFICO | CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
