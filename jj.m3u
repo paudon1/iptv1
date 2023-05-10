@@ -368,7 +368,7 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-chno="0" id="TELESUR MOLLENDO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_8ab7d918a5324989b087c01f8023e7b9~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR MOLLENDO | PE
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 9 NORDESTE | AR" tvg-logo="https://static.wixstatic.com/media/526a76_ea5aa4e999a84c6f9561a871a29944f5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 9 DEL NORDESTE | AR
+#EXTINF:-1 tvg-chno="0" id="CANAL 9 NORDESTE | AR" tvg-logo="https://static.wixstatic.com/media/526a76_ea5aa4e999a84c6f9561a871a29944f5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 9 NORDESTE | AR
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="E ALTOMAYO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_edec279ed59d4e1184f36cd8f5b8addb~mv2.jpg" group-title="DISCONTINUAMENTE CINE",E ALTOMAYO | PE
@@ -434,9 +434,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="CANAL 8 CATACAOS | PE" tvg-logo="https://static.wixstatic.com/media/526a76_33bd263260c942b683075124d0b4aba2~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 8 CATACAOS | PE
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 9 NORDESTE | AR" tvg-logo="https://static.wixstatic.com/media/526a76_ea5aa4e999a84c6f9561a871a29944f5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 9 NORDESTE | AR
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="CONTIVISION | CL" tvg-logo="https://static.wixstatic.com/media/526a76_90f726b7b5744932914acdc7dbc16f98~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CONTIVISION | CL
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 
@@ -484,9 +481,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CROSSING | AR" tvg-logo="https://static.wixstatic.com/media/526a76_9a21792cbefa48a595dbbbe4ebebac92~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CROSSING | AR
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="E ALTOMAYO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_f5823046dc254e8d889bb1cf74e40e4c~mv2.jpg" group-title="DISCONTINUAMENTE CINE",E ALTOMAYO | PE
-https://stream.plixitv.live/westv/westv/playlist.m3u8
 
 
 
