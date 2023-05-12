@@ -404,7 +404,7 @@ https://tv.clientetvstudio.net:3012/live/dalestreamlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="BUIN SOMOS TODOS | CL" tvg-logo="https://static.wixstatic.com/media/526a76_4d93060900ee4a5fb5686affaae845f0~mv2.jpg" group-title="DISCONTINUAMENTE CINE",BUIN SOMOS TODOS | CL
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UNIVERS VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_5624a6899cab4a748386cb98ee001eec~mv2.jpg" group-title="DISCONTINUAMENTE CINE",UNIVERS VALENCIA | ES
+#EXTINF:-1 tvg-chno="0" id="UNIVERS TV VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_5624a6899cab4a748386cb98ee001eec~mv2.jpg" group-title="DISCONTINUAMENTE CINE",UNIVERS TV VALENCIA | ES
 https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CANAL 26 | AR" tvg-logo="https://static.wixstatic.com/media/526a76_629939f26ba74c51a437094cbbce05b3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 26 | AR
@@ -482,16 +482,28 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="CROSSING | AR" tvg-logo="https://static.wixstatic.com/media/526a76_9a21792cbefa48a595dbbbe4ebebac92~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CROSSING | AR
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-chno="0" id="CAPITAL | CO" group-title="REVISIÓN",CAPITAL | CO
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CENTRAL | PE" group-title="REVISIÓN",CENTRAL | PE
+#EXTINF:-1 tvg-chno="0" id="CENTRAL TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_2d72b89acbc444b684836993abd170ee~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CENTRAL TV | PE
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="POP TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_9ba227d7d07440bc8194f94adfa827c7~mv2.jpg" group-title="DISCONTINUAMENTE CINE",POP TV | CL
+https://v4.tustreaming.cl/poptv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="WOW TV | SV" tvg-logo="https://static.wixstatic.com/media/526a76_cb678b9c473a4ed283b36d112014cf89~mv2.jpg" group-title="DISCONTINUAMENTE CINE",WOW TV | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="VISIÓN TV | GT" tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
+http://204.12.202.90:8080/playgt/playgt2023/59
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 6 VZ TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_2174ddd313c347f18c22d6bf2af715ea~mv2.jpg" group-title="REVISIÓN",CANAL 6 VZ TV | PE
+https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="MEGA JAÉN | PE" tvg-logo="https://static.wixstatic.com/media/526a76_77503ec7109941138eb249893cde7b64~mv2.jpg"group-title="REVISIÓN",MEGA JAÉN | PE
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="0" id="CREO | PE" group-title="REVISIÓN",CREO | PE
 https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
@@ -502,35 +514,16 @@ http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="PANAMERICANA | PE" group-title="REVISIÓN",PANAMERICANA | PE
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="POP MEDIA | CL" group-title="REVISIÓN",POP MEDIA | CL
-https://v4.tustreaming.cl/poptv/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="RNC MÁS | CO" group-title="REVISIÓN",RNC MÁS | CO
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TELENOVISA 43 | DO" group-title="REVISIÓN",TELENOVISA 43 | DO
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TEN | HN" group-title="REVISIÓN",TEN | HN
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="VZ | PE" group-title="REVISIÓN",VZ | PE
-https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="WOW | SV" group-title="REVISIÓN",WOW | SV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CANAL 5 | GT" tvg-logo="https://static.wixstatic.com/media/526a76_7347c1b9b636412b816099f6362d7d75~mv2.jpg" group-title="REVISIÓN",CANAL 5 | GT
-http://204.12.202.90:8080/playgt/playgt2023/141
-
 #EXTINF:-1 tvg-chno="0" id="LATINO KIDS | UY" tvg-logo="https://static.wixstatic.com/media/526a76_3d7f62417bcc4604875e3148fa79ce20~mv2.jpg" group-title="REVISIÓN",LATINO KIDS | UY
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MEGA JAÉN | PE" group-title="REVISIÓN",MEGA JAÉN | PE
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MULTICANAL | EC" group-title="REVISIÓN",MULTICANAL | EC
-https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="ONDA DIGITAL | PE" group-title="REVISIÓN",ONDA DIGITAL | PE
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
@@ -547,14 +540,8 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-chno="0" id="SI | DO" group-title="REVISIÓN",SI | DO
 http://190.122.104.221/Player/sitv.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TVS | GT" group-title="REVISIÓN",TVS | GT
-http://204.12.202.90:8080/playgt/playgt2023/60
-
 #EXTINF:-1 tvg-chno="0" id="URBANA | AR" group-title="REVISIÓN",URBANA | AR
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="VISIÓN | GT" group-title="REVISIÓN",VISIÓN | GT
-http://204.12.202.90:8080/playgt/playgt2023/59
 
 #EXTINF:-1 tvg-chno="0" id="VISIÓN DORADA | CO" group-title="REVISIÓN",VISIÓN DORADA | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8
@@ -614,6 +601,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1
 
 #EXTINF:-1 tvg-chno="0" id="ATN | CO" group-title="EDUCATIVO",ATN | CO
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CAPITAL | CO" group-title="EDUCATIVP",CAPITAL | CO
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TELEPACÍFICO | CO" group-title="EDUCATIVO",TELEPACÍFICO | CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
