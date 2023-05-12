@@ -494,10 +494,10 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="VISIÓN TV | GT" tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
 http://204.12.202.90:8080/playgt/playgt2023/59
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 6 VZ TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_2174ddd313c347f18c22d6bf2af715ea~mv2.jpg" group-title="REVISIÓN",CANAL 6 VZ TV | PE
+#EXTINF:-1 tvg-chno="0" id="CANAL 6 VZ TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_2174ddd313c347f18c22d6bf2af715ea~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 6 VZ TV | PE
 https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MEGA JAÉN | PE" tvg-logo="https://static.wixstatic.com/media/526a76_77503ec7109941138eb249893cde7b64~mv2.jpg"group-title="REVISIÓN",MEGA JAÉN | PE
+#EXTINF:-1 tvg-chno="0" id="MEGA JAÉN | PE" tvg-logo="https://static.wixstatic.com/media/526a76_77503ec7109941138eb249893cde7b64~mv2.jpg"group-title="DISCONTINUAMENTE CINE",MEGA JAÉN | PE
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 
