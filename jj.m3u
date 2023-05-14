@@ -804,16 +804,16 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w13422
 
 
 
-#EXTINF:-1 tvg-chno="0" id="EGM TV | CL" group-title="REVISIÓN",EGM TV | CL
+#EXTINF:-1 tvg-chno="0" id="EGM TV | CL" group-title="X",EGM TV | CL
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="V | HN" group-title="REVISIÓN",V | HN
+#EXTINF:-1 tvg-chno="0" id="V | HN" group-title="X",V | HN
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TEN | HN" group-title="REVISIÓN",TEN | HN
+#EXTINF:-1 tvg-chno="0" id="TEN | HN" group-title="X",TEN | HN
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ONDA DIGITAL | PE" group-title="REVISIÓN",ONDA DIGITAL | PE
+#EXTINF:-1 tvg-chno="0" id="ONDA DIGITAL | PE" group-title="X",ONDA DIGITAL | PE
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="MEGAVISIÓN | DO" group-title="X",MEGAVISIÓN | DO
@@ -828,10 +828,10 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="BAJO TECHO TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_dd2b360db3b1434382b3157ef157b426~mv2.jpg" group-title="X",BAJO TECHO TV | DO
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PICHILEMU | CL" group-title="REVISIÓN",PICHILEMU | CL
+#EXTINF:-1 tvg-chno="0" id="PICHILEMU | CL" group-title="X",PICHILEMU | CL
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="LATINO KIDS | UY" tvg-logo="https://static.wixstatic.com/media/526a76_3d7f62417bcc4604875e3148fa79ce20~mv2.jpg" group-title="REVISIÓN",LATINO KIDS | UY
+#EXTINF:-1 tvg-chno="0" id="LATINO KIDS | UY" tvg-logo="https://static.wixstatic.com/media/526a76_3d7f62417bcc4604875e3148fa79ce20~mv2.jpg" group-title="X",LATINO KIDS | UY
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="SOMOS DEL ESTE | PY" tvg-logo="https://static.wixstatic.com/media/526a76_2721a650789b4e80bde43cd5c360bea0~mv2.jpg" group-title="X",SOMOS DEL ESTE | PY
