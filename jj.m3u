@@ -524,12 +524,18 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-chno="0" id="SI TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_a52990b68048475895fea8c3c5fc3191~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SI TV | DO
 http://190.122.104.221/Player/sitv.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="MEGAVISIÓN | DO" tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="DISCONTINUAMENTE CINE",MEGAVISIÓN | DO
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="V TV | HN" tvg-logo="https://static.wixstatic.com/media/526a76_5f345d350eb24b3889b2bdb01cf444bb~mv2.jpg" group-title="DISCONTINUAMENTE CINE",V TV | HN
+https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 11 | MX" group-title="EDUCATIVO",CANAL 11 | MX
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 11 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="EDUCATIVO",CANAL 11 | MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="PLUTO NATURALEZA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_79d344c48ace498885ec35e8ec8e31cf~mv2.jpg" group-title="EDUCATIVO",PLUTO NATURALEZA | ESP
@@ -538,7 +544,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 #EXTINF:-1 tvg-chno="0" id="PLUTO MUNDO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_948cee9f02a841ddad43b64fefedf1c7~mv2.jpg" group-title="EDUCATIVO",PLUTO MUNDO | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="0" id="TELEMAX | AR" group-title="EDUCATIVO",TELEMAX | AR
+#EXTINF:-1 tvg-chno="0" id="TELEMAX | AR" tvg-logo="https://static.wixstatic.com/media/526a76_747558b245dd4acc9cfc39b66e7155d2~mv2.jpg" group-title="EDUCATIVO",TELEMAX | AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="EL HISTONAUTA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_5893c90c1b19431881b70913223b81e8~mv2.jpg" group-title="EDUCATIVO",EL HISTONAUTA | AR
@@ -651,25 +657,25 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="0" id="MILENIO NOROESTE | MX" group-title="NOTICIAS",MILENIO NOROESTE | MX
+#EXTINF:-1 tvg-chno="0" id="MILENIO NOROESTE | MX" tvg-logo="https://static.wixstatic.com/media/526a76_bba2391d3a7c4aa78ae2d6ccc1dc69b2~mv2.jpg" group-title="NOTICIAS",MILENIO NOROESTE | MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="AMX NOTICIAS | MX" group-title="NOTICIAS",AMX NOTICIAS | MX
+#EXTINF:-1 tvg-chno="0" id="AMX NOTICIAS | MX" tvg-logo="https://static.wixstatic.com/media/526a76_c1843e80055443e8b65b1ef682bb7edb~mv2.jpg" group-title="NOTICIAS",AMX NOTICIAS | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="N+ BAJÍO | MX" group-title="NOTICIAS",N+ BAJÍO | MX
+#EXTINF:-1 tvg-chno="0" id="N+ BAJÍO | MX" tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="NOTICIAS",N+ BAJÍO | MX
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 44 | MX" group-title="NOTICIAS",CANAL 44 | MX
+#EXTINF:-1 tvg-chno="0" id="CANAL 44 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="NOTICIAS",CANAL 44 | MX
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NRT | MX" group-title="NOTICIAS",NRT | MX
+#EXTINF:-1 tvg-chno="0" id="NRT | MX" tvg-logo="https://static.wixstatic.com/media/526a76_a79f764c1b8d402d98c57bf458c48797~mv2.jpg" group-title="NOTICIAS",NRT | MX
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w575999523.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="EURONEWS | ESP" group-title="NOTICIAS",EURONEWS | ESP
+#EXTINF:-1 tvg-chno="0" id="EURONEWS ESPAÑOL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d6f0dcec27a543d1b7e61ead9fcba744~mv2.jpg" group-title="NOTICIAS",EURONEWS ESPAÑOL | ESP
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RT | ESP" group-title="NOTICIAS",RT | ESP
+#EXTINF:-1 tvg-chno="0" id="RT ESPAÑOL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_3b9cc8efa2ba437a9572246c475f7cc1~mv2.jpg" group-title="NOTICIAS",RT ESPAÑOL | ESP
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
@@ -799,56 +805,4 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-chno="0" id="TOP LATINO | PE" group-title="SONO-RITMO",TOP LATINO | PE
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w1342272007.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-chno="0" id="EGM TV | CL" group-title="X",EGM TV | CL
-https://paneltv.online:1936/8186/8186/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="V | HN" group-title="X",V | HN
-https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TEN | HN" group-title="X",TEN | HN
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="ONDA DIGITAL | PE" group-title="X",ONDA DIGITAL | PE
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="MEGAVISIÓN | DO" group-title="X",MEGAVISIÓN | DO
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PANAMERICANA | PE" group-title="X",PANAMERICANA | PE
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RNC MÁS | CO" group-title="X",RNC MÁS | CO
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="BAJO TECHO TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_dd2b360db3b1434382b3157ef157b426~mv2.jpg" group-title="X",BAJO TECHO TV | DO
-https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PICHILEMU | CL" group-title="X",PICHILEMU | CL
-https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="LATINO KIDS | UY" tvg-logo="https://static.wixstatic.com/media/526a76_3d7f62417bcc4604875e3148fa79ce20~mv2.jpg" group-title="X",LATINO KIDS | UY
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="SOMOS DEL ESTE | PY" tvg-logo="https://static.wixstatic.com/media/526a76_2721a650789b4e80bde43cd5c360bea0~mv2.jpg" group-title="X",SOMOS DEL ESTE | PY
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w2069498456.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="SOLIVE | AR" tvg-logo="https://static.wixstatic.com/media/526a76_34b3f3021cd14478b5d4dc1571d98b61~mv2.jpg" group-title="X",SOLIVE | AR
-https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="DMJ | PE" tvg-logo="https://static.wixstatic.com/media/526a76_bde6b823938c4220b1f3a2212bbc54a6~mv2.jpg" group-title="X",DMJ | PE
-https://v4.tustreaming.cl/s1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="FARO VISIÓN | DO" tvg-logo="https://static.wixstatic.com/media/526a76_d696844d1b49413d91aadba9ad6e8c5f~mv2.jpg" group-title="X",FARO VISIÓN | DO
-https://5790d294af2dc.streamlock.net/8128/8128/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TVMAS2 | CL" tvg-logo="https://static.wixstatic.com/media/526a76_09943efc25fa42a78a0661b195a1fb15~mv2.jpg" group-title="X",TVMAS2 | CL
-https://marine2.miplay.cl/tateti/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TIKICIA | CR" tvg-logo="https://static.wixstatic.com/media/526a76_c18d595628ec47a495ba07691a918190~mv2.jpg" group-title="X",TIKICIA | CR
-https://5ca9af4645e15.streamlock.net/retroxtv/videoretroxtv/chunklist_w739152635.m3u8
 
