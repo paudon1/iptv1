@@ -327,7 +327,7 @@ https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 #EXTINF:-1 tvg-chno="0" id="SENSACIÓN TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_d043f533357143809e3bf07c3aec1bf8~mv2.jpg" group-title="CONSTANTEMENTE CINE",SENSACIÓN TV | DO
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CINERAMA TELEVISIÓN | BO" tvg-logo="https://static.wixstatic.com/media/526a76_ddf047a39a964049bd937bdcc99252c7~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CINERAMA TELEVISIÓN | BO
+#EXTINF:-1 tvg-chno="0" id="CINERAMA TELEVISIÓN | BO" tvg-logo="https://static.wixstatic.com/media/526a76_ddf047a39a964049bd937bdcc99252c7~mv2.jpg" group-title="CONSTANTEMENTE CINE",CINERAMA TELEVISIÓN | BO
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
 
 
