@@ -550,10 +550,10 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1
 #EXTINF:-1 tvg-chno="0" id="EL HISTONAUTA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_5893c90c1b19431881b70913223b81e8~mv2.jpg" group-title="EDUCATIVO",EL HISTONAUTA | AR
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="DW | DE" group-title="EDUCATIVO",DW | DE
+#EXTINF:-1 tvg-chno="0" id="DW | DE" tvg-logo="https://static.wixstatic.com/media/526a76_044329ad26b143f3b2adfc67a70413fa~mv2.jpg" group-title="EDUCATIVO",DW | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CGTN | ESP" group-title="EDUCATIVO",CGTN | ESP
+#EXTINF:-1 tvg-chno="0" id="CGTN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="EDUCATIVO",CGTN | ESP
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="HISPAN | ESP" group-title="EDUCATIVO",HISPAN | ESP
