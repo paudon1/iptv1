@@ -327,6 +327,9 @@ https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 #EXTINF:-1 tvg-chno="0" id="SENSACIÓN TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_d043f533357143809e3bf07c3aec1bf8~mv2.jpg" group-title="CONSTANTEMENTE CINE",SENSACIÓN TV | DO
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="CINERAMA TELEVISIÓN | BO" tvg-logo="https://static.wixstatic.com/media/526a76_ddf047a39a964049bd937bdcc99252c7~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CINERAMA TELEVISIÓN | BO
+https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
+
 
 
 
@@ -335,8 +338,8 @@ https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="TELEMIX! | AR" tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELEMIX! | AR
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CINERAMA TELEVISIÓN | BO" tvg-logo="https://static.wixstatic.com/media/526a76_ddf047a39a964049bd937bdcc99252c7~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CINERAMA TELEVISIÓN | BO
-https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="0" id="CR TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_86a068d60d794841879809cec89a2d8e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CR TV | PE
 https://live.obslivestream.com/crtvmux/index.m3u8
