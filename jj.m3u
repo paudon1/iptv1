@@ -338,9 +338,6 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
 #EXTINF:-1 tvg-chno="0" id="TELEMIX! | AR" tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELEMIX! | AR
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-chno="0" id="CR TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_86a068d60d794841879809cec89a2d8e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CR TV | PE
 https://live.obslivestream.com/crtvmux/index.m3u8
 
@@ -559,25 +556,25 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno="0" id="CGTN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="EDUCATIVO",CGTN | ESP
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="HISPAN | ESP" group-title="EDUCATIVO",HISPAN | ESP
+#EXTINF:-1 tvg-chno="0" id="HISPAN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d25f22b5108441dd910aeaf13d0cc830~mv2.jpg" group-title="EDUCATIVO",HISPAN | ESP
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ENCUENTRO | AR" group-title="EDUCATIVO",ENCUENTRO | AR
+#EXTINF:-1 tvg-chno="0" id="ENCUENTRO | AR" tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="EDUCATIVO",ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="HIPER TV | CL" group-title="EDUCATIVO",HIPER TV | CL
+#EXTINF:-1 tvg-chno="0" id="HIPER TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="EDUCATIVO",HIPER TV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TVBUAP | MX" tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="EDUCATIVO",TVBUAP | MX
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ILCE | ESP" group-title="EDUCATIVO",ILCE | ESP
+#EXTINF:-1 tvg-chno="0" id="ILCE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="EDUCATIVO",ILCE | ESP
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w364183830_b2430208.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ZOOM | CO" group-title="EDUCATIVO",ZOOM | CO
+#EXTINF:-1 tvg-chno="0" id="ZOOM | CO" tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="EDUCATIVO",ZOOM | CO
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TEC | AR" group-title="EDUCATIVO",TEC | AR
+#EXTINF:-1 tvg-chno="0" id="TEC | AR" tvg-logo="https://static.wixstatic.com/media/526a76_f5d55ada86da4e038734b29251e01b30~mv2.jpg" group-title="EDUCATIVO",TEC | AR
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="UCV 2 | CL" group-title="EDUCATIVO",UCV 2 | CL
