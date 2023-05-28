@@ -313,13 +313,6 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
 
 
 
-
-#EXTINF:-1 tvg-chno="0" id="CR TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_86a068d60d794841879809cec89a2d8e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CR TV | PE
-https://live.obslivestream.com/crtvmux/index.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CANAL 6 MAR DEL PLATA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_6f69842bed7a43da9b5ef060cabe3ebe~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 6 MAR DEL PLATA | AR
-https://panel.dattalive.com/8166/8166/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="CANAL 20 W TV | NI" tvg-logo="https://static.wixstatic.com/media/526a76_dfbe468675bb4479bb9f177961558a19~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 20 W TV | NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
@@ -368,12 +361,6 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-chno=0" id="CANAL 34 SAN JUAN | AR" tvg-logo="https://static.wixstatic.com/media/526a76_e9b5fede45524044ba169ce665646416~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 34 SAN JUAN | AR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NATIVA TELEVISIÓN | PE" tvg-logo="https://static.wixstatic.com/media/526a76_e848b035b8a54d4db0bff5d67b227f1e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",NATIVA TELEVISIÓN | PE
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="SEÑAL 21 TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_8d3d5592beca4ccabe325b946fac0b6a~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SEÑAL 21 TV | CL
-https://tv.clientetvstudio.net:3012/live/dalestreamlive.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="BUIN SOMOS TODOS | CL" tvg-logo="https://static.wixstatic.com/media/526a76_4d93060900ee4a5fb5686affaae845f0~mv2.jpg" group-title="DISCONTINUAMENTE CINE",BUIN SOMOS TODOS | CL
 https://bst.buin.cl/0.m3u8
 
@@ -404,9 +391,6 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="CANAL 4 JUJUY | SV" tvg-logo="https://static.wixstatic.com/media/526a76_a22e4b109bd046b2bc14469dd262a93a~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 4 JUJUY | SV
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 8 CATACAOS | PE" tvg-logo="https://static.wixstatic.com/media/526a76_33bd263260c942b683075124d0b4aba2~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 8 CATACAOS | PE
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="CONTIVISION | CL" tvg-logo="https://static.wixstatic.com/media/526a76_90f726b7b5744932914acdc7dbc16f98~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CONTIVISION | CL
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 
@@ -422,17 +406,11 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="LA CALETA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_802e36c102d74f378d284f7eb6fc9fda~mv2.jpg" group-title="DISCONTINUAMENTE CINE",LA CALETA TV | PE
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="LA MELINKANA | CL" tvg-logo="https://static.wixstatic.com/media/526a76_58e51066992548b2a31e199ac6d47b41~mv2.jpg" group-title="DISCONTINUAMENTE CINE",LA MELINKANA | CL
-https://v1.tustreaming.cl/melinkana/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="LUNA TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_f78c26505e204319ab58628fb456207c~mv2.jpg" group-title="DISCONTINUAMENTE CINE",LUNA TV | DO
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TELECÓNDOR | AR" tvg-logo="https://static.wixstatic.com/media/526a76_98b26496a0144987b1dd9f6f943e9d80~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELECÓNDOR | AR
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TELECREATIVA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_fd4260f72b414d43b0598b720c45235e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELECREATIVA | AR
-https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TVMAXCBA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_5b71fc14da004bcc8c41979646cf38ce~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TVMAXCBA | AR
 https://panel.dattalive.com:443/8976/8976/playlist.m3u8
@@ -467,9 +445,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="VISIÓN TV | GT" tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
 http://204.12.202.90:8080/playgt/playgt2023/59
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 6 VZ TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_2174ddd313c347f18c22d6bf2af715ea~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 6 VZ TV | PE
-https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="MEGA JAÉN | PE" tvg-logo="https://static.wixstatic.com/media/526a76_8137d4efbf854ea68d82f10e28b0288f~mv2.jpg" group-title="DISCONTINUAMENTE CINE",MEGA JAÉN | PE
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
@@ -499,9 +474,6 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="SI TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_a52990b68048475895fea8c3c5fc3191~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SI TV | DO
 http://190.122.104.221/Player/sitv.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="MEGAVISIÓN | DO" tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="DISCONTINUAMENTE CINE",MEGAVISIÓN | DO
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="V TV | HN" tvg-logo="https://static.wixstatic.com/media/526a76_5f345d350eb24b3889b2bdb01cf444bb~mv2.jpg" group-title="DISCONTINUAMENTE CINE",V TV | HN
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
