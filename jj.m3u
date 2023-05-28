@@ -60,7 +60,7 @@ https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id=RAKUTEN ROMÁNTICO MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ROMÁNTICO MOVIES | ESP
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/66bd9575-1e03-4866-b186-013c347c2d01/0.m3u8
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/23002c5b-db3b-4940-becc-f0beb10e9ce3/2.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="RUN:TIME THRILLER | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME THRILLER | ESP
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
