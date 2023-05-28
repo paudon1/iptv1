@@ -175,9 +175,6 @@ https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="BELLA ASUNCIÓN TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="BÁSICAMENTE CINE",BELLA ASUNCIÓN TV | PE
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TC TELE CARIBE | DO" tvg-logo="https://static.wixstatic.com/media/526a76_4fbdaa89dfa44228a87f724d7d1ce097~mv2.jpg" group-title="BÁSICAMENTE CINE",TC TELE CARIBE | DO
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="PLANETA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_235a2829e9dd468089efe6b77e08172c~mv2.jpg" group-title="BÁSICAMENTE CINE",PLANETA TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8
 
