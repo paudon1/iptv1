@@ -243,9 +243,6 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="TELE CINCO TRELEW | AR" tvg-logo="https://static.wixstatic.com/media/526a76_24c6c40489044485b4367089f93744bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELE CINCO TRELEW | AR
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CNI DIGITAL SAMAYAC | GT" tvg-logo="https://static.wixstatic.com/media/526a76_d4361f45f8494a42852832b89b5b4ae3~mv2.jpg" group-title="CONSTANTEMENTE CINE",CNI DIGITAL SAMAYAC | GT
-http://204.12.202.90:8080/playgt/playgt2023/143
-
 #EXTINF:-1 tvg-chno="0" id="CANAL 9 TOLIMÁN | GT" tvg-logo="https://static.wixstatic.com/media/526a76_db61131e5fb445d495560c6e4e46f4a9~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 TOLIMÁN | GT
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
