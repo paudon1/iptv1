@@ -314,9 +314,6 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="0" id="TELEMIX! | AR" tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELEMIX! | AR
-https://panel.dattalive.com/8068/8068/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="CR TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_86a068d60d794841879809cec89a2d8e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CR TV | PE
 https://live.obslivestream.com/crtvmux/index.m3u8
 
