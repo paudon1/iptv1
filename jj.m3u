@@ -48,7 +48,7 @@ https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id=RAKUTEN ESPAÑOL MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ESPAÑOL MOVIES| ESP
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/26bd87a4-89f6-412b-ad94-e87f6b24ac97/0.m3u8
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/f69f7071-cd22-443f-8773-351998e86eef/2.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="XTREMA CINE ASIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_0176d4215fd34fa3a5268259be3ce3ac~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ASIA | ESP
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
