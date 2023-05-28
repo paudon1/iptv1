@@ -301,7 +301,7 @@ https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CANAL 7 TELE VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 7 TELE VALENCIA | ES
-https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+https://live-edge-eu-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="SENSACIÓN TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_d043f533357143809e3bf07c3aec1bf8~mv2.jpg" group-title="CONSTANTEMENTE CINE",SENSACIÓN TV | DO
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
