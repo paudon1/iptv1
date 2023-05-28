@@ -178,9 +178,6 @@ https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-chno="0" id="PLANETA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_235a2829e9dd468089efe6b77e08172c~mv2.jpg" group-title="BÁSICAMENTE CINE",PLANETA TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="IZABAL TV | GT" tvg-logo="https://static.wixstatic.com/media/526a76_5c2dd409deb1420d898416cf6318dc53~mv2.jpg" group-title="BÁSICAMENTE CINE",IZABAL TV | GT
-https://cdn.streamhispanatv.net:3340/live/izabaltvlive.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="SUPER TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_d44d13789de54aa3a4179a4e99b0cf6e~mv2.jpg" group-title="BÁSICAMENTE CINE",SUPER TV | CL
 https://stmv2.zcasthn.com.br/supertv/supertv/chunklist_w750474411.m3u8
 
