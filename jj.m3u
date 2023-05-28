@@ -169,9 +169,6 @@ https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="STV SAN ISIDRO | DO" tvg-logo="https://static.wixstatic.com/media/526a76_38a9cbb595534da3a0c8a3cedbc1a5d0~mv2.jpg" group-title="BÁSICAMENTE CINE",STV SAN ISIDRO | DO
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CHINCHA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_4a57b014c67c4e0387d2d57146812817~mv2.jpg" group-title="BÁSICAMENTE CINE",CHINCHA TV | PE
-https://tvdatta.com:3548/live/chinchatvlive.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="ORIGEN TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="BÁSICAMENTE CINE",ORIGEN TV | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 
