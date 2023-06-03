@@ -5,139 +5,143 @@
 
 
 
-#EXTINF:-1 tvg-chno="1" id="VIX CINE CLUB | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_e0b98e22339648539c595e62c673bfe4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",VIX CINE CLUB | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e0b98e22339648539c595e62c673bfe4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",VIX CINE CLUB | ESP
 https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="SONY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",SONY | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",SONY CINE | ESP
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CINE AR | AR" tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE AR | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE AR | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="A3CINE | ES" tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="ABSOLUTAMENTE CINE",A3CINE | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="ABSOLUTAMENTE CINE",A3CINE | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MY TIME MÉXICO | MX" tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME MÉXICO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME MÉXICO | MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="FLOU CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_7f64eeb079814963a63b5c5031c7122a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",FLOU CINE | ESP
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/26e65d16-1ce3-4b01-8f6f-cd87eab6b40b/0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7f64eeb079814963a63b5c5031c7122a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",FLOU CINE | ESP
+https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb573d16726c648d93d43d67d1ef4182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30f10da38a2b00148972945fa83439c8101b3d2d60a83458076f340cc9bf0df8644828cb5599312f10b194a2b6b988360e1af37d28b836774c60a422b1f51f5ed80f75a39b9494251fd8da1d50dfc12c08c29807421e17bf23c85349925ae0cb1e84da592b7de4c462ca5c35e1343ca87a599a11d59d067ffb1a7ce7a689cc9047940cc1f8f487e3084e9db07c19014d3e425c0e66f0a2fd7df469a93b78feefe995cd977ccc2e7dd6f44426a0a07874fe7c86bdd25d26de5cd1a2f591717c7f754c095975a357446858561dd1769fbb1cbd5dd596292364803b8338a030335cf313c7ae32ffb993a3ade235edd6738af0f6ffd2896b928e6e9dce0083fb0ccb52d9502e1ba1eede512ac6e355f0bb6f676272f227cd4fd28182346d357edc5cbe26e7b6686939ce7ce1e627d5367530898ace3758d87c32c2201c857326806767df25584318f5a336a5fc81ac0e20d71930f2228d9af3a545d6482bad4ebe4819814ef11b9a8fc3d3c75406cbf41664c0f83ecd9338c394f6d345c901f5b50a9084847d580dbe9ebff04b39470be28714e2c8ae700564751726d0f979126c348ad9718af92c959dfb5e2782d8438b04f179ac0ce1e9b87e097157ffac3561d74d9d028d5632cb574be4ad88801b2da54020f72495bfd8255eb2ddab5fb9771ed46dd4e076da47fbf8cf18cd56958f4944427416a3f762e08344662b9dec62a016bfc8325f353e2e750db323e5d3c48d3cc035f88ed7b1dd23a6a74ffd3a1e7aace1302f56dfb7bda650db2256e44809d6281e9d6f4fe977d2663b3d7fb7e49c0e2f0a42959b51f710e1da383397872c02ff3837599c77f52cef94661470ced18cc3aa990be6ec531a5d9b50dafeae79604dca13f2824dfd4f6ef00d2a806e67a759b64371b9d86e8fd2788b214e2cf8b2f83a82256d45953fe00b3f207c761df8c5c7fb3d03f0a873d5ab591bdbb8adda45b731204efb0d9691f62fbafd93eba98f21d458f0951c9424668af73c5a4b67d76db71726a5ec0041d857b88c996091722eeda512c240903021a916e686cb56e24f541f2d3ebbf3e74d54192596bf6398ed247aba73bebf1effabaaa6d36f0b95f40b247cc238d0ee295cff431af56218d6d92116def9ffff6dae3cab2808e4f0956c60acb479836a9c7af90670f452f8d5875197e8e68a9613e5a9ac05addb40d3dd6ac9a2df74605154c444a8c73d8bb1a47422f8c9c0dbed5786d646970a58331be1db04a1c971510991f7c190b08424bc1c69e4f0c019de8ad3411af0c19475476668d29/134/640x360_791841/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MY TIME ESPAÑA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME ESPAÑA | ES
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME ESPAÑA | ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN TOP FREE MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN TOP FREE MOVIES| ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN TOP FREE | ESP
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE ESTELAR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ESTELAR | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ESTELAR | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME TRASH | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME TRASH | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME TRASH | ESP
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE LATINO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2e55a0fc10b14eae9edab2efd3915c34~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE LATINO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e55a0fc10b14eae9edab2efd3915c34~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE LATINO | ESP
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CINE | ESP
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE EUROPA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_ffc8ddec28d44f1283a1e237060622d8~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE EUROPA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ffc8ddec28d44f1283a1e237060622d8~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE EUROPA | ESP
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN ESPAÑOL MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ESPAÑOL MOVIES| ESP
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/f69f7071-cd22-443f-8773-351998e86eef/2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN CINE ESPAÑOL | ESP
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/9ef20114-1e28-4711-b67a-9b1f3c322d1f/2.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE ASIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_0176d4215fd34fa3a5268259be3ce3ac~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ASIA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0176d4215fd34fa3a5268259be3ce3ac~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ASIA | ESP
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME ROMANCE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_3f0b69a288304c208459b6c07b954243~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME ROMANCE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3f0b69a288304c208459b6c07b954243~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME ROMANCE | ESP
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE FAMILY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_03b94af8e5614cc0a3ae450987953e73~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE FAMILY | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_03b94af8e5614cc0a3ae450987953e73~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE FAMILY | ESP
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN ROMÁNTICO MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ROMÁNTICO MOVIES | ESP
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/23002c5b-db3b-4940-becc-f0beb10e9ce3/2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ROMÁNTICO | ESP
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/69487293-ab08-4761-a778-3e3921b652b6/2.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME THRILLER | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME THRILLER | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME THRILLER | ESP
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE SUSPENSO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE SUSPENSO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE SUSPENSO | ESP
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id=RAKUTEN THRILLERS MOVIES | ESP tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN THRILLERS MOVIES | ESP
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/9b0b98b6-1bde-4318-8f46-d899908474e6/2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN THRILLERS | ESP
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/76eeebbe-5b4a-4cd0-9ccf-b39a8bbceb8a/2.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE TERROR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE TERROR | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE TERROR | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME CRIMEN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CRIMEN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CRIMEN | ESP
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE TERROR | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_afdf50109eed4d80a5b92b6c2bf0c79d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE TERROR | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_afdf50109eed4d80a5b92b6c2bf0c79d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE TERROR | ESP
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RAKUTEN ACTION MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ACTION MOVIES | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ACTION | ES
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ACCIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ACCIÓN | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME ACCIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME ACCIÓN | ESP
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE ACCIÓN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ACCIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ACCIÓN | ESP
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RAKUTEN DRAMA MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN DRAMA | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN DRAMA | ES
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE DRAMA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_f64771bc56364ac5872940071d142064~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE DRAMA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f64771bc56364ac5872940071d142064~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE DRAMA | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE DRAMA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE DRAMA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE DRAMA | ESP
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RAKUTEN COMEDY MOVIES | ES" tvg-logo="https://static.wixstatic.com/media/526a76_22b7b7cdb33e4a7790b350032ff6da77~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN COMEDY MOVIES | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_22b7b7cdb33e4a7790b350032ff6da77~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN COMEDY | ES
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE COMEDIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE COMEDIA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE COMEDIA | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME COMEDIA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b852fda1b9f741a29f21d5128da05bef~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME COMEDIA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b852fda1b9f741a29f21d5128da05bef~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME COMEDIA | ESP
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE COMEDY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_22bb0bb8bea34713b8ed4702b765b025~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE COMEDY | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_22bb0bb8bea34713b8ed4702b765b025~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE COMEDY | ESP
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO CINE CLÁSICO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_113d396d129544d5a0ff8a4bbd2e9b3a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE CLÁSICO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_113d396d129544d5a0ff8a4bbd2e9b3a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE CLÁSICO | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="0" id="XTREMA CINE HINDI | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d04b8d948a9146809a27655fbcfbdb8e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE HINDI | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d04b8d948a9146809a27655fbcfbdb8e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE HINDI | ESP
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RUN:TIME CLÁSICOS | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_b3ddc8d6824043fbaaf57efbc667dc00~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CLÁSICOS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3ddc8d6824043fbaaf57efbc667dc00~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CLÁSICOS | ESP
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="HORRORFY | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_9daa2f9022a84bcdbdf063230805e692~mv2.jpg" group-title="ABSOLUTAMENTE CINE",HORRORFY | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9a91dbdfc6c74e2991a486354b08d428~mv2.jpg" group-title="ABSOLUTAMENTE CINE",SPANGLISH | ESP
+https://d1rfybckk5ifoz.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Spanglish-DistroTV/8995182d-2566-4b8e-9b26-82fee37ec9e9/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9daa2f9022a84bcdbdf063230805e692~mv2.jpg" group-title="ABSOLUTAMENTE CINE",HORRORFY | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="JUNTOS | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_400a4e83aa2e443197ac54f3d506fc3e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",JUNTOS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_400a4e83aa2e443197ac54f3d506fc3e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",JUNTOS | ESP
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TOP CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_46b55838105047af9ea6c41b8aee5004~mv2.jpg" group-title="ABSOLUTAMENTE CINE",TOP CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_46b55838105047af9ea6c41b8aee5004~mv2.jpg" group-title="ABSOLUTAMENTE CINE",TOP CINE | ESP
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TU CINE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="ABSOLUTAMENTE CINE",TU CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="ABSOLUTAMENTE CINE",TU CINE | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CINE REAL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE REAL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE REAL | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CINE SUREÑO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE SUREÑO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE SUREÑO | ESP
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 
@@ -161,7 +165,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 http://204.12.202.90:8080/playgt/playgt2023/103
 
 #EXTINF:-1 tvg-chno="0" id="OPINIÓN SUR | CL" tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="BÁSICAMENTE CINE",OPINIÓN SUR | CL
-https://stmv2.zcasthn.com.br/opinionsur/opinionsur/chunklist_w1682055454.m3u8
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="GUATV | GT" tvg-logo="https://static.wixstatic.com/media/526a76_310810a1fe6240d18e22e784cdf1920c~mv2.jpg" group-title="BÁSICAMENTE CINE",GUATV | GT
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
@@ -169,14 +173,23 @@ https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="STV SAN ISIDRO | DO" tvg-logo="https://static.wixstatic.com/media/526a76_38a9cbb595534da3a0c8a3cedbc1a5d0~mv2.jpg" group-title="BÁSICAMENTE CINE",STV SAN ISIDRO | DO
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ORIGEN TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="BÁSICAMENTE CINE",ORIGEN TV | CL
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+#EXTINF:-1 tvg-chno="0" id="TV V QUINTA REGIÓN | CL" tvg-logo="https://static.wixstatic.com/media/526a76_9c67460af0d242b4958652f67f5b0355~mv2.jpg" group-title="BÁSICAMENTE CINE",TV V QUINTA REGIÓN | CL
+https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CHINCHA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_4a57b014c67c4e0387d2d57146812817~mv2.jpg" group-title="BÁSICAMENTE CINE",CHINCHA TV | PE
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="BELLA ASUNCIÓN TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="BÁSICAMENTE CINE",BELLA ASUNCIÓN TV | PE
 https://tvdatta.com:3602/stream/play.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="TC TELE CARIBE | DO" tvg-logo="https://static.wixstatic.com/media/526a76_4fbdaa89dfa44228a87f724d7d1ce097~mv2.jpg" group-title="BÁSICAMENTE CINE",TC TELE CARIBE | DO
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+
 #EXTINF:-1 tvg-chno="0" id="PLANETA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_235a2829e9dd468089efe6b77e08172c~mv2.jpg" group-title="BÁSICAMENTE CINE",PLANETA TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="IZABAL TV | GT" tvg-logo="https://static.wixstatic.com/media/526a76_5c2dd409deb1420d898416cf6318dc53~mv2.jpg" group-title="BÁSICAMENTE CINE",IZABAL TV | GT
+https://cdn.streamhispanatv.net:3340/live/izabaltvlive.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="SUPER TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_d44d13789de54aa3a4179a4e99b0cf6e~mv2.jpg" group-title="BÁSICAMENTE CINE",SUPER TV | CL
 https://stmv2.zcasthn.com.br/supertv/supertv/chunklist_w750474411.m3u8
@@ -243,6 +256,12 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="TELE CINCO TRELEW | AR" tvg-logo="https://static.wixstatic.com/media/526a76_24c6c40489044485b4367089f93744bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELE CINCO TRELEW | AR
 https://videohd.live:19360/8016/8016.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="CNI DIGITAL SAMAYAC | GT" tvg-logo="https://static.wixstatic.com/media/526a76_d4361f45f8494a42852832b89b5b4ae3~mv2.jpg" group-title="CONSTANTEMENTE CINE",CNI DIGITAL SAMAYAC | GT
+http://204.12.202.90:8080/playgt/playgt2023/143
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 9 TOLIMÁN | GT" tvg-logo="https://static.wixstatic.com/media/526a76_db61131e5fb445d495560c6e4e46f4a9~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 TOLIMÁN | GT
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+
 #EXTINF:-1 tvg-chno="0" id="EXTREMA | CR" tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="CONSTANTEMENTE CINE",EXTREMA | CR
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -266,6 +285,9 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="RETRO X TV | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2952f085e92f4900a010e6224256a06d~mv2.jpg" group-title="CONSTANTEMENTE CINE",RETRO X TV | ESP
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist_w265793327.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TV EN LÍNEA CUSCO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_696b2e7735f247e2a5bef6f10dc860d2~mv2.jpg" group-title="CONSTANTEMENTE CINE",TV EN LÍNEA CUSCO | PE
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="FRECUENCIA MUSICAL | EC" tvg-logo="https://static.wixstatic.com/media/526a76_fea78cc689e5475d8bfc7b2bc02610e4~mv2.jpg" group-title="CONSTANTEMENTE CINE",FRECUENCIA MUSICAL | EC
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -301,7 +323,7 @@ https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CANAL 7 TELE VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 7 TELE VALENCIA | ES
-https://live-edge-eu-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-1500/index.m3u8
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="SENSACIÓN TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_d043f533357143809e3bf07c3aec1bf8~mv2.jpg" group-title="CONSTANTEMENTE CINE",SENSACIÓN TV | DO
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
@@ -312,6 +334,16 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-chno="0" id="TELEMIX! | AR" tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELEMIX! | AR
+https://panel.dattalive.com/8068/8068/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CR TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_86a068d60d794841879809cec89a2d8e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CR TV | PE
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 6 MAR DEL PLATA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_6f69842bed7a43da9b5ef060cabe3ebe~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 6 MAR DEL PLATA | AR
+https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CANAL 20 W TV | NI" tvg-logo="https://static.wixstatic.com/media/526a76_dfbe468675bb4479bb9f177961558a19~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 20 W TV | NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -361,6 +393,12 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-chno=0" id="CANAL 34 SAN JUAN | AR" tvg-logo="https://static.wixstatic.com/media/526a76_e9b5fede45524044ba169ce665646416~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 34 SAN JUAN | AR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="NATIVA TELEVISIÓN | PE" tvg-logo="https://static.wixstatic.com/media/526a76_e848b035b8a54d4db0bff5d67b227f1e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",NATIVA TELEVISIÓN | PE
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="SEÑAL 21 TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_8d3d5592beca4ccabe325b946fac0b6a~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SEÑAL 21 TV | CL
+https://tv.clientetvstudio.net:3012/live/dalestreamlive.m3u8
+
 #EXTINF:-1 tvg-chno="0" id="BUIN SOMOS TODOS | CL" tvg-logo="https://static.wixstatic.com/media/526a76_4d93060900ee4a5fb5686affaae845f0~mv2.jpg" group-title="DISCONTINUAMENTE CINE",BUIN SOMOS TODOS | CL
 https://bst.buin.cl/0.m3u8
 
@@ -391,6 +429,9 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-chno="0" id="CANAL 4 JUJUY | SV" tvg-logo="https://static.wixstatic.com/media/526a76_a22e4b109bd046b2bc14469dd262a93a~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 4 JUJUY | SV
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="CANAL 8 CATACAOS | PE" tvg-logo="https://static.wixstatic.com/media/526a76_33bd263260c942b683075124d0b4aba2~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 8 CATACAOS | PE
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
 #EXTINF:-1 tvg-chno="0" id="CONTIVISION | CL" tvg-logo="https://static.wixstatic.com/media/526a76_90f726b7b5744932914acdc7dbc16f98~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CONTIVISION | CL
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 
@@ -406,11 +447,17 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="LA CALETA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_802e36c102d74f378d284f7eb6fc9fda~mv2.jpg" group-title="DISCONTINUAMENTE CINE",LA CALETA TV | PE
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="LA MELINKANA | CL" tvg-logo="https://static.wixstatic.com/media/526a76_58e51066992548b2a31e199ac6d47b41~mv2.jpg" group-title="DISCONTINUAMENTE CINE",LA MELINKANA | CL
+https://v1.tustreaming.cl/melinkana/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="0" id="LUNA TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_f78c26505e204319ab58628fb456207c~mv2.jpg" group-title="DISCONTINUAMENTE CINE",LUNA TV | DO
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TELECÓNDOR | AR" tvg-logo="https://static.wixstatic.com/media/526a76_98b26496a0144987b1dd9f6f943e9d80~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELECÓNDOR | AR
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TELECREATIVA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_fd4260f72b414d43b0598b720c45235e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELECREATIVA | AR
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="TVMAXCBA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_5b71fc14da004bcc8c41979646cf38ce~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TVMAXCBA | AR
 https://panel.dattalive.com:443/8976/8976/playlist.m3u8
@@ -445,6 +492,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="0" id="VISIÓN TV | GT" tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
 http://204.12.202.90:8080/playgt/playgt2023/59
 
+#EXTINF:-1 tvg-chno="0" id="CANAL 6 VZ TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_2174ddd313c347f18c22d6bf2af715ea~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 6 VZ TV | PE
+https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="0" id="MEGA JAÉN | PE" tvg-logo="https://static.wixstatic.com/media/526a76_8137d4efbf854ea68d82f10e28b0288f~mv2.jpg" group-title="DISCONTINUAMENTE CINE",MEGA JAÉN | PE
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
@@ -475,6 +525,288 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-chno="0" id="SI TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_a52990b68048475895fea8c3c5fc3191~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SI TV | DO
 http://190.122.104.221/Player/sitv.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="MEGAVISIÓN | DO" tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="DISCONTINUAMENTE CINE",MEGAVISIÓN | DO
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="0" id="V TV | HN" tvg-logo="https://static.wixstatic.com/media/526a76_5f345d350eb24b3889b2bdb01cf444bb~mv2.jpg" group-title="DISCONTINUAMENTE CINE",V TV | HN
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 11 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="EDUCATIVO",CANAL 11 | MX
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO NATURALEZA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_79d344c48ace498885ec35e8ec8e31cf~mv2.jpg" group-title="EDUCATIVO",PLUTO NATURALEZA | ESP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+
+#EXTINF:-1 tvg-chno="0" id="PLUTO MUNDO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_948cee9f02a841ddad43b64fefedf1c7~mv2.jpg" group-title="EDUCATIVO",PLUTO MUNDO | ESP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
+
+#EXTINF:-1 tvg-chno="0" id="TELEMAX | AR" tvg-logo="https://static.wixstatic.com/media/526a76_747558b245dd4acc9cfc39b66e7155d2~mv2.jpg" group-title="EDUCATIVO",TELEMAX | AR
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="EL HISTONAUTA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_5893c90c1b19431881b70913223b81e8~mv2.jpg" group-title="EDUCATIVO",EL HISTONAUTA | AR
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="DW | DE" tvg-logo="https://static.wixstatic.com/media/526a76_044329ad26b143f3b2adfc67a70413fa~mv2.jpg" group-title="EDUCATIVO",DW | DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CGTN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="EDUCATIVO",CGTN | ESP
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="HISPAN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d25f22b5108441dd910aeaf13d0cc830~mv2.jpg" group-title="EDUCATIVO",HISPAN | ESP
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ENCUENTRO | AR" tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="EDUCATIVO",ENCUENTRO | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="HIPER TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="EDUCATIVO",HIPER TV | CL
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TVBUAP | MX" tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="EDUCATIVO",TVBUAP | MX
+https://tvenvivo.buap.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ILCE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="EDUCATIVO",ILCE | ESP
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w364183830_b2430208.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ZOOM | CO" tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="EDUCATIVO",ZOOM | CO
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TEC | AR" tvg-logo="https://static.wixstatic.com/media/526a76_f5d55ada86da4e038734b29251e01b30~mv2.jpg" group-title="EDUCATIVO",TEC | AR
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UCV 2 | CL" tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="EDUCATIVO",UCV 2 | CL
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="SUYAI | CL" tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="EDUCATIVO",SUYAI | CL
+https://5ff3d9babae13.streamlock.net/ytptuzhund/ytptuzhund/chunklist_w427744094.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ATN | CO" group-title="EDUCATIVO",ATN | CO
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CAPITAL | CO" group-title="EDUCATIVO",CAPITAL | CO
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TELEPACÍFICO | CO" group-title="EDUCATIVO",TELEPACÍFICO | CO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CAF | CL" group-title="EDUCATIVO",CAF | CL
+https://mediacpstreamchile.com:1936/altafronteratv/altafronteratv/chunklist_w86286305.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CEACTV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_a3951cd05320476f8cafa7c7eed785d9~mv2.jpg" group-title="EDUCATIVO",CEACTV | CL
+https://live.chileservidores.com:8081/ceactv/index.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NTV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="EDUCATIVO",NTV | CL
+https://marine2.miplay.cl/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CULTURA ONLINE | CL" group-title="EDUCATIVO",CULTURA ONLINE | CL
+https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CULTURA24 | PE" group-title="EDUCATIVO",CULTURA24 | PE
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="DÉJATE DE HISTORIAS | ES" group-title="EDUCATIVO",DÉJATE DE HISTORIAS | ES
+https://ythls.onrender.com/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="EDUCANAL | PY" group-title="EDUCATIVO",EDUCANAL | PY
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="IPE | PE" group-title="EDUCATIVO",IPE | PE
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NESTING | ES" group-title="EDUCATIVO",NESTING | ES
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_53fwbvrz8js4.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PLATZI | CO" group-title="EDUCATIVO",PLATZI | CO
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TRANSMEDIA UNaM | AR" group-title="EDUCATIVO",TRANSMEDIA UNaM | AR
+http://192.100.186.53:8090/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UCL | PY" group-title="EDUCATIVO",UCL | PY
+http://162.246.18.122:8081/telepuerto-master/ucl-abr/telepuerto-01/canal_ucl_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UCT | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a6a345c40804220bfadff1ed43fee49~mv2.jpg" group-title="EDUCATIVO",UCT | CL
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UCV 1 | CL" group-title="EDUCATIVO",UCV 1 | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UESTV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_ee07e3b497374629a2bdf41bb6c3b668~mv2.jpg" group-title="EDUCATIVO",UESTV | CL
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UMAG TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1b9a3b9f60ee46ef83aca54f469352b4~mv2.jpg" group-title="EDUCATIVO",UMAG TV | CL
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/chunklist_w1068931746_b1667072.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UMAG TV 2 | CL" tvg-logo="https://static.wixstatic.com/media/526a76_c92bffe26bb447bd985d66d30958a085~mv2.jpg" group-title="EDUCATIVO",UMAG TV 2 | CL
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UNITEVE | AR" tvg-logo="https://static.wixstatic.com/media/526a76_aa680355b2fb463d89c088e6361d38e0~mv2.jpg" group-title="EDUCATIVO",UNI TEVE | AR
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UNIVERSITARIA | BO" group-title="EDUCATIVO",UNIVERSITARIA | BO
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="UNLP | AR" group-title="EDUCATIVO",UNLP | AR
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="0" id="MILENIO NOROESTE | MX" tvg-logo="https://static.wixstatic.com/media/526a76_bba2391d3a7c4aa78ae2d6ccc1dc69b2~mv2.jpg" group-title="NOTICIAS",MILENIO NOROESTE | MX
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="AMX NOTICIAS | MX" tvg-logo="https://static.wixstatic.com/media/526a76_c1843e80055443e8b65b1ef682bb7edb~mv2.jpg" group-title="NOTICIAS",AMX NOTICIAS | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="N+ BAJÍO | MX" tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="NOTICIAS",N+ BAJÍO | MX
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 44 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="NOTICIAS",CANAL 44 | MX
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NRT | MX" tvg-logo="https://static.wixstatic.com/media/526a76_a79f764c1b8d402d98c57bf458c48797~mv2.jpg" group-title="NOTICIAS",NRT | MX
+https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w575999523.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="EURONEWS ESPAÑOL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d6f0dcec27a543d1b7e61ead9fcba744~mv2.jpg" group-title="NOTICIAS",EURONEWS ESPAÑOL | ESP
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RT ESPAÑOL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_3b9cc8efa2ba437a9572246c475f7cc1~mv2.jpg" group-title="NOTICIAS",RT ESPAÑOL | ESP
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="0" id="AGUASCALIENTES | MX" group-title="MÉXICO",AGUASCALIENTES | MX
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="BAJA CALIFORNIA SUR | MX" group-title="MÉXICO",BAJA CALIFORNIA SUR | MX
+https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/chunklist_w1540659316.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CAMPECHE | MX" group-title="MÉXICO",CAMPECHE | MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CDMX | MX" group-title="MÉXICO",CDMX | MX
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CHIAPAS | MX" group-title="MÉXICO",CHIAPAS | MX
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ESTADO DE MÉXICO | MX" group-title="MÉXICO",ESTADO DE MÉXICO | MX
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1815260835.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="GUANAJUATO | MX" group-title="MÉXICO",GUANAJUATO | MX
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="GUERRERO | MX" group-title="MÉXICO",GUERRERO | MX
+https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="JALISCO | MX" group-title="MÉXICO",JALISCO | MX
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="MICHOACÁN | MX" group-title="MÉXICO",MICHOACÁN | MX
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="MORELOS | MX" group-title="MÉXICO",MORELOS | MX
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NUEVO LEÓN | MX" group-title="MÉXICO",NUEVO LEÓN | MX
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="OAXACA | MX" group-title="MÉXICO",OAXACA | MX
+https://stream.oursnetworktv.com/latin/encoder29/chunklist_w167382619.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PUEBLA | MX" group-title="MÉXICO",PUEBLA | MX
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="QUERÉTARO | MX" group-title="MÉXICO",QUERÉTARO | MX
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TABASCO | MX" group-title="MÉXICO",TABASCO | MX
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TLAXCALA | MX" group-title="MÉXICO",TLAXCALA | MX
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="VERACRUZ | MX" group-title="MÉXICO",VERACRUZ | MX
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="ZACATECAS | MX" group-title="MÉXICO",ZACATECAS | MX
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 6 CDMX | MX" group-title="MÉXICO",CANAL 6 CDMX | MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 6 MTY | MX" group-title="MÉXICO",CANAL 6 MTY | MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 10 | MX" group-title="MÉXICO",CANAL 10 | MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 12 | MX" group-title="MÉXICO",CANAL 12 | MX
+https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 14 | MX" group-title="MÉXICO",CANAL 14 | MX
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 15 | MX" group-title="MÉXICO",CANAL 15 | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400512601.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NUEVE | MX" group-title="MÉXICO",NUEVE | MX
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="PRESUMIENDO MÉXICO | MX" group-title="MÉXICO",PRESUMIENDO MÉXICO | MX
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RCG | MX" group-title="MÉXICO",RCG | MX
+https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="SUMA | MX" group-title="MÉXICO",SUMA | MX
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1680717119&e=1680717239&h=5fe56ab2b8b8b835edf38aab5a0c3253
+
+#EXTINF:-1 tvg-chno="0" id="TELE YUCATÁN | MX" group-title="MÉXICO",TELE YUCATÁN | MX
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w1797779082.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TVP | MX" group-title="MÉXICO",TVP | MX
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="XHKG TV NAYARIT | MX" group-title="MÉXICO",XHKG TV NAYARIT | MX
+https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="0" id="ORIGEN TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="SONO-RITMO",ORIGEN TV | CL
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NOW 70´s | UK" group-title="SONO-RITMO",NOW 70´S | UK
+https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NOW 80´s | UK" group-title="SONO-RITMO",NOW 80´S | UK
+https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="NOW 90´s | UK" group-title="SONO-RITMO",NOW 90´S | UK
+https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RETRO PLUS 1 | CL" group-title="SONO-RITMO",RETRO PLUS 1 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="RETRO PLUS 2 | CL" group-title="SONO-RITMO",RETRO PLUS 2 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TELERITMO | MX" group-title="SONO-RITMO",TELERITMO | MX
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="TOP LATINO | PE" group-title="SONO-RITMO",TOP LATINO | PE
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w1342272007.m3u8
+
 
