@@ -212,10 +212,10 @@ http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d13317fd154f482cab6cae719967f97b~mv2.jpg" group-title="BÁSICAMENTE CINE",AURORA MEDIA FILMS | GT
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_284e998010f24686ba8717a974f0a9e9~mv2.jpg" group-title="DISCONTINUAMENTE CINE",MEGA CINE TV | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_284e998010f24686ba8717a974f0a9e9~mv2.jpg" group-title="BÁSICAMENTE CINE",MEGA CINE TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4dcc56707de84ff4bf0474135748b3f3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TV FLORENCIA | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4dcc56707de84ff4bf0474135748b3f3~mv2.jpg" group-title="BÁSICAMENTE CINE",TV FLORENCIA | GT
 http://204.12.202.90:8080/playgt/playgt2023/96
 
 
