@@ -157,7 +157,7 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b8728304118a4d949fe4d976164c137e~mv2.jpg" group-title="BÁSICAMENTE CINE",IMAGEN UNIVERSAL TV | DO
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="BÁSICAMENTE CINE",CÁSCARA TV | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="BÁSICAMENTE CINE",CASCARA TV | DO
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="BÁSICAMENTE CINE",COSMOS | AR
@@ -168,9 +168,6 @@ http://204.12.202.90:8080/playgt/playgt2023/103
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_310810a1fe6240d18e22e784cdf1920c~mv2.jpg" group-title="BÁSICAMENTE CINE",GUATV | GT
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_38a9cbb595534da3a0c8a3cedbc1a5d0~mv2.jpg" group-title="BÁSICAMENTE CINE",STV SAN ISIDRO | DO
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4a57b014c67c4e0387d2d57146812817~mv2.jpg" group-title="BÁSICAMENTE CINE",CHINCHA TV | PE
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
@@ -228,109 +225,103 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="0" id="BLU | AR" tvg-logo="https://static.wixstatic.com/media/526a76_0da22ff57d384cb3998fbc360b2025c7~mv2.jpg" group-title="CONSTANTEMENTE CINE",BLU | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0da22ff57d384cb3998fbc360b2025c7~mv2.jpg" group-title="CONSTANTEMENTE CINE",BLU | AR
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TELERED | CR" tvg-logo="https://static.wixstatic.com/media/526a76_2e3241c819ff486eb32b931edd98aa0c~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELERED | CR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e3241c819ff486eb32b931edd98aa0c~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELERED | CR
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ORBIT | DO" tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="CONSTANTEMENTE CINE",ORBIT | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="CONSTANTEMENTE CINE",ORBIT | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="VEGA BAJA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_4678ee876f724b549e52d7065696c17b~mv2.jpg" group-title="CONSTANTEMENTE CINE",VEGA BAJA | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4678ee876f724b549e52d7065696c17b~mv2.jpg" group-title="CONSTANTEMENTE CINE",VEGA BAJA | ES
 https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="GDM | DO" tvg-logo="https://static.wixstatic.com/media/526a76_9d32739c6a284ea1a89928979d7bd290~mv2.jpg" group-title="CONSTANTEMENTE CINE",GDM | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9d32739c6a284ea1a89928979d7bd290~mv2.jpg" group-title="CONSTANTEMENTE CINE",GDM | DO
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno=0" id="CANAL 57 | CL" tvg-logo="https://static.wixstatic.com/media/526a76_e294bdb54592497a96bec86634d12e09~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 57 | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e294bdb54592497a96bec86634d12e09~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 57 | CL
 https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 9 IXCHIGUÁN | GT" tvg-logo="https://static.wixstatic.com/media/526a76_1ee76d90c9bd4423ad363454ea60cebf~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 IXCHIGUÁN | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1ee76d90c9bd4423ad363454ea60cebf~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 IXCHIGUÁN | GT
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="BOREAL TELEVISIÓN | DO" tvg-logo="https://static.wixstatic.com/media/526a76_2832659b4d844fd1ae5854903ed27a02~mv2.jpg" group-title="CONSTANTEMENTE CINE",BOREAL TELEVISIÓN | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2832659b4d844fd1ae5854903ed27a02~mv2.jpg" group-title="CONSTANTEMENTE CINE",BOREAL TELEVISIÓN | DO
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="STV SAN VITO | EC" tvg-logo="https://static.wixstatic.com/media/526a76_668574d2a6694339b06bf988a8ce5ce3~mv2.jpg" group-title="CONSTANTEMENTE CINE",STV SAN VITO | EC
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_668574d2a6694339b06bf988a8ce5ce3~mv2.jpg" group-title="CONSTANTEMENTE CINE",STV SAN VITO | EC
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TELE CINCO TRELEW | AR" tvg-logo="https://static.wixstatic.com/media/526a76_24c6c40489044485b4367089f93744bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELE CINCO TRELEW | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24c6c40489044485b4367089f93744bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELE CINCO TRELEW | AR
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CNI DIGITAL SAMAYAC | GT" tvg-logo="https://static.wixstatic.com/media/526a76_d4361f45f8494a42852832b89b5b4ae3~mv2.jpg" group-title="CONSTANTEMENTE CINE",CNI DIGITAL SAMAYAC | GT
-http://204.12.202.90:8080/playgt/playgt2023/143
-
-#EXTINF:-1 tvg-chno="0" id="CANAL 9 TOLIMÁN | GT" tvg-logo="https://static.wixstatic.com/media/526a76_db61131e5fb445d495560c6e4e46f4a9~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 TOLIMÁN | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_db61131e5fb445d495560c6e4e46f4a9~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 TOLIMÁN | GT
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="EXTREMA | CR" tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="CONSTANTEMENTE CINE",EXTREMA | CR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="CONSTANTEMENTE CINE",EXTREMA | CR
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TIGUERITOS | DO" tvg-logo="https://static.wixstatic.com/media/526a76_7ab30da9278e4afe8cf24d0442e8ac84~mv2.jpg" group-title="CONSTANTEMENTE CINE",TIGUERITOS | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7ab30da9278e4afe8cf24d0442e8ac84~mv2.jpg" group-title="CONSTANTEMENTE CINE",TIGUERITOS | DO
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w1505701865.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ONDA VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_6a35aa91c3e5474d91190546f7c59564~mv2.jpg" group-title="CONSTANTEMENTE CINE",ONDA VALENCIA | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a35aa91c3e5474d91190546f7c59564~mv2.jpg" group-title="CONSTANTEMENTE CINE",ONDA VALENCIA | ES
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="AUTÉNTICA TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_e9d0a650b347447f9f6d07fdd2f43c56~mv2.jpg" group-title="CONSTANTEMENTE CINE",AUTÉNTICA TV | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9d0a650b347447f9f6d07fdd2f43c56~mv2.jpg" group-title="CONSTANTEMENTE CINE",AUTÉNTICA TV | PE
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CITRICO | DO" tvg-logo="https://static.wixstatic.com/media/526a76_901521e9b27d4ff1a0e5ed47154143fc~mv2.jpg" group-title="CONSTANTEMENTE CINE",CITRICO | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_901521e9b27d4ff1a0e5ed47154143fc~mv2.jpg" group-title="CONSTANTEMENTE CINE",CITRICO | DO
 https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 9 TV SUR | CR" tvg-logo="https://static.wixstatic.com/media/526a76_b820c50ed4934611be86b367e13354bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 TV SUR | CR
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CANAL 8 SANTA ROSA | GT" tvg-logo="https://static.wixstatic.com/media/526a76_e7267be728c2470bb218c01f90f7b56b~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 8 SANTA ROSA | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e7267be728c2470bb218c01f90f7b56b~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 8 SANTA ROSA | GT
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RETRO X TV | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2952f085e92f4900a010e6224256a06d~mv2.jpg" group-title="CONSTANTEMENTE CINE",RETRO X TV | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2952f085e92f4900a010e6224256a06d~mv2.jpg" group-title="CONSTANTEMENTE CINE",RETRO X TV | ESP
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist_w265793327.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TV EN LÍNEA CUSCO | PE" tvg-logo="https://static.wixstatic.com/media/526a76_696b2e7735f247e2a5bef6f10dc860d2~mv2.jpg" group-title="CONSTANTEMENTE CINE",TV EN LÍNEA CUSCO | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_696b2e7735f247e2a5bef6f10dc860d2~mv2.jpg" group-title="CONSTANTEMENTE CINE",TV EN LÍNEA CUSCO | PE
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="FRECUENCIA MUSICAL | EC" tvg-logo="https://static.wixstatic.com/media/526a76_fea78cc689e5475d8bfc7b2bc02610e4~mv2.jpg" group-title="CONSTANTEMENTE CINE",FRECUENCIA MUSICAL | EC
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_fea78cc689e5475d8bfc7b2bc02610e4~mv2.jpg" group-title="CONSTANTEMENTE CINE",FRECUENCIA MUSICAL | EC
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="INKA | PE" tvg-logo="https://static.wixstatic.com/media/526a76_45df6ebc9001470fb625f169e9f2aea8~mv2.jpg" group-title="CONSTANTEMENTE CINE",INKA | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_45df6ebc9001470fb625f169e9f2aea8~mv2.jpg" group-title="CONSTANTEMENTE CINE",INKA | PE
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MEGA TV | BO" tvg-logo="https://static.wixstatic.com/media/526a76_003d99e361a5425fbd75c1257cdcbdcd~mv2.jpg" group-title="CONSTANTEMENTE CINE",MEGA TV | BO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_003d99e361a5425fbd75c1257cdcbdcd~mv2.jpg" group-title="CONSTANTEMENTE CINE",MEGA TV | BO
 https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CARACOLA TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_24498bdc6931460397ade02e4c863b8d~mv2.jpg" group-title="CONSTANTEMENTE CINE",CARACOLA TV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24498bdc6931460397ade02e4c863b8d~mv2.jpg" group-title="CONSTANTEMENTE CINE",CARACOLA TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 18 | DO" tvg-logo="https://static.wixstatic.com/media/526a76_ab585cad58e6447291c36d43298a8f02~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 18 | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ab585cad58e6447291c36d43298a8f02~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 18 | DO
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="SEO TV 4 PELÍCULAS | BO" tvg-logo="https://static.wixstatic.com/media/526a76_632829228dc04d4f91e8fa4bd8ce56f6~mv2.jpg" group-title="CONSTANTEMENTE CINE",SEO TV 4 PELÍCULAS | BO
-https://seo.tv.bo/tv/q4PE.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_632829228dc04d4f91e8fa4bd8ce56f6~mv2.jpg" group-title="CONSTANTEMENTE CINE",SEO TV 4 PELÍCULAS | BO
+https://live.seo.tv.bo/live/4SEO.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 8 PUNTA CANA TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 8 PUNTA CANA TV | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 8 PUNTA CANA TV | DO
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MEGA TV AREQUIPA | PE" tvg-logo="https://static.wixstatic.com/media/526a76_a55d48054eed4917a50b4df0a7c751bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",MEGA TV AREQUIPA | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a55d48054eed4917a50b4df0a7c751bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",MEGA TV AREQUIPA | PE
 https://hls.servidor.stream/storage/megatv.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="STV SARAPIQUI | CR" tvg-logo="https://static.wixstatic.com/media/526a76_569d7c8d19c0476ba5bb34e24636b783~mv2.jpg" group-title="CONSTANTEMENTE CINE",STV SARAPIQUI | CR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_569d7c8d19c0476ba5bb34e24636b783~mv2.jpg" group-title="CONSTANTEMENTE CINE",STV SARAPIQUI | CR
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PERÚ CHANNEL TV | PE" tvg-logo="https://static.wixstatic.com/media/526a76_7b8bf42d9243473481ff5abe019a68dc~mv2.jpg" group-title="CONSTANTEMENTE CINE",PERÚ CHANNEL TV | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7b8bf42d9243473481ff5abe019a68dc~mv2.jpg" group-title="CONSTANTEMENTE CINE",PERÚ CHANNEL TV | PE
 https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="EVAVISIÓN RETRO | CL" tvg-logo="https://static.wixstatic.com/media/526a76_bdd40dc751a54225a74c3d6348d1e569~mv2.jpg" group-title="CONSTANTEMENTE CINE",EVAVISIÓN RETRO | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bdd40dc751a54225a74c3d6348d1e569~mv2.jpg" group-title="CONSTANTEMENTE CINE",EVAVISIÓN RETRO | CL
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 7 TELE VALENCIA | ES" tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 7 TELE VALENCIA | ES
-https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 7 TELE VALENCIA | ES
+https://live-edge-eu-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-1500/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="SENSACIÓN TV | DO" tvg-logo="https://static.wixstatic.com/media/526a76_d043f533357143809e3bf07c3aec1bf8~mv2.jpg" group-title="CONSTANTEMENTE CINE",SENSACIÓN TV | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d043f533357143809e3bf07c3aec1bf8~mv2.jpg" group-title="CONSTANTEMENTE CINE",SENSACIÓN TV | DO
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CINERAMA TELEVISIÓN | BO" tvg-logo="https://static.wixstatic.com/media/526a76_ddf047a39a964049bd937bdcc99252c7~mv2.jpg" group-title="CONSTANTEMENTE CINE",CINERAMA TELEVISIÓN | BO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ddf047a39a964049bd937bdcc99252c7~mv2.jpg" group-title="CONSTANTEMENTE CINE",CINERAMA TELEVISIÓN | BO
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
 
 
@@ -532,6 +523,13 @@ https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="OPINIÓN SUR | CL" tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="DISCONTINUAMENTE CINE",OPINIÓN SUR | CL
 https://stmv2.zcasthn.com.br/opinionsur/opinionsur/chunklist_w1979429375.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_38a9cbb595534da3a0c8a3cedbc1a5d0~mv2.jpg" group-title="DISCONTINUAMENTE CINE",STV SAN ISIDRO | DO
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bde6b823938c4220b1f3a2212bbc54a6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",DMJ SUR | PE
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1438123523.m3u8
+
 
 
 
