@@ -342,6 +342,15 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1438123523.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00b7c5fcf10f4089a31f15209b6e4f16~mv2.jpg" group-title="CONSTANTEMENTE CINE",TVS RETRO | GT
 http://204.12.202.90:8080/playgt/playgt2023/60
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 100 CHINIQUE | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="CONSTANTEMENTE CINE",FULL CHANNEL | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/130.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="CONSTANTEMENTE CINE",SOL TV | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/160.m3u8
+
 
 
 
@@ -478,6 +487,24 @@ https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR ILO | PE
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",PLAY MEDIOS | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/61.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TOTO VISIÓN | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/62.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TDS | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/102.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SAS TV | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/138.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TUNE VISIÓN | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/139.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_53665095e97343d5a2080e607807fcb3~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CENTRO VISIÓN | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/166.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8ab7d918a5324989b087c01f8023e7b9~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR MOLLENDO*** | PE
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
