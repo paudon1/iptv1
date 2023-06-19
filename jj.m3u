@@ -99,7 +99,7 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE SUSPENSO | ESP
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_afdf50109eed4d80a5b92b6c2bf0c79d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE TERROR | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6797d1e488874f97ada9cfdc43198ebd~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE TERROR | ESP
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ACCIÓN | ESP
@@ -116,6 +116,12 @@ https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d04b8d948a9146809a27655fbcfbdb8e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE HINDI | ESP
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_383e75499f5f46e9a19718412cbf35a7~mv2.jpg" group-title="TELEVISIÓN",XTREMA CINE SERIES | ESP
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/chunklist_w1561257303.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d770913618e94e889161290eda6373fc~mv2.jpg" group-title="TELEVISIÓN",XTREMA CINE RETRO SERIES | ESP
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/chunklist_w11453428.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINEMA + | ESP
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
@@ -619,6 +625,8 @@ https://dcs3-live.mp.lura.live/server/podserve/jqyWyXcRp8gDh55j/rendition.m3u8?t
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_cb344529382a4d5d90d2cfa4e0e1c913~mv2.jpg" group-title="TELEVISIÓN",XTREMA ANIMAL | ESP
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/chunklist_w299029870.m3u8
 
 #EXTINF:-1 tvg-chno="0" id="CANAL 11 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="EDUCATIVO",CANAL 11 | MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
