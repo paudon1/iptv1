@@ -613,11 +613,6 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8d3d5592beca4ccabe325b946fac0b6a~mv2.jpg" group-title="REVISIÓN",SEÑAL 21 TV | CL
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e0b98e22339648539c595e62c673bfe4~mv2.jpg" group-title="REVISIÓN",VIX CINE CLUB | ESP
-https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e0b98e22339648539c595e62c673bfe4~mv2.jpg" group-title="REVISIÓN",VIX CINE* | ESP
-https://dcs3-live.mp.lura.live/server/podserve/jqyWyXcRp8gDh55j/rendition.m3u8?track=video-0&ts=1686806866&psi=007961800140629e3e6fe9f22634b4fe&encp=XCtP7xphe3xWoYzmmHdSFw:bM_9G7AW5ORu-C_-Xawdv3MLzDbMXNef6rrC8ognGyDOAGTlWGOUpbxbmP1I3WWOrYDQOgheU58snVpylPdwaA3zmyXOTjKvB4WM422_vtm52lN-Gjp5XvMYZfnWr6nRMCBYWFFdgrH8MeS5JEiYUKJ2e4yoBAaU8plcWS9jRwHrB3e-2JBHL86qCpwgr-3m7Z9l4wymhRGSH3y9CKY-jK0Zh4XFU4Jd7BOlWvFrvSnsBA1WBi-69IMRXAqDBTfRmWaxDzUABvEkylcDOtegH9X1dUl3JcTX2aqBd4L--DxiY6rQuU_YBN23rWD-iS3TGza-mWRZ2RThXnzUIof9o1HKJ6LNY9W640No0fIKWVpyfdukM_yBQ6K_jOIJJBlRGmZFeUHa81wH5SpuRAznvuE5jROmtSbhpNUNVJyFwSPSCED8SarF74J0CapfIrKOIJlG_puBwWw76hErk374ze4SlToxw8djBie3-PuQHy1tD1vJ27jiaAuTkCtIW_1kEmzFnkEKmrCbnlRchQnCCoR0nEfS82vUx9-eNHYU1yV1jpA3KNcPVf5kzDMJJ7cTbTRGl1XIWLJ6CtINfb_gKNPIHGLevTLUCwUBTfQ-6hZqDC1Hp2xxciKqAs6HerMw5Nxy65-mVBX88HDjJwL9Z4Xv7ZGRVaogJjedXyBrUWvGpPkBSzOBfdGQfxoD6OsMQR5k1SubnqB1YQeSJqwRhA2XP2qi9eYAdvF0FOwVItTN7qLmemUjUFMzNN_-g20e24BUJnfwsn0V2UNAQ9pdV1RMhz1Zcr-KYqavUmKWfaUFKu2kSjOeyUyDsBX3RvhgqcZfuapF6-AW_nVXDmLE1fEqHorPzwnyxbaSY3l50_WUoncixkUd_DLy2KMQIj12QEqx_xo47iRqO6nojR8XU_qrw9F7oFgVigKN2vCOLGibQX-1i22KaoQZ33SfcYFsreAyqD0dl6YiJ4pYj0WMSJYkJi6J7lNDD545Zg68U0phzuWpQuieUlWZUHNOIMheA_4mcyXpTD4SvmTx7tj8gw&sid=5a73fea3-2b7e-441c-97c9-c1cd1f122310:DLS
 
 
 
@@ -628,74 +623,73 @@ https://dcs3-live.mp.lura.live/server/podserve/jqyWyXcRp8gDh55j/rendition.m3u8?t
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_cb344529382a4d5d90d2cfa4e0e1c913~mv2.jpg" group-title="EDUCATIVO",XTREMA ANIMAL | ESP
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/chunklist_w299029870.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 11 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="EDUCATIVO",CANAL 11 | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="EDUCATIVO",CANAL 11 | MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO NATURALEZA | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_79d344c48ace498885ec35e8ec8e31cf~mv2.jpg" group-title="EDUCATIVO",PLUTO NATURALEZA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_79d344c48ace498885ec35e8ec8e31cf~mv2.jpg" group-title="EDUCATIVO",PLUTO NATURALEZA | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="0" id="PLUTO MUNDO | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_948cee9f02a841ddad43b64fefedf1c7~mv2.jpg" group-title="EDUCATIVO",PLUTO MUNDO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_948cee9f02a841ddad43b64fefedf1c7~mv2.jpg" group-title="EDUCATIVO",PLUTO MUNDO | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="0" id="TELEMAX | AR" tvg-logo="https://static.wixstatic.com/media/526a76_747558b245dd4acc9cfc39b66e7155d2~mv2.jpg" group-title="EDUCATIVO",TELEMAX | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_747558b245dd4acc9cfc39b66e7155d2~mv2.jpg" group-title="EDUCATIVO",TELEMAX | AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="EL HISTONAUTA | AR" tvg-logo="https://static.wixstatic.com/media/526a76_5893c90c1b19431881b70913223b81e8~mv2.jpg" group-title="EDUCATIVO",EL HISTONAUTA | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5893c90c1b19431881b70913223b81e8~mv2.jpg" group-title="EDUCATIVO",EL HISTONAUTA | AR
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="DW | DE" tvg-logo="https://static.wixstatic.com/media/526a76_044329ad26b143f3b2adfc67a70413fa~mv2.jpg" group-title="EDUCATIVO",DW | DE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_044329ad26b143f3b2adfc67a70413fa~mv2.jpg" group-title="EDUCATIVO",DW | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CGTN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="EDUCATIVO",CGTN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="EDUCATIVO",CGTN | ESP
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="HISPAN | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d25f22b5108441dd910aeaf13d0cc830~mv2.jpg" group-title="EDUCATIVO",HISPAN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d25f22b5108441dd910aeaf13d0cc830~mv2.jpg" group-title="EDUCATIVO",HISPAN | ESP
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ENCUENTRO | AR" tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="EDUCATIVO",ENCUENTRO | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="EDUCATIVO",ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="HIPER TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="EDUCATIVO",HIPER TV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="EDUCATIVO",HIPER TV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TVBUAP | MX" tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="EDUCATIVO",TVBUAP | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="EDUCATIVO",TVBUAP | MX
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ILCE | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="EDUCATIVO",ILCE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="EDUCATIVO",ILCE | ESP
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w364183830_b2430208.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ZOOM | CO" tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="EDUCATIVO",ZOOM | CO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="EDUCATIVO",ZOOM | CO
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TEC | AR" tvg-logo="https://static.wixstatic.com/media/526a76_f5d55ada86da4e038734b29251e01b30~mv2.jpg" group-title="EDUCATIVO",TEC | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f5d55ada86da4e038734b29251e01b30~mv2.jpg" group-title="EDUCATIVO",TEC | AR
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UCV 2 | CL" tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="EDUCATIVO",UCV 2 | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="EDUCATIVO",UCV 2 | CL
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="SUYAI | CL" tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="EDUCATIVO",SUYAI | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="EDUCATIVO",SUYAI | CL
 https://5ff3d9babae13.streamlock.net/ytptuzhund/ytptuzhund/chunklist_w427744094.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ATN | CO" group-title="EDUCATIVO",ATN | CO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_cd3ed54b8de2467f8d55201023f77162~mv2.jpg" group-title="EDUCATIVO",ATN | CO
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CAPITAL | CO" group-title="EDUCATIVO",CAPITAL | CO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d21ea3ebb394d559d27e425819cfeb4~mv2.jpg" group-title="EDUCATIVO",CAPITAL | CO
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TELEPACÍFICO | CO" group-title="EDUCATIVO",TELEPACÍFICO | CO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d146e25b136e4d3bba91810f880e9bdc~mv2.jpg" group-title="EDUCATIVO",TELEPACÍFICO | CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CAF | CL" group-title="EDUCATIVO",CAF | CL
-https://mediacpstreamchile.com:1936/altafronteratv/altafronteratv/chunklist_w86286305.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CEACTV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_a3951cd05320476f8cafa7c7eed785d9~mv2.jpg" group-title="EDUCATIVO",CEACTV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a3951cd05320476f8cafa7c7eed785d9~mv2.jpg" group-title="EDUCATIVO",CEACTV | CL
 https://live.chileservidores.com:8081/ceactv/index.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NTV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="EDUCATIVO",NTV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="EDUCATIVO",NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CULTURA ONLINE | CL" group-title="EDUCATIVO",CULTURA ONLINE | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="EDUCATIVO",CULTURA ONLINE | CL
 https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
+
+https://static.wixstatic.com/media/526a76_8e784fb782a340dfa771eef2f5fddc0d~mv2.jpg
 
 #EXTINF:-1 tvg-chno="0" id="CULTURA24 | PE" group-title="EDUCATIVO",CULTURA24 | PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -744,6 +738,9 @@ https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3
 
 #EXTINF:-1 tvg-chno="0" id="UNLP | AR" group-title="EDUCATIVO",UNLP | AR
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CAF | CL" group-title="EDUCATIVO",CAF | CL
+https://mediacpstreamchile.com:1936/altafronteratv/altafronteratv/chunklist_w86286305.m3u8
 
 
 
