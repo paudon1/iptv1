@@ -686,10 +686,8 @@ https://live.chileservidores.com:8081/ceactv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="EDUCATIVO",NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="EDUCATIVO",CULTURA ONLINE | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8e784fb782a340dfa771eef2f5fddc0d~mv2.jpg" group-title="EDUCATIVO",CULTURA ONLINE | CL
 https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
-
-https://static.wixstatic.com/media/526a76_8e784fb782a340dfa771eef2f5fddc0d~mv2.jpg
 
 #EXTINF:-1 tvg-chno="0" id="CULTURA24 | PE" group-title="EDUCATIVO",CULTURA24 | PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
