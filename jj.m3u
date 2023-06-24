@@ -515,10 +515,16 @@ http://204.12.202.90:8080/live/playgt/playgt2023/166.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8ab7d918a5324989b087c01f8023e7b9~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR MOLLENDO*** | PE
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 
+#EXTINF:-1 tvg-chno="0" id="ORIGEN TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="DISCONTINUAMENTE CINE",ORIGEN TV | CL
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 
 
 
 
+
+
+#EXTINF:-1 group-title="REVISIÓN",TV QUETZAL | GT
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/chunklist_b4628000.m3u8?p=79&s=1687633793&e=1687633913&h=77cf72dc87c9f3dacc553029ab44ef19
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_38a9cbb595534da3a0c8a3cedbc1a5d0~mv2.jpg" group-title="REVISIÓN",STV SAN ISIDRO | DO
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
@@ -824,8 +830,7 @@ https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="0" id="ORIGEN TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="DISCONTINUAMENTE CINE",ORIGEN TV | CL
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="0" id="NOW 70´s | UK" group-title="SONO-RITMO",NOW 70´S | UK
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
