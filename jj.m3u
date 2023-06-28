@@ -166,23 +166,11 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="BÁSICAMENTE CINE",CASCARA TV | DO
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="BÁSICAMENTE CINE",COSMOS | AR
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="BÁSICAMENTE CINE",9 CANAL BARBE TV | GT
-http://204.12.202.90:8080/playgt/playgt2023/103
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_310810a1fe6240d18e22e784cdf1920c~mv2.jpg" group-title="BÁSICAMENTE CINE",GUATV | GT
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4a57b014c67c4e0387d2d57146812817~mv2.jpg" group-title="BÁSICAMENTE CINE",CHINCHA TV | PE
-https://tvdatta.com:3548/live/chinchatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="BÁSICAMENTE CINE",TV BELLA ASUNCIÓN | PE
 https://tvdatta.com:3602/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4fbdaa89dfa44228a87f724d7d1ce097~mv2.jpg" group-title="BÁSICAMENTE CINE",TC TELE CARIBE | DO
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_235a2829e9dd468089efe6b77e08172c~mv2.jpg" group-title="BÁSICAMENTE CINE",PLANETA TV MOYOBAMBA | PE
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -199,17 +187,11 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w6662
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_28524ff377e143ce8256b1dc3a7c0565~mv2.jpg" group-title="BÁSICAMENTE CINE",RETRO PLUS 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="BÁSICAMENTE CINE",MOVIE FE | VE
-https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0d34db9a4b134222ba7d64b8e32dfc80~mv2.jpg" group-title="BÁSICAMENTE CINE",PLANETA TV FAMILY | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67ad41ce96d14d94a111a36f2408d9f2~mv2.jpg" group-title="BÁSICAMENTE CINE",CB TV COTO BRUS | CR
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_42700fd6a51b4c7693df41badb235cc6~mv2.jpg" group-title="BÁSICAMENTE CINE",BAYRES TV CANAL 41 | AR
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0dc4b8dca0b8427990d7b0bee994e56b~mv2.jpg" group-title="BÁSICAMENTE CINE",EL SOL | EC
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
@@ -218,27 +200,30 @@ http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4dcc56707de84ff4bf0474135748b3f3~mv2.jpg" group-title="BÁSICAMENTE CINE",TV FLORENCIA | GT
-http://204.12.202.90:8080/playgt/playgt2023/96
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f90577c9ee5c44b6ac9a2b9901ebb222~mv2.jpg" group-title="BÁSICAMENTE CINE",NIM TV | GT
-http://204.12.202.90:8080/playgt/playgt2023/134
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_284e998010f24686ba8717a974f0a9e9~mv2.jpg" group-title="BÁSICAMENTE CINE",MEGA CINE TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0da22ff57d384cb3998fbc360b2025c7~mv2.jpg" group-title="CONSTANTEMENTE CINE",BLU | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0da22ff57d384cb3998fbc360b2025c7~mv2.jpg" group-title="BÁSICAMENTE CINE",BLU | AR
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="BÁSICAMENTE CINE",ORBIT | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_632829228dc04d4f91e8fa4bd8ce56f6~mv2.jpg" group-title="BÁSICAMENTE CINE",SEO TV 4 PELÍCULAS | BO
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e3241c819ff486eb32b931edd98aa0c~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELERED | CR
 https://video20.klm99.com:3558/live/teleredlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="CONSTANTEMENTE CINE",ORBIT | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4678ee876f724b549e52d7065696c17b~mv2.jpg" group-title="CONSTANTEMENTE CINE",VEGA BAJA | ES
 https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
@@ -261,9 +246,6 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24c6c40489044485b4367089f93744bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELE CINCO TRELEW | AR
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_db61131e5fb445d495560c6e4e46f4a9~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 TOLIMÁN | GT
-https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="CONSTANTEMENTE CINE",EXTREMA | CR
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -277,7 +259,7 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_901521e9b27d4ff1a0e5ed47154143fc~mv2.jpg" group-title="CONSTANTEMENTE CINE",CITRICO | DO
-https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e7267be728c2470bb218c01f90f7b56b~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 8 SANTA ROSA | GT
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
@@ -300,14 +282,8 @@ https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24498bdc6931460397ade02e4c863b8d~mv2.jpg" group-title="CONSTANTEMENTE CINE",CARACOLA TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ab585cad58e6447291c36d43298a8f02~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 18 | DO
-https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_632829228dc04d4f91e8fa4bd8ce56f6~mv2.jpg" group-title="CONSTANTEMENTE CINE",SEO TV 4 PELÍCULAS | BO
-https://live.seo.tv.bo/live/4SEO.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 8 PUNTA CANA TV | DO
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a55d48054eed4917a50b4df0a7c751bf~mv2.jpg" group-title="CONSTANTEMENTE CINE",MEGA TV AREQUIPA | PE
 https://hls.servidor.stream/storage/megatv.m3u8
@@ -322,7 +298,7 @@ https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 7 TELE VALENCIA | ES
-https://live-edge-eu-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-1500/index.m3u8
+https://live-edge-eu-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d043f533357143809e3bf07c3aec1bf8~mv2.jpg" group-title="CONSTANTEMENTE CINE",SENSACIÓN TV | DO
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
@@ -346,21 +322,23 @@ https://stmv2.zcasthn.com.br/opinionsur/opinionsur/chunklist_w1979429375.m3u8
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1438123523.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00b7c5fcf10f4089a31f15209b6e4f16~mv2.jpg" group-title="CONSTANTEMENTE CINE",TVS RETRO | GT
-http://204.12.202.90:8080/playgt/playgt2023/60
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f270fb0c22b741d98f1ec28aeb525a8f~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 100 CHINIQUE | GT
 http://204.12.202.90:8080/live/playgt/playgt2023/106.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_30c45a4e19ac45498abcfb3569812e87~mv2.jpg" group-title="CONSTANTEMENTE CINE",FULL CHANNEL | GT
-http://204.12.202.90:8080/live/playgt/playgt2023/130.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="CONSTANTEMENTE CINE",SOL TV | GT
-http://204.12.202.90:8080/live/playgt/playgt2023/160.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="CONSTANTEMENTE CINE",HM TV CANAL 33 | DO
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8d3d5592beca4ccabe325b946fac0b6a~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SEÑAL 21 TV | CL
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9b5fede45524044ba169ce665646416~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 34 SAN JUAN | AR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
@@ -525,6 +503,22 @@ https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_db61131e5fb445d495560c6e4e46f4a9~mv2.jpg" group-title="REVISIÓN",CANAL 9 TOLIMÁN | GT
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_42700fd6a51b4c7693df41badb235cc6~mv2.jpg" group-title="REVISIÓN",BAYRES TV CANAL 41 | AR
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="REVISIÓN",9 CANAL BARBE TV | GT
+http://204.12.202.90:8080/playgt/playgt2023/103
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="REVISIÓN",COSMOS | AR
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/reydddd/images2012/ONDADO.jpg" group-title="REVISIÓN",ONDA TV* | CL
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 
@@ -534,8 +528,8 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.jpg" group-title="REVISIÓN",HUASCO TV** | CL
 https://paneltv.online:1936/8024/8024/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_38a9cbb595534da3a0c8a3cedbc1a5d0~mv2.jpg" group-title="REVISIÓN",STV SAN ISIDRO | DO
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_30c45a4e19ac45498abcfb3569812e87~mv2.jpg" group-title="REVISIÓN",FULL CHANNEL | GT
+http://204.12.202.90:8080/live/playgt/playgt2023/130.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_fd4260f72b414d43b0598b720c45235e~mv2.jpg" group-title="REVISIÓN",TELECREATIVA | AR
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
@@ -576,8 +570,7 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_59a3d357e77b417dac6af6f163b8fbd7~mv2.jpg" group-title="REVISIÓN",RIBERA | ES
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8d3d5592beca4ccabe325b946fac0b6a~mv2.jpg" group-title="REVISIÓN",SEÑAL 21 TV | CL
-https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
+
 
 
 
