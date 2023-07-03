@@ -152,14 +152,14 @@ https://d1rfybckk5ifoz.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="CANELA (PRUEBA)",CANELA 1 | ESP
+https://stream.ads.ottera.tv/cl/230703cih4tuthqgpdlmvbui7g/960x540_1927200_1_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="CANELA (PRUEBA)",CANELA 2 | ESP
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_low.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="CANELA (PRUEBA)",CANELA CINEMA | ESP
-https://stream.ads.ottera.tv/cl/230702cih01ulhqgpdlmva3030/1280x720_3071200_0_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="CANELA (PRUEBA)",CANELA CLÁSICO | ESP
-https://stream.ads.ottera.tv/cl/230702cih07l5hqgpdlmva5hsg/1280x720_3071200_0_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="CANELA (PRUEBA)",ACCIÓN MEXICANA | ESP
-https://stream.ads.ottera.tv/cl/230702cih09n5hqgpdlmva6bdg/960x540_1927200_1_f.m3u8
+https://stream.ads.ottera.tv/cl/230703cih512a753pinet1385g/960x540_1927200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="CANELA (PRUEBA)",INSPIRACIÓN Y FE | ESP
 https://stream.ads.ottera.tv/cl/230702cih0cd8gv6tiqi10ac0g/1920x1080_2900000_5_f.m3u8
