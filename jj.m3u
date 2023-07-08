@@ -521,7 +521,7 @@ https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="REVISIÓN",9 CANAL BARBE TV | GT
-http://204.12.202.90:8080/playgt/playgt2023/103
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="REVISIÓN",COSMOS | AR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
