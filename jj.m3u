@@ -509,8 +509,11 @@ http://204.12.202.90:8080/live/playgt/playgt2023/166.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8ab7d918a5324989b087c01f8023e7b9~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR MOLLENDO*** | PE
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ORIGEN TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="DISCONTINUAMENTE CINE",ORIGEN TV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="DISCONTINUAMENTE CINE",ORIGEN TV | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_96e4277225414a1dbb5c14c859b0f110~mv2.jpg" group-title="DISCONTINUAMENTE CINE",BH TV | PE
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
@@ -528,9 +531,6 @@ https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_42700fd6a51b4c7693df41badb235cc6~mv2.jpg" group-title="REVISIÓN",BAYRES TV CANAL 41 | AR
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="REVISIÓN",BH TV* | PE
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.jpg" group-title="REVISIÓN",HUASCO TV** | CL
 https://paneltv.online:1936/8024/8024/playlist.m3u8
