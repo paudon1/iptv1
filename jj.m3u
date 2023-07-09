@@ -497,7 +497,7 @@ https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_30c45a4e19ac45498abcfb3569812e87~mv2.jpg" group-title="REVISIÓN",FULL CHANNEL | GT
-http://204.12.202.90:8080/live/playgt/playgt2023/130.m3u8
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_fd4260f72b414d43b0598b720c45235e~mv2.jpg" group-title="REVISIÓN",TELECREATIVA | AR
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
@@ -548,7 +548,7 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="REVISIÓN",VISIÓN TV | GT
-http://204.12.202.90:8080/playgt/playgt2023/59
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7347c1b9b636412b816099f6362d7d75~mv2.jpg" group-title="REVISIÓN",CANAL 5 SOLOLÁ | GT
 http://204.12.202.90:8080/playgt/playgt2023/141
@@ -560,19 +560,19 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 http://204.12.202.90:8080/live/playgt/playgt2023/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_21ef53d8fbef4d9f8bbbb892649152b7~mv2.jpg" group-title="REVISIÓN",TOTO VISIÓN | GT
-http://204.12.202.90:8080/live/playgt/playgt2023/62.m3u8
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_655d8495e521479fb62a659c34639981~mv2.jpg" group-title="REVISIÓN",TDS | GT
 http://204.12.202.90:8080/live/playgt/playgt2023/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_877325b0e9574b8ea585d9eef33fae50~mv2.jpg" group-title="REVISIÓN",SAS TV | GT
-http://204.12.202.90:8080/live/playgt/playgt2023/138.m3u8
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a2b6685ec70543d38786b1c513709e33~mv2.jpg" group-title="REVISIÓN",TUNE VISIÓN | GT
-http://204.12.202.90:8080/live/playgt/playgt2023/139.m3u8
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0446474e84a4486a93e4a3d41365a47c~mv2.jpg" group-title="REVISIÓN",CENTRO VISIÓN | GT
-http://204.12.202.90:8080/live/playgt/playgt2023/166.m3u8
+https://cdn.streamhispanatv.net:3313/live/centrovisionlive.m3u8
 
 
 
