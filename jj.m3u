@@ -542,26 +542,17 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="EDUCATIVO",ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="EDUCATIVO",HIPER TV | CL
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="EDUCATIVO",TVBUAP | MX
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="EDUCATIVO",ILCE | ESP
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w364183830_b2430208.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="EDUCATIVO",ZOOM | CO
-https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f5d55ada86da4e038734b29251e01b30~mv2.jpg" group-title="EDUCATIVO",TEC | AR
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="EDUCATIVO",UCV 2 | CL
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="EDUCATIVO",SUYAI | CL
-https://5ff3d9babae13.streamlock.net/ytptuzhund/ytptuzhund/chunklist_w427744094.m3u8
+https://5ff3d9babae13.streamlock.net/ewdnnusyjt/ewdnnusyjt/chunklist_w763390363.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_cd3ed54b8de2467f8d55201023f77162~mv2.jpg" group-title="EDUCATIVO",ATN | CO
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
@@ -617,8 +608,8 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aa680355b2fb463d89c088e6361d38e0~mv2.jpg" group-title="EDUCATIVO",UNI TEVE | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="EDUCATIVO",UNIVERSITARIA | BO
-https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="EDUCATIVO",TVU UNIVERSITARIA | BO
+https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="EDUCATIVO",UNLP | AR
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -783,6 +774,17 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w13422
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="REVISIÓN",UCV 2 | CL
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="REVISIÓN",ZOOM | CO
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="REVISIÓN",HIPER TV | CL
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7b248fde220d459ca2770b5ef8c3fb3e~mv2.jpg" group-title="REVISIÓN",CANAL 9 LITORAL | AR
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
