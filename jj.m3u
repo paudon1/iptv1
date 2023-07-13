@@ -584,53 +584,44 @@ https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_be92ae4ef9244aeda716fb849927ca2b~mv2.jpg" group-title="EDUCATIVO",CULTURA24 | PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="DÉJATE DE HISTORIAS | ES" group-title="EDUCATIVO",DÉJATE DE HISTORIAS | ES
-https://ythls.onrender.com/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="EDUCANAL | PY" group-title="EDUCATIVO",EDUCANAL | PY
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1192886528567119872/8yFiy1W6_400x400.jpg" group-title="EDUCATIVO",EDUCANAL | PY
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="IPE | PE" group-title="EDUCATIVO",IPE | PE
-https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="NESTING | ES" group-title="EDUCATIVO",NESTING | ES
+#EXTINF:-1 tvg-logo="https://nesting.tv/wp-content/uploads/2022/01/Nesting_Logo-white.png" group-title="EDUCATIVO",NESTING | ES
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_53fwbvrz8js4.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PLATZI | CO" group-title="EDUCATIVO",PLATZI | CO
+#EXTINF:-1 tvg-logo="https://static.platzi.com/static/website/v2/images/livex/platzi-tv-es.png" group-title="EDUCATIVO",PLATZI | CO
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TRANSMEDIA UNaM | AR" group-title="EDUCATIVO",TRANSMEDIA UNaM | AR
+#EXTINF:-1 tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/28/logo-transmedia-horiz-07a679f9-282775e3.png" group-title="EDUCATIVO",TRANSMEDIA UNaM | AR
 http://192.100.186.53:8090/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UCL | PY" group-title="EDUCATIVO",UCL | PY
+#EXTINF:-1 tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/Logo-UCL-TV-LATAM-horizontal.png" group-title="EDUCATIVO",UCL | PY
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/telepuerto-01/canal_ucl_720/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UCT | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1a6a345c40804220bfadff1ed43fee49~mv2.jpg" group-title="EDUCATIVO",UCT | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a6a345c40804220bfadff1ed43fee49~mv2.jpg" group-title="EDUCATIVO",UCT | CL
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UCV 1 | CL" group-title="EDUCATIVO",UCV 1 | CL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png" group-title="EDUCATIVO",UCV 1 | CL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UESTV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_ee07e3b497374629a2bdf41bb6c3b668~mv2.jpg" group-title="EDUCATIVO",UESTV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ee07e3b497374629a2bdf41bb6c3b668~mv2.jpg" group-title="EDUCATIVO",UESTV | CL
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UMAG TV | CL" tvg-logo="https://static.wixstatic.com/media/526a76_1b9a3b9f60ee46ef83aca54f469352b4~mv2.jpg" group-title="EDUCATIVO",UMAG TV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1b9a3b9f60ee46ef83aca54f469352b4~mv2.jpg" group-title="EDUCATIVO",UMAG TV | CL
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/chunklist_w1068931746_b1667072.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UMAG TV 2 | CL" tvg-logo="https://static.wixstatic.com/media/526a76_c92bffe26bb447bd985d66d30958a085~mv2.jpg" group-title="EDUCATIVO",UMAG TV 2 | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c92bffe26bb447bd985d66d30958a085~mv2.jpg" group-title="EDUCATIVO",UMAG TV 2 | CL
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UNITEVE | AR" tvg-logo="https://static.wixstatic.com/media/526a76_aa680355b2fb463d89c088e6361d38e0~mv2.jpg" group-title="EDUCATIVO",UNI TEVE | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aa680355b2fb463d89c088e6361d38e0~mv2.jpg" group-title="EDUCATIVO",UNI TEVE | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UNIVERSITARIA | BO" group-title="EDUCATIVO",UNIVERSITARIA | BO
+#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="EDUCATIVO",UNIVERSITARIA | BO
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="UNLP | AR" group-title="EDUCATIVO",UNLP | AR
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="EDUCATIVO",UNLP | AR
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="CAF | CL" group-title="EDUCATIVO",CAF | CL
-https://mediacpstreamchile.com:1936/altafronteratv/altafronteratv/chunklist_w86286305.m3u8
 
 
 
