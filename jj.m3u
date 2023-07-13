@@ -619,25 +619,25 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="0" id="MILENIO NOROESTE | MX" tvg-logo="https://static.wixstatic.com/media/526a76_bba2391d3a7c4aa78ae2d6ccc1dc69b2~mv2.jpg" group-title="NOTICIAS",MILENIO NOROESTE | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bba2391d3a7c4aa78ae2d6ccc1dc69b2~mv2.jpg" group-title="NOTICIAS",MILENIO NOROESTE | MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="AMX NOTICIAS | MX" tvg-logo="https://static.wixstatic.com/media/526a76_c1843e80055443e8b65b1ef682bb7edb~mv2.jpg" group-title="NOTICIAS",AMX NOTICIAS | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c1843e80055443e8b65b1ef682bb7edb~mv2.jpg" group-title="NOTICIAS",AMX NOTICIAS | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="N+ BAJÍO | MX" tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="NOTICIAS",N+ BAJÍO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="NOTICIAS",N+ BAJÍO | MX
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 44 | MX" tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="NOTICIAS",CANAL 44 | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="NOTICIAS",CANAL 44 | MX
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NRT | MX" tvg-logo="https://static.wixstatic.com/media/526a76_a79f764c1b8d402d98c57bf458c48797~mv2.jpg" group-title="NOTICIAS",NRT | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a79f764c1b8d402d98c57bf458c48797~mv2.jpg" group-title="NOTICIAS",NRT | MX
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w575999523.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="EURONEWS ESPAÑOL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_d6f0dcec27a543d1b7e61ead9fcba744~mv2.jpg" group-title="NOTICIAS",EURONEWS ESPAÑOL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d6f0dcec27a543d1b7e61ead9fcba744~mv2.jpg" group-title="NOTICIAS",EURONEWS ESPAÑOL | ESP
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RT ESPAÑOL | ESP" tvg-logo="https://static.wixstatic.com/media/526a76_3b9cc8efa2ba437a9572246c475f7cc1~mv2.jpg" group-title="NOTICIAS",RT ESPAÑOL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3b9cc8efa2ba437a9572246c475f7cc1~mv2.jpg" group-title="NOTICIAS",RT ESPAÑOL | ESP
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
@@ -645,131 +645,139 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="0" id="AGUASCALIENTES | MX" group-title="MÉXICO",AGUASCALIENTES | MX
+
+
+#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="MÉXICO-GOB",AGUASCALIENTES | MX
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="BAJA CALIFORNIA SUR | MX" group-title="MÉXICO",BAJA CALIFORNIA SUR | MX
+#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="MÉXICO-GOB",BAJA CALIFORNIA SUR | MX
 https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/chunklist_w1540659316.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CAMPECHE | MX" group-title="MÉXICO",CAMPECHE | MX
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1466444146206511109/wBMT3zYx_400x400.jpg" group-title="MÉXICO-GOB",CAMPECHE | MX
+https://stream.oursnetworktv.com/latin/SRTC/chunklist_w545843198.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CDMX | MX" group-title="MÉXICO",CDMX | MX
+#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/templates/interioressprcdmex/assets/img/logo.png" group-title="MÉXICO-GOB",CDMX | MX
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CHIAPAS | MX" group-title="MÉXICO",CHIAPAS | MX
+#EXTINF:-1 tvg-logo="http://radiotvycine.chiapas.gob.mx/wp-content/uploads/2019/01/LOGO-OPDS-CYB-30-2.png" group-title="MÉXICO-GOB",CHIAPAS | MX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ESTADO DE MÉXICO | MX" group-title="MÉXICO",ESTADO DE MÉXICO | MX
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tv-mexiquense-8370.webp" group-title="MÉXICO-GOB",ESTADO DE MÉXICO | MX
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1815260835.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="GUANAJUATO | MX" group-title="MÉXICO",GUANAJUATO | MX
-https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="GUERRERO | MX" group-title="MÉXICO",GUERRERO | MX
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pO1CUA_Do4o/Xvg_E30KdQI/AAAAAAAAKCQ/ucLflGMAX1IFDJ4e7Ytx99WEr8w-omDJwCLcBGAsYHQ/s1600/radio-y-television-de-guerrero-rtg.png" group-title="MÉXICO-GOB",GUERRERO | MX
 https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="JALISCO | MX" group-title="MÉXICO",JALISCO | MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png" group-title="MÉXICO-GOB",JALISCO | MX
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MICHOACÁN | MX" group-title="MÉXICO",MICHOACÁN | MX
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jEJZwUxCTUc/YSC_1ty_3PI/AAAAAAAAQOw/VeMiHJ1PXJMgNv7ox74oVlsOk5qHg7mkwCLcBGAsYHQ/s800/SM%2BSistema%2BMichoacano%2Bde%2BTelevisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="MÉXICO-GOB",MICHOACÁN | MX
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="MORELOS | MX" group-title="MÉXICO",MORELOS | MX
-http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FwJjiRIX0AA2bSJ.jpg" group-title="MÉXICO-GOB",MORELOS | MX
+https://stream8.mexiserver.com:1936/morelostv/morelostv/chunklist_w2051508309.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NUEVO LEÓN | MX" group-title="MÉXICO",NUEVO LEÓN | MX
+#EXTINF:-1 tvg-logo="https://srtvnl.com/wp-content/uploads/2020/03/Logo_Canal28_2020_png.png" group-title="MÉXICO-GOB",NUEVO LEÓN | MX
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="OAXACA | MX" group-title="MÉXICO",OAXACA | MX
-https://stream.oursnetworktv.com/latin/encoder29/chunklist_w167382619.m3u8
+#EXTINF:-1 tvg-logo="https://agenciaoaxacamx.com/wp-content/uploads/2023/04/LOGOTIPO-CORTV.jpeg" group-title="MÉXICO-GOB",OAXACA | MX
+https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="PUEBLA | MX" group-title="MÉXICO",PUEBLA | MX
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EYGyPsIXkAIQfSw.jpg" group-title="MÉXICO-GOB",PUEBLA | MX
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="QUERÉTARO | MX" group-title="MÉXICO",QUERÉTARO | MX
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TABASCO | MX" group-title="MÉXICO",TABASCO | MX
+#EXTINF:-1 tvg-logo="https://corat.mx/wp-content/uploads/2019/06/logo_tvt_corat-300x300.png" group-title="MÉXICO-GOB",TABASCO | MX
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TLAXCALA | MX" group-title="MÉXICO",TLAXCALA | MX
+#EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/2022/Logo-Tlaxcala-Television.png" group-title="MÉXICO-GOB",TLAXCALA | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="VERACRUZ | MX" group-title="MÉXICO",VERACRUZ | MX
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="MÉXICO-GOB",VERACRUZ | MX
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="ZACATECAS | MX" group-title="MÉXICO",ZACATECAS | MX
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Tele-Yucatan-en-vivo-Online.png" group-title="MÉXICO-GOB",TELE YUCATÁN | MX
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w1771942094.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvinsur.com/img/mx/sizart-24.webp" group-title="MÉXICO-GOB",ZACATECAS | MX
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 6 CDMX | MX" group-title="MÉXICO",CANAL 6 CDMX | MX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 6 MTY | MX" group-title="MÉXICO",CANAL 6 MTY | MX
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 10 | MX" group-title="MÉXICO",CANAL 10 | MX
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 12 | MX" group-title="MÉXICO",CANAL 12 | MX
-https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 14 | MX" group-title="MÉXICO",CANAL 14 | MX
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="CANAL 15 | MX" group-title="MÉXICO",CANAL 15 | MX
-https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400512601.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="NUEVE | MX" group-title="MÉXICO",NUEVE | MX
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="PRESUMIENDO MÉXICO | MX" group-title="MÉXICO",PRESUMIENDO MÉXICO | MX
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="RCG | MX" group-title="MÉXICO",RCG | MX
-https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="SUMA | MX" group-title="MÉXICO",SUMA | MX
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1680717119&e=1680717239&h=5fe56ab2b8b8b835edf38aab5a0c3253
-
-#EXTINF:-1 tvg-chno="0" id="TELE YUCATÁN | MX" group-title="MÉXICO",TELE YUCATÁN | MX
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w1797779082.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="TVP | MX" group-title="MÉXICO",TVP | MX
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="0" id="XHKG TV NAYARIT | MX" group-title="MÉXICO",XHKG TV NAYARIT | MX
-https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/en-vivo.jpg" group-title="MÉXICO",IMAGEN TELEVISIÓN | MX
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/en-vivo.jpg" group-title="MÉXICO-PRIV",IMAGEN TELEVISIÓN | MX
 https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoivkNbDR30nSgrgw-6CbCOClsKTGB_7WG57RgAvqSAj)/dm/3/x82z4if/d/live-2.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/10/27/placeholder-canal-television-vivo-telediario-1_47_51_1102_586.jpg" group-title="MÉXICO-PRIV",CANAL 6 CDMX | MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OzfRPvpNuco/maxresdefault.jpg" group-title="MÉXICO-PRIV",CANAL 6 MTY | MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="MÉXICO-PRIV",CANAL 10 CANCÚN | MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal12quintanaroo.mx/wp-content/uploads/2020/09/canal12.png" group-title="MÉXICO-PRIV",CANAL 12 QUINTANA ROO | MX
+https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/canall14-2.png.e61daeddefc0f8dac8ebdc92eb84b149.png" group-title="MÉXICO-PRIV",CANAL 14 | MX
+https://s6.mexside.net:1936/canal14/canal14/chunklist_w1587045620.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png" group-title="MÉXICO-PRIV",CANAL 15 | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400512601.m3u8
+
+#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="MÉXICO-PRIV",NUEVE TV | MX
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png" group-title="MÉXICO-PRIV",PRESUMIENDO MÉXICO | MX
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="MÉXICO-PRIV",RCG MEDIA | MX
+https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/suma.jpg" group-title="MÉXICO-PRIV",SUMA TV | MX
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1680717119&e=1680717239&h=5fe56ab2b8b8b835edf38aab5a0c3253
+
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tvp-culiacan.webp" group-title="MÉXICO-PRIV",TVP | MX
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://xhkg.tv/wp-content/uploads/2018/07/Logo_XHKG-2.png" group-title="MÉXICO-PRIV",XHKG TV NAYARIT | MX
+https://stream.oursnetworktv.com/latin/encoder73/chunklist_w1694577743.m3u8
+
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tv-guanajuato.webp" group-title="MÉXICO-PRIV",GUANAJUATO | MX
+https://stream.oursnetworktv.com/latin/tvguanajuato/chunklist_w533516060.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="MÉXICO-PRIV",QUERÉTARO | MX
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-chno="0" id="NOW 70´s | UK" group-title="SONO-RITMO",NOW 70´S | UK
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v4FV7h0cWbY/maxresdefault.jpg" group-title="SONO-RITMO",NOW 70´S | UK
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NOW 80´s | UK" group-title="SONO-RITMO",NOW 80´S | UK
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ShrQoNCFvx0/maxresdefault.jpg" group-title="SONO-RITMO",NOW 80´S | UK
 https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="NOW 90´s | UK" group-title="SONO-RITMO",NOW 90´S | UK
+#EXTINF:-1 tvg-logo="https://assets.onbuy.com/i22/product/48593c1cfa264854ac6a22c17e6f6d73-m673003/now-thats-what-i-call-music-90-2-cds.jpg" group-title="SONO-RITMO",NOW 90´S | UK
 https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RETRO PLUS 1 | CL" group-title="SONO-RITMO",RETRO PLUS 1 | CL
+#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/1/1/7/117-large_default.jpg" group-title="SONO-RITMO",RETRO PLUS 1 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="RETRO PLUS 2 | CL" group-title="SONO-RITMO",RETRO PLUS 2 | CL
+#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/1/1/8/118-home_default.jpg" group-title="SONO-RITMO",RETRO PLUS 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TELERITMO | MX" group-title="SONO-RITMO",TELERITMO | MX
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="SONO-RITMO",TELERITMO | MX
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-chno="0" id="TOP LATINO | PE" group-title="SONO-RITMO",TOP LATINO | PE
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w1342272007.m3u8
-
+#EXTINF:-1 tvg-logo="https://toplatino.net/players/latinotv/estamosarriba.png" group-title="SONO-RITMO",TOP LATINO | PE
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1612171491.m3u8
 
 
 
