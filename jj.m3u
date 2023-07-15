@@ -563,6 +563,9 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunk
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f5d55ada86da4e038734b29251e01b30~mv2.jpg" group-title="EDUCATIVO",TEC | AR
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="EDUCATIVO",ZOOM | CO
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="EDUCATIVO",SUYAI | CL
 https://5ff3d9babae13.streamlock.net/ewdnnusyjt/ewdnnusyjt/chunklist_w763390363.m3u8
 
@@ -607,6 +610,9 @@ https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png" group-title="EDUCATIVO",UCV 1 | CL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="EDUCATIVO",UCV 2 | CL
+https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ee07e3b497374629a2bdf41bb6c3b668~mv2.jpg" group-title="EDUCATIVO",UESTV | CL
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
@@ -797,11 +803,9 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1612
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="REVISIÓN",UCV 2 | CL
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_65f9c199f8c7450aae8401777af340b0~mv2.jpg" group-title="REVISIÓN",ZOOM | CO
-https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="REVISIÓN",HIPER TV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
