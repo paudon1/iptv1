@@ -20,9 +20,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE AR | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="ABSOLUTAMENTE CINE",A3CINE | ES
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CANELA | ESP
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_low.m3u8
 
@@ -66,13 +63,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN CINE ESPAÑOL | ESP
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/01ed356d-d5d4-4de8-9a5c-30cf3069989c/1.m3u8
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/47738bba-0b7a-4759-98f5-7ca578f54136/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ROMÁNTICO | ESP
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/4994ae1b-09c5-4c5a-8a55-f949561dcdfa/0.m3u8
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/056356b6-9fc1-479b-ada4-77f61c6df243/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN THRILLERS | ESP
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/e01ddb61-0d28-4e13-9e7d-a8b8da79eaf9/2.m3u8
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/a93a57c6-09ba-400b-992e-4fa10da6df9a/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ACTION | ES
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
@@ -805,7 +802,8 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1612
 
 
 
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="REVISIÓN",A3CINE | ES
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="REVISIÓN",HIPER TV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
