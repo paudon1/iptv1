@@ -707,6 +707,9 @@ https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EYGyPsIXkAIQfSw.jpg" group-title="MÉXICO-GOB",PUEBLA | MX
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/SQCS-TV-en-vivo.png" group-title="MÉXICO-GOB",QUINTANA ROO | MX
+https://5fa5de1a545ae.streamlock.net/4982/4982/chunklist_w1932546396.m3u8
+
 #EXTINF:-1 tvg-logo="https://corat.mx/wp-content/uploads/2019/06/logo_tvt_corat-300x300.png" group-title="MÉXICO-GOB",TABASCO | MX
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
 
@@ -739,17 +742,11 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="MÉXICO-PRIV",CANAL 10 CANCÚN | MX
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal12quintanaroo.mx/wp-content/uploads/2020/09/canal12.png" group-title="MÉXICO-PRIV",CANAL 12 QUINTANA ROO | MX
-https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/canall14-2.png.e61daeddefc0f8dac8ebdc92eb84b149.png" group-title="MÉXICO-PRIV",CANAL 14 | MX
-https://s6.mexside.net:1936/canal14/canal14/chunklist_w1587045620.m3u8
+#EXTINF:-1 tvg-logo="https://cosmored.net/imagenes/canales/Canal14.png" group-title="MÉXICO-PRIV",CANAL 14 | MX
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png" group-title="MÉXICO-PRIV",CANAL 15 | MX
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400512601.m3u8
-
-#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="MÉXICO-PRIV",NUEVE TV | MX
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png" group-title="MÉXICO-PRIV",PRESUMIENDO MÉXICO | MX
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
@@ -764,10 +761,10 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/c
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xhkg.tv/wp-content/uploads/2018/07/Logo_XHKG-2.png" group-title="MÉXICO-PRIV",XHKG TV NAYARIT | MX
-https://stream.oursnetworktv.com/latin/encoder73/chunklist_w1694577743.m3u8
+https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8
 
 #EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tv-guanajuato.webp" group-title="MÉXICO-PRIV",GUANAJUATO | MX
-https://stream.oursnetworktv.com/latin/tvguanajuato/chunklist_w533516060.m3u8
+https://stream.oursnetworktv.com/latin/tvguanajuato/chunklist_w1175804744.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="MÉXICO-PRIV",QUERÉTARO | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
@@ -809,6 +806,12 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1612
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="REVISIÓN",CINEMA + | ESP
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="REVISIÓN",NUEVE TV | MX
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal12quintanaroo.mx/wp-content/uploads/2020/09/canal12.png" group-title="MÉXICO-PRIV",CANAL 12 QUINTANA ROO | MX
+https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="REVISIÓN",CANAL 8 PUNTA CANA TV | DO
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
