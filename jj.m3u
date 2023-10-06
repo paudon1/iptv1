@@ -521,6 +521,22 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7b248fde220d459ca2770b5ef8c3fb3e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 9 LITORAL | AR
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ab084d99a300f770a6dc356ac582b66aa96ca51ed042f37a18dfc610f1dc1a85.png" group-title="DISCONTINUAMENTE CINE",G T V | GT
+https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rnSZFbyb2YA/WTcAcLsmKiI/AAAAAAAAOAs/sPzYusRwSOUMoErPlpLx0h7y4TPnJJxqwCLcB/s320/TV%2Bstandard.jpeg" group-title="DISCONTINUAMENTE CINE",COMO ANTES | GT
+https://cdn.streamhispanatv.net:3877/live/comoantestvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0a56fe220b8e4fe3a54a32bf98a9f9ff~mv2.png" group-title="DISCONTINUAMENTE CINE",MÁS TV | GT
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_390a0d84287a4bf0bea7620324b57e27~mv2.png" group-title="DISCONTINUAMENTE CINE",IZABAL TV | GT
+https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_802c4b8c96ae4b49a12a47b393fe6f41~mv2.png" group-title="DISCONTINUAMENTE CINE",CANAL 35 YEPOT | GT
+https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
+
+
 
 
 
