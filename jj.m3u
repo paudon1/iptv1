@@ -674,7 +674,7 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1466444146206511109/wBMT3zYx_400x400.jpg" group-title="MÉXICO-GOB",CAMPECHE | MX
 https://stream.oursnetworktv.com/latin/SRTC/chunklist_w589243441.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/templates/interioressprcdmex/assets/img/logo.png" group-title="MÉXICO-GOB",CDMX CAPITAL 21 | MX
+#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/templates/interioressprcdmex/assets/img/logo.png" group-title="MÉXICO-GOB",CDMX | MX
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://radiotvycine.chiapas.gob.mx/wp-content/uploads/2019/01/LOGO-OPDS-CYB-30-2.png" group-title="MÉXICO-GOB",CHIAPAS | MX
@@ -751,6 +751,9 @@ https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
 #EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/suma.jpg" group-title="MÉXICO-PRIV",SUMA TV | MX
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1680717119&e=1680717239&h=5fe56ab2b8b8b835edf38aab5a0c3253
 
+#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="REVISIÓN",NUEVE TV | MX
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tvp-culiacan.webp" group-title="MÉXICO-PRIV",TVP | MX
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
@@ -806,9 +809,6 @@ https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/chunklist_w1540659316.
 
 #EXTINF:-1 tvg-logo="https://agenciaoaxacamx.com/wp-content/uploads/2023/04/LOGOTIPO-CORTV.jpeg" group-title="REVISIÓN",OAXACA | MX
 https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
-
-#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="REVISIÓN",NUEVE TV | MX
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal12quintanaroo.mx/wp-content/uploads/2020/09/canal12.png" group-title="REVISIÓN",CANAL 12 QUINTANA ROO | MX
 https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
