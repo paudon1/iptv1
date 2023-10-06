@@ -464,11 +464,14 @@ http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5f345d350eb24b3889b2bdb01cf444bb~mv2.jpg" group-title="DISCONTINUAMENTE CINE",V TV | HN
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR CAMANA* | PE
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR ILO | PE
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8ab7d918a5324989b087c01f8023e7b9~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR MOLLENDO | PE
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR *CAMANA* | PE
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_96e4277225414a1dbb5c14c859b0f110~mv2.jpg" group-title="DISCONTINUAMENTE CINE",BH TV | PE
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -479,23 +482,17 @@ https://paneltv.online:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_86a068d60d794841879809cec89a2d8e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CR TV MOYOBAMBA | PE
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_98b26496a0144987b1dd9f6f943e9d80~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELECÓNDOR | AR
-https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_dd9bc792a468405295219862fbff5d1a~mv2.jpg" group-title="DISCONTINUAMENTE CINE",ATV PILAR | PY
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_02d6452b2df246458a2c99611c170b7e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 3 | GT
-https://d1dqr580c2izza.cloudfront.net/hls/canal3_480.m3u8
+https://rbmvgesstbwuxbrzesoiobajnnssnagmlyhlmxvgkoiwbuypva.xyz:3192/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_59a3d357e77b417dac6af6f163b8fbd7~mv2.jpg" group-title="DISCONTINUAMENTE CINE",RIBERA | ES
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0446474e84a4486a93e4a3d41365a47c~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CENTRO VISIÓN | GT
-https://cdn.streamhispanatv.net:3313/live/centrovisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_459c038e165f4b92acaf79a32d3cbe0d~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR | CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
@@ -504,7 +501,7 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pandonettvcom.files.wordpress.com/2021/02/cropped-logo-l-1-1.png" group-title="DISCONTINUAMENTE CINE",PANDO NET TV | BO
-https://hls3.robotstreamer.com/tv/5366.m3u8
+https://stmv1.cnarlatam.com/pandonet/pandonet/chunklist_w1572142405.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/6.jpg" group-title="DISCONTINUAMENTE CINE",PODEROSA TV | AR
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
