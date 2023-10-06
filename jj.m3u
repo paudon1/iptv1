@@ -238,8 +238,11 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="BÁSICAMENTE CINE",ORIGEN TV | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6f69842bed7a43da9b5ef060cabe3ebe~mv2.jpg" group-title="BÁSICAMENTE CINE",CANAL 6 MAR DEL PLATA | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2c5123e93e334c67a0af5b2b92d4030a~mv2.jpg" group-title="BÁSICAMENTE CINE",LIVING TV | AR
 https://panel.dattalive.com/8166/8166/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6f69842bed7a43da9b5ef060cabe3ebe~mv2.jpg" group-title="BÁSICAMENTE CINE",CANAL 6 MAR DEL PLATA | AR
+https://panel.dattalive.com/8186/8186/chunklist_w143603160.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_db61131e5fb445d495560c6e4e46f4a9~mv2.jpg" group-title="BÁSICAMENTE CINE",CANAL 9 TOLIMÁN | GT
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
