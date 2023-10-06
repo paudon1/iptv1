@@ -671,14 +671,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="MÉXICO-GOB",AGUASCALIENTES | MX
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="MÉXICO-GOB",BAJA CALIFORNIA SUR | MX
-https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/chunklist_w1540659316.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1466444146206511109/wBMT3zYx_400x400.jpg" group-title="MÉXICO-GOB",CAMPECHE | MX
-https://stream.oursnetworktv.com/latin/SRTC/chunklist_w545843198.m3u8
+https://stream.oursnetworktv.com/latin/SRTC/chunklist_w589243441.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/templates/interioressprcdmex/assets/img/logo.png" group-title="MÉXICO-GOB",CDMX | MX
-https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/templates/interioressprcdmex/assets/img/logo.png" group-title="MÉXICO-GOB",CDMX CAPITAL 21 | MX
+https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://radiotvycine.chiapas.gob.mx/wp-content/uploads/2019/01/LOGO-OPDS-CYB-30-2.png" group-title="MÉXICO-GOB",CHIAPAS | MX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
@@ -693,18 +690,15 @@ https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jEJZwUxCTUc/YSC_1ty_3PI/AAAAAAAAQOw/VeMiHJ1PXJMgNv7ox74oVlsOk5qHg7mkwCLcBGAsYHQ/s800/SM%2BSistema%2BMichoacano%2Bde%2BTelevisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="MÉXICO-GOB",MICHOACÁN | MX
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w1554403236.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FwJjiRIX0AA2bSJ.jpg" group-title="MÉXICO-GOB",MORELOS | MX
 https://stream8.mexiserver.com:1936/morelostv/morelostv/chunklist_w2051508309.m3u8
 
 #EXTINF:-1 tvg-logo="https://srtvnl.com/wp-content/uploads/2020/03/Logo_Canal28_2020_png.png" group-title="MÉXICO-GOB",NUEVO LEÓN | MX
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+https://s5.mexside.net:1936/canal28/canal28/chunklist_w633558775.m3u8
 
-#EXTINF:-1 tvg-logo="https://agenciaoaxacamx.com/wp-content/uploads/2023/04/LOGOTIPO-CORTV.jpeg" group-title="MÉXICO-GOB",OAXACA | MX
-https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EYGyPsIXkAIQfSw.jpg" group-title="MÉXICO-GOB",PUEBLA | MX
+#EXTINF:-1 tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/logoSicom.png" group-title="MÉXICO-GOB",PUEBLA | MX
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/SQCS-TV-en-vivo.png" group-title="MÉXICO-GOB",QUINTANA ROO | MX
@@ -720,7 +714,7 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Tele-Yucatan-en-vivo-Online.png" group-title="MÉXICO-GOB",TELE YUCATÁN | MX
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w1771942094.m3u8
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w2071147867.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvinsur.com/img/mx/sizart-24.webp" group-title="MÉXICO-GOB",ZACATECAS | MX
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
@@ -731,7 +725,7 @@ https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/en-vivo.jpg" group-title="MÉXICO-PRIV",IMAGEN TELEVISIÓN | MX
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLswdDuwDNPmHvetZUZ0y9AcDL541l1TY6UGfR0h22VZf)/dm/3/x82z4if/d/live-0.m3u8
+https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLroMQU_Wg4OJW3NBaThJ0wC-RLmTlbrPxs3iJTiAhI8Y)/dm/3/x82z4if/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/10/27/placeholder-canal-television-vivo-telediario-1_47_51_1102_586.jpg" group-title="MÉXICO-PRIV",CANAL 6 CDMX | MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -806,6 +800,12 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1612
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="REVISIÓN",CINEMA + | ESP
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iert.bcs.gob.mx/wp-content/uploads/2021/09/canal8_logo.png" group-title="MÉXICO-GOB",BAJA CALIFORNIA SUR | MX
+https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/chunklist_w1540659316.m3u8
+
+#EXTINF:-1 tvg-logo="https://agenciaoaxacamx.com/wp-content/uploads/2023/04/LOGOTIPO-CORTV.jpeg" group-title="MÉXICO-GOB",OAXACA | MX
+https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
 
 #EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="REVISIÓN",NUEVE TV | MX
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
