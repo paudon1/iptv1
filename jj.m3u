@@ -801,16 +801,16 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1612
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="REVISIÓN",CINEMA + | ESP
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iert.bcs.gob.mx/wp-content/uploads/2021/09/canal8_logo.png" group-title="MÉXICO-GOB",BAJA CALIFORNIA SUR | MX
+#EXTINF:-1 tvg-logo="https://iert.bcs.gob.mx/wp-content/uploads/2021/09/canal8_logo.png" group-title="REVISIÓN",BAJA CALIFORNIA SUR | MX
 https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/chunklist_w1540659316.m3u8
 
-#EXTINF:-1 tvg-logo="https://agenciaoaxacamx.com/wp-content/uploads/2023/04/LOGOTIPO-CORTV.jpeg" group-title="MÉXICO-GOB",OAXACA | MX
+#EXTINF:-1 tvg-logo="https://agenciaoaxacamx.com/wp-content/uploads/2023/04/LOGOTIPO-CORTV.jpeg" group-title="REVISIÓN",OAXACA | MX
 https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
 
 #EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="REVISIÓN",NUEVE TV | MX
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal12quintanaroo.mx/wp-content/uploads/2020/09/canal12.png" group-title="MÉXICO-PRIV",CANAL 12 QUINTANA ROO | MX
+#EXTINF:-1 tvg-logo="https://canal12quintanaroo.mx/wp-content/uploads/2020/09/canal12.png" group-title="REVISIÓN",CANAL 12 QUINTANA ROO | MX
 https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="REVISIÓN",CANAL 8 PUNTA CANA TV | DO
