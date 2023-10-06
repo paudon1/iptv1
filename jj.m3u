@@ -789,10 +789,11 @@ https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
 https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://platcon.tv/img/p/1/1/7/117-large_default.jpg" group-title="SONO-RITMO",RETRO PLUS 1 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1655225144.m3u8
 
 #EXTINF:-1 tvg-logo="https://platcon.tv/img/p/1/1/8/118-home_default.jpg" group-title="SONO-RITMO",RETRO PLUS 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w343857503.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="SONO-RITMO",TELERITMO | MX
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
