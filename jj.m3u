@@ -387,16 +387,13 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f4cbfb79236445128696aa266d5a2ca9~mv2.jpg" group-title="DISCONTINUAMENTE CINE",V!VO | AR
-https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/chunklist_w2055208859.m3u8
+https://stmv1.voxhdnet.com/msinteractiva/msinteractiva/chunklist_w1862157651.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5b71fc14da004bcc8c41979646cf38ce~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TVMAXCBA | AR
 https://panel.dattalive.com:443/8976/8976/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_dfbe468675bb4479bb9f177961558a19~mv2.jpg" group-title="DISCONTINUAMENTE CINE",W TV CANAL 20 | NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_edec279ed59d4e1184f36cd8f5b8addb~mv2.jpg" group-title="DISCONTINUAMENTE CINE",E ALTOMAYO | PE
-https://stream.plixitv.live/westv/westv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73cfefa0dcf54b41a535e28f9be35540~mv2.jpg" group-title="DISCONTINUAMENTE CINE",ANZOÁTEGUI TELEVISIÓN | VE
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
@@ -409,9 +406,6 @@ https://panel.dattalive.com/8068/8068/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9fc89083837425395ecf99335e91d38~mv2.jpg" group-title="DISCONTINUAMENTE CINE",URANIO | PE
 https://live.obslivestream.com/uraniotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ea5aa4e999a84c6f9561a871a29944f5~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 9 NORDESTE | AR
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a2d90f028044f229f7a70ab9cac0ada~mv2.jpg" group-title="DISCONTINUAMENTE CINE",ANTARES TELEVISIÓN | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -449,9 +443,6 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d93060900ee4a5fb5686affaae845f0~mv2.jpg" group-title="DISCONTINUAMENTE CINE",BUIN SOMOS TODOS | CL
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7bbb67ee8d714e80b67c54ba49e8ff15~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CADENA | PE
-https://servilive.com:3079/live/cdnatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2174ddd313c347f18c22d6bf2af715ea~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 6 VZ TV | PE
 https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
 
@@ -460,9 +451,6 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a52990b68048475895fea8c3c5fc3191~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SI TV | DO
 http://190.122.104.221/Player/sitv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5f345d350eb24b3889b2bdb01cf444bb~mv2.jpg" group-title="DISCONTINUAMENTE CINE",V TV | HN
-https://d1ton6lze3twxp.cloudfront.net/hls/vtv_270.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TELESUR ILO | PE
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
@@ -836,16 +824,11 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1612
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c335d397cb0f4e8e81f90932090db577~mv2.jpg" group-title="REVISIÓN",CINEMA + | ESP
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7bbb67ee8d714e80b67c54ba49e8ff15~mv2.jpg" group-title="REVISIÓN",CADENA | PE
+https://servilive.com:3079/live/cdnatvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26db8834c258428882a7035100f5fb98~mv2.jpg" group-title="REVISIÓN",A3CINE | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_669971cc9f334800b0e21ff9feedf901~mv2.jpg" group-title="REVISIÓN",HIPER TV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-
-
-
-
-
-
-
-
