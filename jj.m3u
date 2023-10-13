@@ -342,7 +342,7 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e848b035b8a54d4db0bff5d67b227f1e~mv2.jpg" group-title="DISCONTINUAMENTE CINE",NATIVA TELEVISIÓN | PE
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9b5fede45524044ba169ce665646416~mv2.jpg" group-title="DICONTINUAMENTE CINE",CANAL 34 SAN JUAN | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9b5fede45524044ba169ce665646416~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 34 SAN JUAN | AR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_21ef53d8fbef4d9f8bbbb892649152b7~mv2.jpg" group-title="DISCONTINUAMENTE CINE",TOTO VISIÓN | GT
@@ -530,10 +530,10 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rnSZFbyb2YA/WTcAcLsmKiI/AAAAAAAAOAs/sPzYusRwSOUMoErPlpLx0h7y4TPnJJxqwCLcB/s320/TV%2Bstandard.jpeg" group-title="ESPORÁDICAMENTE CINE",COMO ANTES TV | GT
 https://cdn.streamhispanatv.net:3877/live/comoantestvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="ESPORÁDICAMENTE",CANAL 8 PUNTA CANA TV | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="ESPORÁDICAMENTE CINE",CANAL 8 PUNTA CANA TV | DO
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7bbb67ee8d714e80b67c54ba49e8ff15~mv2.jpg" group-title="ESPORÁDICAMENTE",CADENA TV | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7bbb67ee8d714e80b67c54ba49e8ff15~mv2.jpg" group-title="ESPORÁDICAMENTE CINE",CADENA TV | PE
 https://servilive.com:3079/live/cdnatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d3646633ef5943c887ce952cf86a3a00~mv2.jpg" group-title="ESPORÁDICAMENTE CINE",FAMILI CHANNEL | CO
