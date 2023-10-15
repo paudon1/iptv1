@@ -107,6 +107,9 @@ https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN TOP FREE | ESP
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN TOP FREE 2 | ESP
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN CINE ESPAÑOL | ESP
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/882800db-b275-4e71-a07e-289ecb24687e/2.m3u8
 
