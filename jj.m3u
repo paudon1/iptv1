@@ -293,6 +293,12 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_235a2829e9dd468089efe6b77e08172c~mv2.jpg" group-title="CONSTANTEMENTE CINE",PLANETA TV MOYOBAMBA | PE
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d13317fd154f482cab6cae719967f97b~mv2.jpg" group-title="CONSTANTEMENTE CINE",AURORA MEDIA FILMS | GT
+https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELEMIX! | AR
+https://panel.dattalive.com/8068/8068/playlist.m3u8
+
 
 
 
@@ -444,6 +450,9 @@ https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_877325b0e9574b8ea585d9eef33fae50~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SAS TV | GT
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6f69842bed7a43da9b5ef060cabe3ebe~mv2.jpg" group-title="DISCONTINUAMENTE CINE",CANAL 6 MAR DEL PLATA | AR
+https://panel.dattalive.com/8186/8186/chunklist_w143603160.m3u8
 
 
 
@@ -796,15 +805,6 @@ https://panel.dattalive.com:443/8976/8976/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2c5123e93e334c67a0af5b2b92d4030a~mv2.jpg" group-title="REVISIÓN",LIVING TV | AR
 https://panel.dattalive.com/8166/8166/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d13317fd154f482cab6cae719967f97b~mv2.jpg" group-title="REVISIÓN",AURORA MEDIA FILMS | GT
-https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6f69842bed7a43da9b5ef060cabe3ebe~mv2.jpg" group-title="REVISIÓN",CANAL 6 MAR DEL PLATA | AR
-https://panel.dattalive.com/8186/8186/chunklist_w143603160.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="REVISIÓN",TELEMIX! | AR
-https://panel.dattalive.com/8068/8068/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8b49dd52bcac45bea4de253322c590a0~mv2.jpg" group-title="REVISIÓN",CANAL 7 TELE VALENCIA | ES
 https://live-edge-eu-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-700/index.m3u8
