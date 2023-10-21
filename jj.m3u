@@ -14,7 +14,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME MÉXICO | MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/06/RUNTME-1024x576.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP RUN:TIME | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a05cd09bc2a544ae930c72cb3f2ebc0a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP RUN:TIME | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME ESPAÑA | ES
