@@ -116,7 +116,7 @@ https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ROMÁNTICO | ESP
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/7d723043-3045-4e91-98a2-775dc4597805/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://press.upentertainment.com/wp-content/uploads/2021/09/cine-romantico-red-750x500-1-570x380.jpg" group-title="ABSOLUTAMENTE CINE",CINE ROMÁNTICO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE ROMÁNTICO | ESP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26a86618efa84ef783e728bfab71d844~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP CINE FAMILIA | ESP
