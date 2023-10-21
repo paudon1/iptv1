@@ -206,14 +206,17 @@ https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg0056
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ee0292812642449cd4e269df37ae91~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP FILM STREAM | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1afb293948a4a2d9dadc39bb092ff5b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",VIDEO CLUB | ESP
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MULTIVISION | ESP
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_383e75499f5f46e9a19718412cbf35a7~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE SERIES | ESP
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/chunklist_w1561257303.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d770913618e94e889161290eda6373fc~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE RETRO SERIES | ESP
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/chunklist_w11453428.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MULTIVISION | ESP
-https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 
 
@@ -313,7 +316,7 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/chunklist_w9
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8ab7d918a5324989b087c01f8023e7b9~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELESUR MOLLENDO | PE
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELESUR *CAMANA* | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_dff392a309f1424e84d56ecb89453d9b~mv2.jpg" group-title="CONSTANTEMENTE CINE",TELESUR CAMANA | PE
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_901521e9b27d4ff1a0e5ed47154143fc~mv2.jpg" group-title="CONSTANTEMENTE CINE",CITRICO | DO
