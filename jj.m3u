@@ -80,6 +80,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947d
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0c58f314cfbd429a8307edc79c5c38bc~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP CINE DRAMA | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f539fed59f7b471a891a9b41b03673d9~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO TV BBC DRAMA | ESP
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN DRAMA | ES
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
@@ -573,6 +575,12 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1618262050509148161/ptgCnkNL_400x400.jpg" group-title="EDUCATIVO",ASTRONET TV | ESP
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_df21aef46b1b41e39da27e76688a3db8~mv2.jpg" group-title="EDUCATIVO",TECH SCIENCE TV | ESP
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="EDUCATIVO",PLUTO STVP SMITHSONIAN CHANNEL | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
