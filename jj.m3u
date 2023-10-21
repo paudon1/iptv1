@@ -304,7 +304,7 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73cfefa0dcf54b41a535e28f9be35540~mv2.jpg" group-title="CONSTANTEMENTE CINE",ANZOÁTEGUI TELEVISIÓN | VE
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ab084d99a300f770a6dc356ac582b66aa96ca51ed042f37a18dfc610f1dc1a85.png" group-title="CONSTANTEMENTE CINE",G T V | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3f351bb10dd14acd9c7ed5715c74c24e~mv2.jpg" group-title="CONSTANTEMENTE CINE",G T V | GT
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5624a6899cab4a748386cb98ee001eec~mv2.jpg" group-title="CONSTANTEMENTE CINE",UNIVERS TV VALENCIA | ES
