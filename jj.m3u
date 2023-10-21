@@ -274,13 +274,22 @@ https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d44d13789de54aa3a4179a4e99b0cf6e~mv2.jpg" group-title="BÁSICAMENTE CINE",SUPER TV | CL
 https://stmv5.voxtvhd.com.br/supertv/supertv/chunklist_w10319908.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bde6b823938c4220b1f3a2212bbc54a6~mv2.jpg" group-title="BÁSICAMENTE CINE",DMJ SUR | PE
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2852-294x165-FFFFFF.jpg" group-title="BÁSICAMENTE CINE",DMJ SUR | PE
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1438123523.m3u8
 
 
 
 
 
+
+#EXTINF:-1 tvg-logo="https://elsellotv.com.ar/c12w/wp-content/uploads/2022/01/LogoTV.png" group-title="CONSTANTEMENTE CINE",EL SELLO TV MADARIAGA | AR
+https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2852-294x165-FFFFFF.jpg" group-title="CONSTANTEMENTE CINE",ALEGRE TV | DO
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="CONSTANTEMENTE CINE",COCO TV | DO
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8230b901d787486c97720eb7075be97b~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 17 TV NOSARA | CR
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/chunklist_w439869637.m3u8
