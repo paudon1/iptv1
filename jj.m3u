@@ -734,6 +734,18 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="NOTICIAS",N+ BAJÍO | MX
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="NOTICIAS",FORO TV | MX
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/cnn_espanol_logo.gif" group-title="NOTICIAS",CNN EN ESPAÑOL | ESP
+http://181.78.24.67:8010/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png" group-title="NOTICIAS",ESTRELLA NEWS | ESP
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="NOTICIAS",ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/55254_750.jpg" group-title="NOTICIAS",PLUTO STVP TELEFÓRMULA | ESP
 http://stitcher-ipv4.pluto.tv:80/proxy/SAMSUNG-TVPLUS-1b875957-d166-4d81-a064-405a61544f01/63d2c140c111bc0008cb890b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&startingOffset=0&sid=SAMSUNG-TVPLUS-1b875957-d166-4d81-a064-405a61544f01
 
