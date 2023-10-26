@@ -726,7 +726,7 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bba2391d3a7c4aa78ae2d6ccc1dc69b2~mv2.jpg" group-title="NOTICIAS",MILENIO NOROESTE | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4a641f87cb7c41538052220c66ca2b78~mv2.jpg" group-title="NOTICIAS",MILENIO NOROESTE | MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c1843e80055443e8b65b1ef682bb7edb~mv2.jpg" group-title="NOTICIAS",AMX NOTICIAS | MX
@@ -735,17 +735,23 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="NOTICIAS",N+ BAJÍO | MX
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="NOTICIAS",FORO TV | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e39a5a96e8e49eca0764fc8408d00c6~mv2.jpg" group-title="NOTICIAS",FORO TV | MX
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/cnn_espanol_logo.gif" group-title="NOTICIAS",CNN EN ESPAÑOL | ESP
-http://181.78.24.67:8010/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_247220c176fd4db0a26b00beee60a935~mv2.jpg" group-title="NOTICIAS",ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png" group-title="NOTICIAS",ESTRELLA NEWS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26a64074fe1c4ed3b297f88e0c4750d9~mv2.jpg" group-title="NOTICIAS",TELEFÓRMULA | MX
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b1cc74dea6bf4419995cc659c21879a9~mv2.jpg" group-title="NOTICIAS",ESTRELLA NEWS | ESP
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="NOTICIAS",ADN 40 | MX
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9963cff7dff42a293ce2030ae2c6ad9~mv2.jpg" group-title="NOTICIAS",DNEWS | ESP
+https://ythlsgo.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed9398456e345ae83d30f38504d5771~mv2.jpg" group-title="NOTICIAS",CNN EN ESPAÑOL | ESP
+http://181.78.24.67:8010/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="NOTICIAS",CANAL 44 | MX
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
