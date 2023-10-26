@@ -747,15 +747,6 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="NOTICIAS",ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/55254_750.jpg" group-title="NOTICIAS",PLUTO STVP TELEFÓRMULA | ESP
-http://stitcher-ipv4.pluto.tv:80/proxy/SAMSUNG-TVPLUS-1b875957-d166-4d81-a064-405a61544f01/63d2c140c111bc0008cb890b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&startingOffset=0&sid=SAMSUNG-TVPLUS-1b875957-d166-4d81-a064-405a61544f01
-
-#EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/logo-facebook.png" group-title="NOTICIAS",EL HERALDO | MX
-https://stream-02.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRDkqHG-1aYJgwy1APu976Gl4p8bqOAyEQEciHgjeHIIM)/dm/3/x88epch/d/live-3.m3u8#cell=lsv4
-
-#EXTINF:-1 tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg" group-title="NOTICIAS",IMAGEN TV | MX
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlBAhTuk4pIGmpSHqh3tntP6WF5PhS5PfkHPScSBBa5h)/dm/3/x82z4if/d/live-1.m3u8#cell=lsv4
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="NOTICIAS",CANAL 44 | MX
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
@@ -834,11 +825,6 @@ https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="MÉXICO-PRIV",CANAL 11 | MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/en-vivo.jpg" group-title="MÉXICO-PRIV",IMAGEN TELEVISIÓN | MX
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhczwoinDE_gAcgUMgfc1eibUCLM6cn_GZH2XaBaaSzd)/dm/3/x82z4if/d/live-2.m3u8#cell=lsv4
-#EXTINF:-1 tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/10/27/placeholder-canal-television-vivo-telediario-1_47_51_1102_586.jpg" group-title="MÉXICO-PRIV",CANAL 6 CDMX | MX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OzfRPvpNuco/maxresdefault.jpg" group-title="MÉXICO-PRIV",CANAL 6 MTY | MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
