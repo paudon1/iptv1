@@ -586,13 +586,13 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1618262050509148161/ptgCnkNL_400x400.jpg" group-title="EDUCATIVO",ASTRONET TV | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_590e5f504e9c4853b3521a069fbdbb77~mv2.jpg" group-title="EDUCATIVO",ASTRONET TV | ESP
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_df21aef46b1b41e39da27e76688a3db8~mv2.jpg" group-title="EDUCATIVO",TECH SCIENCE TV | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8357e1390447443791e66fbe27e2609a~mv2.jpg" group-title="EDUCATIVO",TECHSCIENCE TV | ESP
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="EDUCATIVO",PLUTO STVP SMITHSONIAN CHANNEL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_99f4baaa8a444aacb542a097db393ae1~mv2.jpg" group-title="EDUCATIVO",PLUTO STVP SMITHSONIAN CHANNEL | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="EDUCATIVO",PLUTO STVP CIENCIA | ESP
