@@ -93,7 +93,7 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN THRILLERS | ESP
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/f46c995f-ec82-450d-9887-0cb18eebe41f/2.m3u8
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/7ced61bc-a282-4d12-a6ac-e2d09e1f2a82/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_21f92911d0324f1ca59c3ea40d9dcf6e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP CINE SUSPENSO | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -120,7 +120,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab52300099867
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ROMÁNTICO | ESP
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/7d723043-3045-4e91-98a2-775dc4597805/2.m3u8
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/7b627a94-a556-4088-add9-e775a1408a75/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE ROMÁNTICO | ESP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
@@ -165,7 +165,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN CINE ESPAÑOL | ESP
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/14f20f7e-b769-4797-9af3-5a6652aa7cc2/2.m3u8
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/d84aaa20-36cb-4efd-9028-a8775020504e/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ffc8ddec28d44f1283a1e237060622d8~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE EUROPA | ESP
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
