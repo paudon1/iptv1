@@ -784,10 +784,10 @@ https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ca1a28f9fa314a80bf77dfc5f05e03af~mv2.jpg" group-title="MÉXICO-GOB",CHIAPAS | MX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tv-mexiquense-8370.webp" group-title="MÉXICO-GOB",ESTADO DE MÉXICO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_09335f9305174742bd2f1d587199ff5d~mv2.jpg" group-title="MÉXICO-GOB",ESTADO DE MÉXICO | MX
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1815260835.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pO1CUA_Do4o/Xvg_E30KdQI/AAAAAAAAKCQ/ucLflGMAX1IFDJ4e7Ytx99WEr8w-omDJwCLcBGAsYHQ/s1600/radio-y-television-de-guerrero-rtg.png" group-title="MÉXICO-GOB",GUERRERO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9e7db3f601544634bbe934792bd6f00a~mv2.jpg" group-title="MÉXICO-GOB",GUERRERO | MX
 https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png" group-title="MÉXICO-GOB",JALISCO | MX
