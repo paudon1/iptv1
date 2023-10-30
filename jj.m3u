@@ -679,7 +679,7 @@ https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_be92ae4ef9244aeda716fb849927ca2b~mv2.jpg" group-title="EDUCATIVO",CULTURA24 | PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1192886528567119872/8yFiy1W6_400x400.jpg" group-title="EDUCATIVO",EDUCANAL | PY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d753eceb41334279a915c7c175317a65~mv2.jpg" group-title="EDUCATIVO",EDUCANAL | PY
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nesting.tv/wp-content/uploads/2022/01/Nesting_Logo-white.png" group-title="EDUCATIVO",NESTING | ES
@@ -793,7 +793,7 @@ https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4388d4a2c16a48a382a043853ae51486~mv2.jpg" group-title="MÉXICO-GOB",JALISCO | MX
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_02f39a089d9744b9b0b3c7279c9d9d63~mv2.jpg" group-title="MÉXICO-GOB",MICHOACÁN | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26cf2efd7ae646f6a4e0312e1fbd5ea9~mv2.jpg" group-title="MÉXICO-GOB",MICHOACÁN | MX
 https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w1554403236.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FwJjiRIX0AA2bSJ.jpg" group-title="MÉXICO-GOB",MORELOS | MX
