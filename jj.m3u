@@ -805,10 +805,10 @@ https://s5.mexside.net:1936/canal28/canal28/chunklist_w633558775.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b2f021cb5267408e8bdca91aa08f3f73~mv2.jpg" group-title="MÉXICO-GOB",OAXACA | MX
 https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
 
-#EXTINF:-1 tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/logoSicom.png" group-title="MÉXICO-GOB",PUEBLA | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5c07bf88f2e54766ae64ed887379220b~mv2.jpg" group-title="MÉXICO-GOB",PUEBLA | MX
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/SQCS-TV-en-vivo.png" group-title="MÉXICO-GOB",QUINTANA ROO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14c745c4d2314b8ebd98a08fd297ce12~mv2.jpg" group-title="MÉXICO-GOB",QUINTANA ROO | MX
 https://5fa5de1a545ae.streamlock.net/4982/4982/chunklist_w1932546396.m3u8
 
 #EXTINF:-1 tvg-logo="https://corat.mx/wp-content/uploads/2019/06/logo_tvt_corat-300x300.png" group-title="MÉXICO-GOB",TABASCO | MX
