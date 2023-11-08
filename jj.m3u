@@ -17,6 +17,12 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/181
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="TELEVISIÓN",H B O  + | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/215
 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/large.hbo_fam_2021.png.78e486f59937b0e3ef1091f962f3d8ff.png" group-title="TELEVISIÓN",H B O  FAMILY | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/73
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XEd15.jpeg" group-title="TELEVISIÓN",H B O  SIGNATURE | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/182
+
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/02/AE.max-640x640-1.jpg" group-title="TELEVISIÓN",A & E | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/178
 
