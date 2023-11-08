@@ -8,6 +8,12 @@
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/08/IMG_7120.png" group-title="TELEVISIÓN",SONY CHANNEL | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41llCt37l7L.png" group-title="TELEVISIÓN",T N T | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+
+#EXTINF:-1 tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/warner-tv-2968130.jpg" group-title="TELEVISIÓN",WARNER | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/59
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="TELEVISIÓN",MOVISTAR DRAMA | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/146
 
@@ -20,10 +26,10 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/181
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="TELEVISIÓN",H B O  + | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/215
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/large.hbo_fam_2021.png.78e486f59937b0e3ef1091f962f3d8ff.png" group-title="TELEVISIÓN",H B O  FAMILY | ESP
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/large.hbo_fam_2021.png.78e486f59937b0e3ef1091f962f3d8ff.png" group-title="TELEVISIÓN",H B O   FAMILY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/73
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XEd15.jpeg" group-title="TELEVISIÓN",H B O  SIGNATURE | ESP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XEd15.jpeg" group-title="TELEVISIÓN",H B O   SIGNATURE | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/182
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="TELEVISIÓN",U S A | ESP
@@ -59,6 +65,9 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/219
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TELEVISIÓN",AZTECA UNO | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="TELEVISIÓN",TELEMUNDO | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/155
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg" group-title="TELEVISIÓN",ANTENA 3 | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/96
 
@@ -67,9 +76,6 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/157
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TELEVISIÓN",TELECINCO | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="TELEVISIÓN",DISNEY XD | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/63
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="TELEVISIÓN",NICK JR | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/64
