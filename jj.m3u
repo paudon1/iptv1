@@ -29,6 +29,12 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/182
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/02/AE.max-640x640-1.jpg" group-title="TELEVISIÓN",A & E | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/178
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="TELEVISIÓN",SCIENCE DISCOVERY | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+
+#EXTINF:-1 tvg-logo="https://wikiless.org/media/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="TELEVISIÓN",ANIMAL PLANET DISCOVERY | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/75
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="TELEVISIÓN",T L C  DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/124
 
