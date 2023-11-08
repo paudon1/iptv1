@@ -26,6 +26,9 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/73
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XEd15.jpeg" group-title="TELEVISIÓN",H B O  SIGNATURE | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/182
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="TELEVISIÓN",U S A | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/02/AE.max-640x640-1.jpg" group-title="TELEVISIÓN",A & E | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/178
 
@@ -35,11 +38,23 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/216
 #EXTINF:-1 tvg-logo="https://wikiless.org/media/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="TELEVISIÓN",ANIMAL PLANET DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="TELEVISIÓN",INVESTIGATION DISCOVERY | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/220
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9c4d3025998093.5634e039afa90.jpg" group-title="TELEVISIÓN",THEATER DISCOVERY | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/217
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="TELEVISIÓN",T L C  DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/124
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TELEVISIÓN",TURBO  DISCOVERY | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/10/59f1b1b576f8f__838x390.jpg" group-title="TELEVISIÓN",GARAGE TV | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/184
 
+#EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="TELEVISIÓN",EL GOUMERT | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219
 
 
 
