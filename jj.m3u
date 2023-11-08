@@ -5,8 +5,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/rungaroon/rungaroon1207/rungaroon120700065/14405969-n%C3%BAmero-de-cuenta-atr%C3%A1s-de-un-cine.jpg" group-title="CINE NOMÁS",CNM1 | ESP
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/swingvoodoo/swingvoodoo1205/swingvoodoo120500674/13835945-cine-de-cuenta-regresiva-1.jpg" group-title="CINE NOMÁS",CNM1 | ESP
 http://magmas5.com:8000/live/martinmbilbao/MFKVSE16K2/2205.m3u8
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/swingvoodoo/swingvoodoo1205/swingvoodoo120500687/13835949-cine-de-cuenta-regresiva-de-2.jpg" group-title="CINE NOMÁS",CNM2 | ESP
+http://magmas5.com:8000/live/martinmbilbao/MFKVSE16K2/2544.m3u8
+
 
 
 
