@@ -8,6 +8,9 @@
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/08/IMG_7120.png" group-title="TELEVISIÓN",SONY CHANNEL | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="TELEVISIÓN",MOVISTAR DRAMA | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/146
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LkHqclekEuA/YI4m4DvveQI/AAAAAAAAQMM/4fWE6pycXWU6ifPGXWMSWaB2t-YbNb4-wCPcBGAYYCw/s800/FX.jpg" group-title="TELEVISIÓN",F X | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/70
 
@@ -28,9 +31,6 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/178
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="TELEVISIÓN",T L C  DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/124
-
-#EXTINF:-1 tvg-logo="https://www.techworm.net/wp-content/uploads/2019/01/Best-Horror-Movies.jpg" group-title="TELEVISIÓN",NETFLIX HORROR | ESP
-http://50.7.233.26:8000/play/ja0127917/4AdQdpYSCAhV/625864.ts?token=H0EMV0RQRl8UWFgDUVVWAVcABgFSAwJWUVEHCAAIUQdSVwdTD1xVXFJDFRZAFkBdBw48WFASDVIHAl4OVxQXRhcGFmleXEZfFFAOAARbChpKQRdYWVUVXgQBXwFXCQQCUlJIFEdRAEcMQwgNAlsGGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBouYBcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYGFUoaDldbWhAMFmlHUQBHDEMIDQFSAhob
 
 
 
