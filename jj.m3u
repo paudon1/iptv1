@@ -4,8 +4,18 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/08/IMG_7120.png" group-title="ABSOLUTAMENTE CINE",SONY CHANNEL | ESP
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/08/IMG_7120.png" group-title="TELEVISIÓN",SONY CHANNEL | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="TELEVISIÓN",SONY CHANNEL | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/124
+
+
+
+
+
+
 
 
 
