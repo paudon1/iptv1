@@ -56,7 +56,26 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/184
 #EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="TELEVISIÓN",EL GOUMERT | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/219
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TELEVISIÓN",AZTECA UNO | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg" group-title="TELEVISIÓN",ANTENA 3 | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/96
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Z2wrGMDBjfHLsEpJQomCoKfJGug=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YFQKFBA4JZFKJNF53RA6LSKH54.jpg" group-title="TELEVISIÓN",CARACOL TV | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/157
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TELEVISIÓN",TELECINCO | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="TELEVISIÓN",DISNEY XD | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/63
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="TELEVISIÓN",NICK JR | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/64
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="TELEVISIÓN",DISCOVERY KIDS | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/210
 
 
 
