@@ -5,32 +5,135 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",SONY CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e55a0fc10b14eae9edab2efd3915c34~mv2.jpg" group-title="CINE 1",XTREMA CINE LATINO | ESP
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c09f2f95f51479c8c418f25cfc5ab82~mv2.jpg" group-title="CINE 1",PLANETA TV MOVIE | CL
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="CINE 1",SONY CINE | ESP
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="CINE 1",9 CANAL BARBE TV | GT
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="CINE 1",PLUTO CINE | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ESTELAR | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="CINE 1",COSMOS | AR
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="CINE 1",PLUTO CINE ESTELAR | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="CINE 1",ORBIT | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0510f5eada5f451680d577f1025d6001~mv2.jpg" group-title="CINE 1",PLUTO STVP CINE ESTELAR | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b8728304118a4d949fe4d976164c137e~mv2.jpg" group-title="CINE 1",IMAGEN UNIVERSAL TV | DO
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a05cd09bc2a544ae930c72cb3f2ebc0a~mv2.jpg" group-title="CINE 1",PLUTO STVP RUN:TIME | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="CINE 1",CASCARA TV | DO
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="CINE 1",RUN:TIME CINE | ESP
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_310810a1fe6240d18e22e784cdf1920c~mv2.jpg" group-title="CINE 1",GUATV | GT
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="CINE 1",PLUTO CINE ACCIÓN | ESP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ae370dd13c7b42ffb0e873a9e04411c4~mv2.jpg" group-title="CINE 1",PANDO NET TV | BO
+https://stmv1.cnarlatam.com/pandonet/pandonet/chunklist_w1572142405.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="CINE 1",RAKUTEN ACTION | ES
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="CINE 1",OPINIÓN SUR | CL
+https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/chunklist_w727491770.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="CINE 1",RUN:TIME ACCIÓN | ESP
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="CINE 1",SOL TV | GT
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="CINE 1",XTREMA CINE ACCIÓN | ESP
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_632829228dc04d4f91e8fa4bd8ce56f6~mv2.jpg" group-title="CINE 1",SEO TV 4 PELÍCULAS | BO
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c31abb55782c4e99a4fef96fe787717a~mv2.jpg" group-title="CINE 1",PLUTO STVP CINE ACCIÓN | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5157ae9436254aeb8b54be9e60ff0415~mv2.jpg" group-title="CINE 1",PLUTO STVP ESTRELLAS DE ACCIÓN | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="CINE 1",ORIGEN TV | CL
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="CINE 1",RUN:TIME THRILLER | ESP
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f90577c9ee5c44b6ac9a2b9901ebb222~mv2.jpg" group-title="CINE 1",NIM TV | GT
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="CINE 1",RAKUTEN THRILLERS | ESP
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/7ced61bc-a282-4d12-a6ac-e2d09e1f2a82/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4dcc56707de84ff4bf0474135748b3f3~mv2.jpg" group-title="CINE 1",TV FLORENCIA | GT
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_21f92911d0324f1ca59c3ea40d9dcf6e~mv2.jpg" group-title="CINE 1",PLUTO STVP CINE SUSPENSO | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="CINE 1",TV BELLA ASUNCIÓN | PE
+https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="CINE 1",XTREMA CINE SUSPENSO | ESP
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d44d13789de54aa3a4179a4e99b0cf6e~mv2.jpg" group-title="CINE 1",SUPER TV | CL
+https://stmv5.voxtvhd.com.br/supertv/supertv/chunklist_w10319908.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_add322b8df7a4800ba6b37a389a62ef6~mv2.jpg" group-title="CINE 1",PLUTO STVP ADRENALINA FREEZONE | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bde6b823938c4220b1f3a2212bbc54a6~mv2.jpg" group-title="CINE 1",DMJ SUR | PE
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1438123523.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_18554180f5794b129e107915568bad0c~mv2.jpg" group-title="CINE 1",PLUTO STVP NUESTRO CINE | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="CINE 1",CINE AR | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="CINE 1",RAKUTEN CINE ESPAÑOL | ESP
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/d84aaa20-36cb-4efd-9028-a8775020504e/2.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME MÉXICO | MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0510f5eada5f451680d577f1025d6001~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP CINE ESTELAR | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a05cd09bc2a544ae930c72cb3f2ebc0a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP RUN:TIME | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MY TIME ESPAÑA | ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1f72555de898459fac04db96b6033ec4~mv2.jpg" group-title="ABSOLUTAMENTE CINE",MEGA CINE | ESP
 https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1921621556.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME CINE | ESP
-https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7f64eeb079814963a63b5c5031c7122a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",FLOU CINE | ESP
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb573d16726c648d93d43d67d1ef4182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30f10da38a2b00148972945fa83439c8101b3d2d60a83458076f340cc9bf0df8644828cb5599312f10b194a2b6b988360e1af37d28b836774c60a422b1f51f5ed80f75a39b9494251fd8da1d50dfc12c08c29807421e17bf23c85349925ae0cb1e84da592b7de4c462ca5c35e1343ca87a599a11d59d067ffb1a7ce7a689cc9047940cc1f8f487e3084e9db07c19014d3e425c0e66f0a2fd7df469a93b78feefe995cd977ccc2e7dd6f44426a0a07874fe7c86bdd25d26de5cd1a2f591717c7f754c095975a357446858561dd1769fbb1cbd5dd596292364803b8338a030335cf313c7ae32ffb993a3ade235edd6738af0f6ffd2896b928e6e9dce0083fb0ccb52d9502e1ba1eede512ac6e355f0bb6f676272f227cd4fd28182346d357edc5cbe26e7b6686939ce7ce1e627d5367530898ace3758d87c32c2201c857326806767df25584318f5a336a5fc81ac0e20d71930f2228d9af3a545d6482bad4ebe4819814ef11b9a8fc3d3c75406cbf41664c0f83ecd9338c394f6d345c901f5b50a9084847d580dbe9ebff04b39470be28714e2c8ae700564751726d0f979126c348ad9718af92c959dfb5e2782d8438b04f179ac0ce1e9b87e097157ffac3561d74d9d028d5632cb574be4ad88801b2da54020f72495bfd8255eb2ddab5fb9771ed46dd4e076da47fbf8cf18cd56958f4944427416a3f762e08344662b9dec62a016bfc8325f353e2e750db323e5d3c48d3cc035f88ed7b1dd23a6a74ffd3a1e7aace1302f56dfb7bda650db2256e44809d6281e9d6f4fe977d2663b3d7fb7e49c0e2f0a42959b51f710e1da383397872c02ff3837599c77f52cef94661470ced18cc3aa990be6ec531a5d9b50dafeae79604dca13f2824dfd4f6ef00d2a806e67a759b64371b9d86e8fd2788b214e2cf8b2f83a82256d45953fe00b3f207c761df8c5c7fb3d03f0a873d5ab591bdbb8adda45b731204efb0d9691f62fbafd93eba98f21d458f0951c9424668af73c5a4b67d76db71726a5ec0041d857b88c996091722eeda512c240903021a916e686cb56e24f541f2d3ebbf3e74d54192596bf6398ed247aba73bebf1effabaaa6d36f0b95f40b247cc238d0ee295cff431af56218d6d92116def9ffff6dae3cab2808e4f0956c60acb479836a9c7af90670f452f8d5875197e8e68a9613e5a9ac05addb40d3dd6ac9a2df74605154c444a8c73d8bb1a47422f8c9c0dbed5786d646970a58331be1db04a1c971510991f7c190b08424bc1c69e4f0c019de8ad3411af0c19475476668d29/134/640x360_791841/index.m3u8
@@ -40,24 +143,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="ABSOLUTAMENTE CINE",TU CINE | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE ACCIÓN | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN ACTION | ES
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME ACCIÓN | ESP
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE ACCIÓN | ESP
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c31abb55782c4e99a4fef96fe787717a~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP CINE ACCIÓN | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5157ae9436254aeb8b54be9e60ff0415~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP ESTRELLAS DE ACCIÓN | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE COMEDIA | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
@@ -88,18 +173,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN DRAMA | ES
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RUN:TIME THRILLER | ESP
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN THRILLERS | ESP
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/7ced61bc-a282-4d12-a6ac-e2d09e1f2a82/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_21f92911d0324f1ca59c3ea40d9dcf6e~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP CINE SUSPENSO | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE SUSPENSO | ESP
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO CINE TERROR | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
@@ -152,20 +225,8 @@ https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c95e171c29984561acbebdda384117c6~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP SCI-FI | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_add322b8df7a4800ba6b37a389a62ef6~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP ADRENALINA FREEZONE | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN TOP FREE | ESP
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_18554180f5794b129e107915568bad0c~mv2.jpg" group-title="ABSOLUTAMENTE CINE",PLUTO STVP NUESTRO CINE | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e55a0fc10b14eae9edab2efd3915c34~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE LATINO | ESP
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",RAKUTEN CINE ESPAÑOL | ESP
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/d84aaa20-36cb-4efd-9028-a8775020504e/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ffc8ddec28d44f1283a1e237060622d8~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE EUROPA | ESP
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
@@ -181,9 +242,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distr
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE SUREÑO | ESP
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CINE AR | AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="ABSOLUTAMENTE CINE",CANELA TV | ESP
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_low.m3u8
@@ -220,63 +278,6 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/chunklist_w1561257303.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d770913618e94e889161290eda6373fc~mv2.jpg" group-title="ABSOLUTAMENTE CINE",XTREMA CINE RETRO SERIES | ESP
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/chunklist_w11453428.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c09f2f95f51479c8c418f25cfc5ab82~mv2.jpg" group-title="BÁSICAMENTE CINE",PLANETA TV MOVIE | CL
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="BÁSICAMENTE CINE",9 CANAL BARBE TV | GT
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="BÁSICAMENTE CINE",COSMOS | AR
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="BÁSICAMENTE CINE",ORBIT | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b8728304118a4d949fe4d976164c137e~mv2.jpg" group-title="BÁSICAMENTE CINE",IMAGEN UNIVERSAL TV | DO
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="BÁSICAMENTE CINE",CASCARA TV | DO
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_310810a1fe6240d18e22e784cdf1920c~mv2.jpg" group-title="BÁSICAMENTE CINE",GUATV | GT
-https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ae370dd13c7b42ffb0e873a9e04411c4~mv2.jpg" group-title="BÁSICAMENTE CINE",PANDO NET TV | BO
-https://stmv1.cnarlatam.com/pandonet/pandonet/chunklist_w1572142405.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="BÁSICAMENTE CINE",OPINIÓN SUR | CL
-https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/chunklist_w727491770.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="BÁSICAMENTE CINE",SOL TV | GT
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_632829228dc04d4f91e8fa4bd8ce56f6~mv2.jpg" group-title="BÁSICAMENTE CINE",SEO TV 4 PELÍCULAS | BO
-https://live.seo.tv.bo/live/4SEO.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="BÁSICAMENTE CINE",ORIGEN TV | CL
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f90577c9ee5c44b6ac9a2b9901ebb222~mv2.jpg" group-title="BÁSICAMENTE CINE",NIM TV | GT
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4dcc56707de84ff4bf0474135748b3f3~mv2.jpg" group-title="BÁSICAMENTE CINE",TV FLORENCIA | GT
-https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="BÁSICAMENTE CINE",TV BELLA ASUNCIÓN | PE
-https://tvdatta.com:3602/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d44d13789de54aa3a4179a4e99b0cf6e~mv2.jpg" group-title="BÁSICAMENTE CINE",SUPER TV | CL
-https://stmv5.voxtvhd.com.br/supertv/supertv/chunklist_w10319908.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bde6b823938c4220b1f3a2212bbc54a6~mv2.jpg" group-title="BÁSICAMENTE CINE",DMJ SUR | PE
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1438123523.m3u8
 
 
 
