@@ -4,7 +4,6 @@
 
 
 
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e55a0fc10b14eae9edab2efd3915c34~mv2.jpg" group-title="CINE 1",XTREMA CINE LATINO | ESP
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 
@@ -924,7 +923,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/70
 #EXTINF:-1 tvg-logo="https://cdn.eldeforma.com/wp-content/uploads/2020/09/Cover-Clases-Televisio%CC%81n-Golden-Edge-Anatomi%CC%81a.jpg" group-title="TELEVISIÓN",EDGE GOLDEN | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/181
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="TELEVISIÓN",H B O  + | ESP
+#EXTINF:-1 tvg-logo="https://www.superestudio.tv/case-studies/hbo+/hbo+-06.jpg" group-title="TELEVISIÓN",H B O  + | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/215
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/large.hbo_fam_2021.png.78e486f59937b0e3ef1091f962f3d8ff.png" group-title="TELEVISIÓN",H B O   FAMILY | ESP
