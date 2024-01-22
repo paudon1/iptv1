@@ -377,8 +377,8 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w6662
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5636bbdb362848c3bf913dafd78cb621~mv2.jpg" group-title="D CINE",ONDA | CL
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2278187_ico.png" group-title="D CINE",TELE:CLÁSICA | MX
-https://tgn.bozztv.com/ssh101/ssh101/teleclasik/chunks.m3u8?nimblesessionid=141797849
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2278187_ico.png" group-title="D CINE",TELE_CLÁSICA | MX
+https://tgn.bozztv.com/ssh101/ssh101/teleclasik/chunks.m3u8?nimblesessionid=142619792
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_11fbdeb66fb341538fa0b771af203fa5~mv2.jpg" group-title="D CINE",TELEMIX! | AR
 https://panel.dattalive.com/8068/8068/playlist.m3u8
