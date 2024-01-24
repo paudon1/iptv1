@@ -609,9 +609,6 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="10 MÉXICO",VERACRUZ | MX
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Tele-Yucatan-en-vivo-Online.png" group-title="10 MÉXICO",YUCATÁN | MX
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w2129200883.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI0IDU6NTY6MjggUE0maGFzaF92YWx1ZT15WlNVTTNHdGFLbERKYVJSVk83b0Z3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
-
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000226531123-dj4wuf-t500x500.jpg" group-title="10 MÉXICO",ZACATECAS | MX
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
