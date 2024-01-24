@@ -567,56 +567,90 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a1f1dfe1c8bf4c298eef242c9811044e~mv2.jpg" group-title="10 MÉXICO",AGUASCALIENTES | MX
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1b3916942d3443eb8a936adfae304ab3~mv2.jpg" group-title="10 MÉXICO",CAMPECHE | MX
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83210e7d310747bf89559cf07f4e30d1~mv2.jpg" group-title=" 10 MÉXICO",CDMX | MX
+https://video.cdmx.gob.mx/redes/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83210e7d310747bf89559cf07f4e30d1~mv2.jpg" group-title="G MÉXICO_1",CDMX | MX
-https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ca1a28f9fa314a80bf77dfc5f05e03af~mv2.jpg" group-title="G MÉXICO_1",CHIAPAS | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ca1a28f9fa314a80bf77dfc5f05e03af~mv2.jpg" group-title="10 MÉXICO",CHIAPAS | MX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_09335f9305174742bd2f1d587199ff5d~mv2.jpg" group-title="G MÉXICO_1",ESTADO DE MÉXICO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_09335f9305174742bd2f1d587199ff5d~mv2.jpg" group-title="10 MÉXICO",ESTADO DE MÉXICO | MX
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1815260835.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9e7db3f601544634bbe934792bd6f00a~mv2.jpg" group-title="G MÉXICO_1",GUERRERO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9e7db3f601544634bbe934792bd6f00a~mv2.jpg" group-title="10 MÉXICO",GUERRERO | MX
 https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4388d4a2c16a48a382a043853ae51486~mv2.jpg" group-title="G MÉXICO_1",JALISCO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4388d4a2c16a48a382a043853ae51486~mv2.jpg" group-title="10 MÉXICO",JALISCO | MX
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26cf2efd7ae646f6a4e0312e1fbd5ea9~mv2.jpg" group-title="G MÉXICO_1",MICHOACÁN | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26cf2efd7ae646f6a4e0312e1fbd5ea9~mv2.jpg" group-title="10 MÉXICO",MICHOACÁN | MX
 https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w1554403236.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_85adb9ef713f4546b4fccddfe04d0459~mv2.jpg" group-title="G MÉXICO_1",MORELOS | MX
-https://stream8.mexiserver.com:1936/morelostv/morelostv/chunklist_w2051508309.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_85adb9ef713f4546b4fccddfe04d0459~mv2.jpg" group-title="10 MÉXICO",MORELOS | MX
+https://stream8.mexiserver.com:19360/morelostvx/morelostvx.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_421462fa0cc5485382a796c024cb83da~mv2.jpg" group-title="G MÉXICO_1",NUEVO LEÓN | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_421462fa0cc5485382a796c024cb83da~mv2.jpg" group-title="10 MÉXICO",NUEVO LEÓN | MX
 https://s5.mexside.net:1936/canal28/canal28/chunklist_w633558775.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b2f021cb5267408e8bdca91aa08f3f73~mv2.jpg" group-title="G MÉXICO_1",OAXACA | MX
-https://stream.oursnetworktv.com/latin/encoder29/chunklist_w823480546.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5c07bf88f2e54766ae64ed887379220b~mv2.jpg" group-title="G MÉXICO_1",PUEBLA | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5c07bf88f2e54766ae64ed887379220b~mv2.jpg" group-title="10 MÉXICO",PUEBLA | MX
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14c745c4d2314b8ebd98a08fd297ce12~mv2.jpg" group-title="G MÉXICO_1",QUINTANA ROO | MX
+#EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="10 MÉXICO",QUERÉTARO | MX
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14c745c4d2314b8ebd98a08fd297ce12~mv2.jpg" group-title="10 MÉXICO",QUINTANA ROO | MX
 https://5fa5de1a545ae.streamlock.net/4982/4982/chunklist_w1932546396.m3u8
 
-#EXTINF:-1 tvg-logo="https://corat.mx/wp-content/uploads/2019/06/logo_tvt_corat-300x300.png" group-title="G MÉXICO_1",TABASCO | MX
+#EXTINF:-1 tvg-logo="https://corat.mx/wp-content/uploads/2019/06/logo_tvt_corat-300x300.png" group-title="10 MÉXICO",TABASCO | MX
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/2022/Logo-Tlaxcala-Television.png" group-title="G MÉXICO_1",TLAXCALA | MX
+#EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/2022/Logo-Tlaxcala-Television.png" group-title="10 MÉXICO",TLAXCALA | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="G MÉXICO_1",VERACRUZ | MX
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="10 MÉXICO",VERACRUZ | MX
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Tele-Yucatan-en-vivo-Online.png" group-title="G MÉXICO_1",TELE YUCATÁN | MX
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w2071147867.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Tele-Yucatan-en-vivo-Online.png" group-title="10 MÉXICO",YUCATÁN | MX
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w1318759495.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvinsur.com/img/mx/sizart-24.webp" group-title="G MÉXICO_1",ZACATECAS | MX
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000226531123-dj4wuf-t500x500.jpg" group-title="10 MÉXICO",ZACATECAS | MX
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OzfRPvpNuco/maxresdefault.jpg" group-title="10 MÉXICO",*CANAL 06 MTY | MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="10 MÉXICO",*CANAL 10 CANCÚN | MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="10 MÉXICO",*CANAL 11 | MX
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
+
+#EXTINF:-1 tvg-logo="https://cosmored.net/imagenes/canales/Canal14.png" group-title="10 MÉXICO",*CANAL 14 | MX
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Canal-15-Coahuila-en-vivo-Online.png" group-title="10 MÉXICO",*CANAL 15 | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400512601.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png" group-title="10 MÉXICO",*PRESUMIENDO MÉXICO | MX
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="10 MÉXICO",*RCG MEDIA | MX
+https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/suma.jpg" group-title="10 MÉXICO",*SUMA TV | MX
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1680717119&e=1680717239&h=5fe56ab2b8b8b835edf38aab5a0c3253
+
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tvp-culiacan.webp" group-title="10 MÉXICO",*TVP | MX
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -876,47 +910,7 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f0215f50bccb402e8fcebc21af7f5601~mv2.jpg" group-title="MÉXICO-PRIV",CANAL 11 | MX
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OzfRPvpNuco/maxresdefault.jpg" group-title="MÉXICO-PRIV",CANAL 6 MTY | MX
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="MÉXICO-PRIV",CANAL 10 CANCÚN | MX
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cosmored.net/imagenes/canales/Canal14.png" group-title="MÉXICO-PRIV",CANAL 14 | MX
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png" group-title="MÉXICO-PRIV",CANAL 15 | MX
-https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400512601.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png" group-title="MÉXICO-PRIV",PRESUMIENDO MÉXICO | MX
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="MÉXICO-PRIV",RCG MEDIA | MX
-https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/suma.jpg" group-title="MÉXICO-PRIV",SUMA TV | MX
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1680717119&e=1680717239&h=5fe56ab2b8b8b835edf38aab5a0c3253
-
-#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_63b483aa08f0c.png" group-title="MÉXICO-PRIV",NUEVE TV | MX
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tvp-culiacan.webp" group-title="MÉXICO-PRIV",TVP | MX
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://xhkg.tv/wp-content/uploads/2018/07/Logo_XHKG-2.png" group-title="MÉXICO-PRIV",XHKG TV NAYARIT | MX
-https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8
-
-#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tv-guanajuato.webp" group-title="MÉXICO-PRIV",GUANAJUATO | MX
-https://stream.oursnetworktv.com/latin/tvguanajuato/chunklist_w1175804744.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="MÉXICO-PRIV",QUERÉTARO | MX
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal12quintanaroo.mx/wp-content/uploads/2020/09/canal12.png" group-title="MÉXICO-PRIV",CANAL 12 QUINTANA ROO | MX
-https://canal12.mediaflix.istream.mx/livestream/canal12/livesd/chunks.m3u8
 
 
 
