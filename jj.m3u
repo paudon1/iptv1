@@ -327,8 +327,11 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/155
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="7 PROGRAMACIÓN TV",TLC | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/124
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="7 PROGRAMACIÓN TV",TURBO_DISCOVERY | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="7 PROGRAMACIÓN TV",TURBO DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+
+#EXTINF:-1 tvg-logo="https://okdiario.com/img/2022/10/31/tve.jpg" group-title="7 PROGRAMACIÓN TV",TVE | ES
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="7 PROGRAMACIÓN TV",USA | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
@@ -338,37 +341,37 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/80
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_247220c176fd4db0a26b00beee60a935~mv2.jpg" group-title="008 NOTICIAS",ADN_40 | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_247220c176fd4db0a26b00beee60a935~mv2.jpg" group-title="8 NOTICIAS",ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c1843e80055443e8b65b1ef682bb7edb~mv2.jpg" group-title="008 NOTICIAS",AMX_NOTICIAS | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c1843e80055443e8b65b1ef682bb7edb~mv2.jpg" group-title="8 NOTICIAS",AMX NOTICIAS | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="008 NOTICIAS",CANAL_44 | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a988c8a8ad5e4065ad6f63e97d66da39~mv2.jpg" group-title="8 NOTICIAS",CANAL 44 | MX
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b1cc74dea6bf4419995cc659c21879a9~mv2.jpg" group-title="008 NOTICIAS",ESTRELLA_NEWS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b1cc74dea6bf4419995cc659c21879a9~mv2.jpg" group-title="8 NOTICIAS",ESTRELLA NEWS | ESP
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d6f0dcec27a543d1b7e61ead9fcba744~mv2.jpg" group-title="008 NOTICIAS",EURONEWS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d6f0dcec27a543d1b7e61ead9fcba744~mv2.jpg" group-title="8 NOTICIAS",EURONEWS | ESP
 https://euronews-euronews-spanish-2-us.plex.wurl.tv/b1226c8df34ab98f1374c57fa4fdf804.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e39a5a96e8e49eca0764fc8408d00c6~mv2.jpg" group-title="008 NOTICIAS",FORO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e39a5a96e8e49eca0764fc8408d00c6~mv2.jpg" group-title="8 NOTICIAS",FORO TV | MX
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4a641f87cb7c41538052220c66ca2b78~mv2.jpg" group-title="008 NOTICIAS",MILENIO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4a641f87cb7c41538052220c66ca2b78~mv2.jpg" group-title="8 NOTICIAS",MILENIO | MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="008 NOTICIAS",N+ | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_35e8dde8e7f44159b76c0703b9a1625a~mv2.jpg" group-title="8 NOTICIAS",N+ | MX
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a79f764c1b8d402d98c57bf458c48797~mv2.jpg" group-title="008 NOTICIAS",NRT | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a79f764c1b8d402d98c57bf458c48797~mv2.jpg" group-title="8 NOTICIAS",NRT | MX
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w575999523.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3b9cc8efa2ba437a9572246c475f7cc1~mv2.jpg" group-title="008 NOTICIAS",RT | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3b9cc8efa2ba437a9572246c475f7cc1~mv2.jpg" group-title="8 NOTICIAS",RT | ESP
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26a64074fe1c4ed3b297f88e0c4750d9~mv2.jpg" group-title="008 NOTICIAS",TELEFÓRMULA | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26a64074fe1c4ed3b297f88e0c4750d9~mv2.jpg" group-title="8 NOTICIAS",TELEFÓRMULA | MX
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 
@@ -376,97 +379,97 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_cd3ed54b8de2467f8d55201023f77162~mv2.jpg" group-title="009 EDUCATIVO",ATN | CO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_cd3ed54b8de2467f8d55201023f77162~mv2.jpg" group-title="9 EDUCATIVO",ATN | CO
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="009 EDUCATIVO",BUAP | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="9 EDUCATIVO",BUAP | MX
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d21ea3ebb394d559d27e425819cfeb4~mv2.jpg" group-title="009 EDUCATIVO",CAPITAL | CO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d21ea3ebb394d559d27e425819cfeb4~mv2.jpg" group-title="9 EDUCATIVO",CAPITAL | CO
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="009 EDUCATIVO",CGTN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="9 EDUCATIVO",CGTN | ESP
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_044329ad26b143f3b2adfc67a70413fa~mv2.jpg" group-title="009 EDUCATIVO",DW | DE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_044329ad26b143f3b2adfc67a70413fa~mv2.jpg" group-title="9 EDUCATIVO",DW | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d753eceb41334279a915c7c175317a65~mv2.jpg" group-title="009 EDUCATIVO",EDUCANAL | PY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d753eceb41334279a915c7c175317a65~mv2.jpg" group-title="9 EDUCATIVO",EDUCANAL | PY
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="009 EDUCATIVO",ENCUENTRO | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="9 EDUCATIVO",ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d25f22b5108441dd910aeaf13d0cc830~mv2.jpg" group-title="009 EDUCATIVO",HISPAN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d25f22b5108441dd910aeaf13d0cc830~mv2.jpg" group-title="9 EDUCATIVO",HISPAN | ESP
 https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w899813674_b394100_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="009 EDUCATIVO",ILCE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="9 EDUCATIVO",ILCE | ESP
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w364183830_b2430208.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="009 EDUCATIVO",NTV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="9 EDUCATIVO",NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.platzi.com/static/website/v2/images/livex/platzi-tv-es.png" group-title="009 EDUCATIVO",PLATZI | CO
+#EXTINF:-1 tvg-logo="https://static.platzi.com/static/website/v2/images/livex/platzi-tv-es.png" group-title="9 EDUCATIVO",PLATZI | CO
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3594e4d1b76a4163a5742dafc4141e73~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_ANIMALES | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3594e4d1b76a4163a5742dafc4141e73~mv2.jpg" group-title="9 EDUCATIVO",PLUTO ANIMALES | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_94c7f525f9be4a9a8514cd967741cf03~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_CIENCIA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_94c7f525f9be4a9a8514cd967741cf03~mv2.jpg" group-title="9 EDUCATIVO",PLUTO CIENCIA | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f394f707c95a4650b0f9df9ff256b68d~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_HISTORIA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f394f707c95a4650b0f9df9ff256b68d~mv2.jpg" group-title="9 EDUCATIVO",PLUTO HISTORIA | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1c2fd0de094d4f81a94fc604385d91da~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_MISTERIOS_MÉDICOS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1c2fd0de094d4f81a94fc604385d91da~mv2.jpg" group-title="9 EDUCATIVO",PLUTO MISTERIOS MÉDICOS | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_948cee9f02a841ddad43b64fefedf1c7~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_MUNDO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_948cee9f02a841ddad43b64fefedf1c7~mv2.jpg" group-title="9 EDUCATIVO",PLUTO MUNDO | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_79d344c48ace498885ec35e8ec8e31cf~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_NATURALEZA_1 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_79d344c48ace498885ec35e8ec8e31cf~mv2.jpg" group-title="9 EDUCATIVO",PLUTO NATURALEZA-1 | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b534fbf95961408dabe2cad4ca22d2ad~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_NATURALEZA_2 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b534fbf95961408dabe2cad4ca22d2ad~mv2.jpg" group-title="9 EDUCATIVO",PLUTO NATURALEZA-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_99f4baaa8a444aacb542a097db393ae1~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_SMITHSONIAN_CHANNEL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_99f4baaa8a444aacb542a097db393ae1~mv2.jpg" group-title="9 EDUCATIVO",PLUTO SMITHSONIAN CHANNEL | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_42f6932a0dbb4f63885ac37be63f888a~mv2.jpg" group-title="009 EDUCATIVO",PLUTO_VIDA_REAL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_42f6932a0dbb4f63885ac37be63f888a~mv2.jpg" group-title="9 EDUCATIVO",PLUTO VIDA REAL | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="009 EDUCATIVO",SUYAI | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="9 EDUCATIVO",SUYAI | CL
 https://5ff3d9babae13.streamlock.net/ewdnnusyjt/ewdnnusyjt/chunklist_w763390363.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d146e25b136e4d3bba91810f880e9bdc~mv2.jpg" group-title="009 EDUCATIVO",TELEPACÍFICO | CO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d146e25b136e4d3bba91810f880e9bdc~mv2.jpg" group-title="9 EDUCATIVO",TELEPACÍFICO | CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/28/logo-transmedia-horiz-07a679f9-282775e3.png" group-title="009 EDUCATIVO",TRANSMEDIA_UNaM | AR
+#EXTINF:-1 tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/28/logo-transmedia-horiz-07a679f9-282775e3.png" group-title="9 EDUCATIVO",TRANSMEDIA UNaM | AR
 http://192.100.186.53:8090/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a6a345c40804220bfadff1ed43fee49~mv2.jpg" group-title="009 EDUCATIVO",UCT | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a6a345c40804220bfadff1ed43fee49~mv2.jpg" group-title="9 EDUCATIVO",UCT | CL
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png" group-title="009 EDUCATIVO",UCV_1 | CL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png" group-title="9 EDUCATIVO",UCV-1 | CL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="009 EDUCATIVO",UCV_2 | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="9 EDUCATIVO",UCV-2 | CL
 https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ee07e3b497374629a2bdf41bb6c3b668~mv2.jpg" group-title="009 EDUCATIVO",UESTV | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ee07e3b497374629a2bdf41bb6c3b668~mv2.jpg" group-title="9 EDUCATIVO",UESTV | CL
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c92bffe26bb447bd985d66d30958a085~mv2.jpg" group-title="009 EDUCATIVO",UMAG_2 | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c92bffe26bb447bd985d66d30958a085~mv2.jpg" group-title="9 EDUCATIVO",UMAG-2 | CL
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aa680355b2fb463d89c088e6361d38e0~mv2.jpg" group-title="009 EDUCATIVO",UNI | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aa680355b2fb463d89c088e6361d38e0~mv2.jpg" group-title="9 EDUCATIVO",UNI | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="009 EDUCATIVO",UNIVERSITARIA | BO
+#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="9 EDUCATIVO",UNIVERSITARIA | BO
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="009 EDUCATIVO",UNLP | AR
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="9 EDUCATIVO",UNLP | AR
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
@@ -561,24 +564,11 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a1f1dfe1c8bf4c298eef242c9811044e~mv2.jpg" group-title="G MÉXICO_1",AGUASCALIENTES | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a1f1dfe1c8bf4c298eef242c9811044e~mv2.jpg" group-title="10 MÉXICO",AGUASCALIENTES | MX
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1b3916942d3443eb8a936adfae304ab3~mv2.jpg" group-title="G MÉXICO_1",CAMPECHE | MX
-https://stream.oursnetworktv.com/latin/SRTC/chunklist_w272575822.m3u8
+https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1761933323.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83210e7d310747bf89559cf07f4e30d1~mv2.jpg" group-title="G MÉXICO_1",CDMX | MX
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
