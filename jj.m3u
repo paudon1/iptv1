@@ -4,53 +4,52 @@
 
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",BARBE | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",BARBE | GT
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",BELLA_ASUNCIÓN| PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",BELLA ASUNCIÓN| PE
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",CÁSCARA | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",CASCARA | DO
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",COSMOS | AR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",COSMOS | AR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bde6b823938c4220b1f3a2212bbc54a6~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",DMJ | PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bde6b823938c4220b1f3a2212bbc54a6~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",DMJ | PE
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1438123523.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4dcc56707de84ff4bf0474135748b3f3~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",FLORENCIA | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4dcc56707de84ff4bf0474135748b3f3~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",FLORENCIA | GT
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b8728304118a4d949fe4d976164c137e~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",IU | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b8728304118a4d949fe4d976164c137e~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",IMAGEN UNIVERSAL | DO
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c09f2f95f51479c8c418f25cfc5ab82~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",MOVIE | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c09f2f95f51479c8c418f25cfc5ab82~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",MOVIE PLANETA | CL
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",MULTIVISION | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",MULTIVISIÓN | ESP
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f90577c9ee5c44b6ac9a2b9901ebb222~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",NIM | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f90577c9ee5c44b6ac9a2b9901ebb222~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",NIM | GT
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",OPINIÓN_SUR | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",OPINIÓN SUR | CL
 https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/chunklist_w727491770.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",ORBIT | DO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",ORBIT | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",ORIGEN | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",ORIGEN | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0d34db9a4b134222ba7d64b8e32dfc80~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",PLANETA_TV_FAMILY | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0d34db9a4b134222ba7d64b8e32dfc80~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",PLANETA FAMILY | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_28524ff377e143ce8256b1dc3a7c0565~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",RETRO_PLUS 3 | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_28524ff377e143ce8256b1dc3a7c0565~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",RETRO PLUS 3 | CL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1862656614.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="001-PROGRAMACIÓN_CINE_1",SOL | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="1 PROGRAMACIÓN CINE-1",SOL | GT
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 
@@ -58,25 +57,25 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="002-RAKUTEN",ACTION | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6268b5a6f4cf4527b6e2a7bc1e9b53cd~mv2.jpg" group-title="2 RAKUTEN",ACTION | ES
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="002-RAKUTEN",CINE_ESPAÑOL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_78ccf8d5457449d8b48975bc6f9edf1f~mv2.jpg" group-title="2 RAKUTEN",CINE ESPAÑOL | ESP
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/4bb867bd-88b1-4a57-830b-7c4dfa2b95b8/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_22b7b7cdb33e4a7790b350032ff6da77~mv2.jpg" group-title="002-RAKUTEN",COMEDY | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_22b7b7cdb33e4a7790b350032ff6da77~mv2.jpg" group-title="2 RAKUTEN",COMEDY | ES
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="002-RAKUTEN",DRAMA | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0e473e64a26a4de19720e84a175af444~mv2.jpg" group-title="2 RAKUTEN",DRAMA | ES
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="002-RAKUTEN",ROMÁNTICO | ESP
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/5d27b333-12b4-46b2-adbb-54c5bde1435c/1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b724c83f0ad7470e9f5750cd3249530f~mv2.jpg" group-title="2 RAKUTEN",ROMÁNTICO | ESP
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/b3c6c7bd-31ae-4a40-9e20-bfc4afec2c75/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="002-RAKUTEN",TOP_FREE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a613ce29797461f8b75a1e8d341544b~mv2.jpg" group-title="2 RAKUTEN",TOP FREE | ESP
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="002-RAKUTEN",THRILLERS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_63e2c2180a7f42429147b0368681c2cf~mv2.jpg" group-title="2 RAKUTEN",THRILLERS | ESP
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/91a0e937-0e64-400b-9e81-130db02c5074/2.m3u8
 
 
@@ -84,31 +83,31 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="003-RUN:TIME",ACCIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg" group-title="3 RUN:TIME",ACCIÓN | ESP
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="003-RUN:TIME",CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="3 RUN:TIME",CINE | ESP
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3ddc8d6824043fbaaf57efbc667dc00~mv2.jpg" group-title="003-RUN:TIME",CLÁSICOS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b3ddc8d6824043fbaaf57efbc667dc00~mv2.jpg" group-title="3 RUN:TIME",CLÁSICOS | ESP
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b852fda1b9f741a29f21d5128da05bef~mv2.jpg" group-title="003-RUN:TIME",COMEDIA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b852fda1b9f741a29f21d5128da05bef~mv2.jpg" group-title="3 RUN:TIME",COMEDIA | ESP
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg" group-title="003-RUN:TIME",CRIMEN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg" group-title="3 RUN:TIME",CRIMEN | ESP
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a05cd09bc2a544ae930c72cb3f2ebc0a~mv2.jpg" group-title="003-RUN:TIME",PLUTO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a05cd09bc2a544ae930c72cb3f2ebc0a~mv2.jpg" group-title="3 RUN:TIME",PLUTO | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3f0b69a288304c208459b6c07b954243~mv2.jpg" group-title="003-RUN:TIME",ROMANCE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3f0b69a288304c208459b6c07b954243~mv2.jpg" group-title="3 RUN:TIME",ROMANCE | ESP
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="003-RUN:TIME",THRILLER | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg" group-title="3 RUN:TIME",THRILLER | ESP
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg" group-title="003-RUN:TIME",TRASH | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg" group-title="3 RUN:TIME",TRASH | ESP
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
 
@@ -116,55 +115,54 @@ https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/02/AE.max-640x640-1.jpg" group-title="004-CINE_VARIOS_1",A&E | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/178
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="004-CINE_VARIOS_1",CINE AR | AR
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="4 CINE VARIOS-1",CINE AR | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="004-CINE_VARIOS_1",CINE ROMÁNTICO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="4 CINE VARIOS-1",CINE ROMÁNTICO | ESP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 tvg-logo="https://cdn.eldeforma.com/wp-content/uploads/2020/09/Cover-Clases-Televisio%CC%81n-Golden-Edge-Anatomi%CC%81a.jpg" group-title="004-CINE_VARIOS_1",EDGE | ESP
+#EXTINF:-1 tvg-logo="https://cdn.eldeforma.com/wp-content/uploads/2020/09/Cover-Clases-Televisio%CC%81n-Golden-Edge-Anatomi%CC%81a.jpg" group-title="4 CINE VARIOS-1",EDGE | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/181
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LkHqclekEuA/YI4m4DvveQI/AAAAAAAAQMM/4fWE6pycXWU6ifPGXWMSWaB2t-YbNb4-wCPcBGAYYCw/s800/FX.jpg" group-title="004-CINE_VARIOS_1",FX | ESP
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LkHqclekEuA/YI4m4DvveQI/AAAAAAAAQMM/4fWE6pycXWU6ifPGXWMSWaB2t-YbNb4-wCPcBGAYYCw/s800/FX.jpg" group-title="4 CINE VARIOS-1",FX | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/70
 
-#EXTINF:-1 tvg-logo="https://www.1prox.com/upload/images/h%20(1).jpg" group-title="004-CINE_VARIOS_1",HBO+ | ESP
+#EXTINF:-1 tvg-logo="https://www.1prox.com/upload/images/h%20(1).jpg" group-title="4 CINE VARIOS-1",HBO+ | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/215
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="004-CINE_VARIOS_1",MOVISTAR_DRAMA | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="4 CINE VARIOS-1",MOVISTAR DRAMA | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/146
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="004-CINE_VARIOS_1",MY_TIME_ESPAÑA | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="4 CINE VARIOS-1",MY TIME ESPAÑA | ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="004-CINE_VARIOS_1",MY_TIME_MÉXICO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="4 CINE VARIOS-1",MY TIME MÉXICO | MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="004-CINE_VARIOS_1",SONY_CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="4 CINE VARIOS-1",SONY CINE | ESP
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41llCt37l7L.png" group-title="004-CINE_VARIOS_1",TNT | ESP
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41llCt37l7L.png" group-title="4 CINE VARIOS-1",TNT | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/57
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1afb293948a4a2d9dadc39bb092ff5b~mv2.jpg" group-title="004-CINE_VARIOS_1",VIDEO_CLUB | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1afb293948a4a2d9dadc39bb092ff5b~mv2.jpg" group-title="4 CINE VARIOS-1",VIDEO CLUB | ESP
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/warner-tv-2968130.jpg" group-title="004-CINE_VARIOS_1",WARNER | ESP
+#EXTINF:-1 tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/warner-tv-2968130.jpg" group-title="4 CINE VARIOS-1",WARNER | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/59
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="004-CINE_VARIOS_1",XTREMA_CINE_ACCIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="4 CINE VARIOS-1",XTREMA CINE ACCIÓN | ESP
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w904912076.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="004-CINE_VARIOS_1",XTREMA CINE DRAMA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="4 CINE VARIOS-1",XTREMA CINE DRAMA | ESP
 https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1119196838.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="004-CINE_VARIOS_1",XTREMA_CINE_SUSPENSO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="4 CINE VARIOS-1",XTREMA CINE SUSPENSO | ESP
 https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w89932573.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6797d1e488874f97ada9cfdc43198ebd~mv2.jpg" group-title="004-CINE_VARIOS_1",XTREMA CINE TERROR | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6797d1e488874f97ada9cfdc43198ebd~mv2.jpg" group-title="4 CINE VARIOS-1",XTREMA CINE TERROR | ESP
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1989699500.m3u8
 
 
@@ -172,37 +170,37 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1989699500.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="005-CINE_VARIOS_2",CANELA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="5 CINE VARIOS-2",CANELA | ESP
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="005-CINE_VARIOS_2",CINE REAL | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="5 CINE VARIOS-2",CINE REAL | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="005-CINE_VARIOS_2",CINE SUREÑO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="5 CINE VARIOS-2",CINE SUREÑO | ESP
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ebf9aaef9366405ea216242cfca7b9b9~mv2.jpg" group-title="005-CINE_VARIOS_2",ESTRELLA_CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ebf9aaef9366405ea216242cfca7b9b9~mv2.jpg" group-title="5 CINE VARIOS-2",ESTRELLA CINE | ESP
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb553d16726c648d93d43d64d1ef41a3dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27753c79e0a957f378bbdbe306f2c180680585ee2be5da5edf50b448b39f7b2184f887a14e5d45fc8d549ef9ddc539d129b77a4159495a2d88118d1d2c7010566884561a7b1eef8fa1bbef11fd0f79f71309f7e5a3e7437c882e333caa1e43d2e72f7eddfb725de1ecb9b2c82614dff685aea3251f8169e1cabf547b4a1bad102453ce4e95a732ea1ebafcade2630b264fea6e69f00143113a31935aa40fd1a515fbd5e020c8dc01adcd149e0e13d446c98c30cf399c3b581fd5fb76376eabe0e61c4bbb7ca3ca2cc2e839768c920de79e7e31639554e4b92b95cd09fe393510840ab8f44dd1f17b894decd8f4e73fd69155ee777ca1b2b588c653c32b576b9ad3562df7251c52d6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0265b4ebcb99db090130b063f164005c4b7b427d5dd965b687cab642f6e701f0085448739ad6767346e984e9dfc7337ef600622e9a03358201cb5c0a38e8ad38a09f548dac1f93638281b049936162d7adca6873baa6c6c37e6d7cccb3fce6de62f1b4fd9854d/74/1280x720_2657019/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bdd40dc751a54225a74c3d6348d1e569~mv2.jpg" group-title="005-CINE_VARIOS_2",EVAVISIÓN_RETRO | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bdd40dc751a54225a74c3d6348d1e569~mv2.jpg" group-title="5 CINE VARIOS-2",EVAVISIÓN RETRO | CL
 https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7f64eeb079814963a63b5c5031c7122a~mv2.jpg" group-title="005-CINE_VARIOS_2",FLOU_CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7f64eeb079814963a63b5c5031c7122a~mv2.jpg" group-title="5 CINE VARIOS-2",FLOU CINE | ESP
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb573d16726c648d93d43d67d1ef4182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30f10da38a2b00148972945fa83439c8101b3d2d60a83458076f340cc9bf0df8644828cb5599312f10b194a2b6b988360e1af37d28b836774c60a422b1f51f5ed80f75a39b9494251fd8da1d50dfc12c08c29807421e17bf23c85349925ae0cb1e84da592b7de4c462ca5c35e1343ca87a599a11d59d067ffb1a7ce7a689cc9047940cc1f8f487e3084e9db07c19014d3e425c0e66f0a2fd7df469a93b78feefe995cd977ccc2e7dd6f44426a0a07874fe7c86bdd25d26de5cd1a2f591717c7f754c095975a357446858561dd1769fbb1cbd5dd596292364803b8338a030335cf313c7ae32ffb993a3ade235edd6738af0f6ffd2896b928e6e9dce0083fb0ccb52d9502e1ba1eede512ac6e355f0bb6f676272f227cd4fd28182346d357edc5cbe26e7b6686939ce7ce1e627d5367530898ace3758d87c32c2201c857326806767df25584318f5a336a5fc81ac0e20d71930f2228d9af3a545d6482bad4ebe4819814ef11b9a8fc3d3c75406cbf41664c0f83ecd9338c394f6d345c901f5b50a9084847d580dbe9ebff04b39470be28714e2c8ae700564751726d0f979126c348ad9718af92c959dfb5e2782d8438b04f179ac0ce1e9b87e097157ffac3561d74d9d028d5632cb574be4ad88801b2da54020f72495bfd8255eb2ddab5fb9771ed46dd4e076da47fbf8cf18cd56958f4944427416a3f762e08344662b9dec62a016bfc8325f353e2e750db323e5d3c48d3cc035f88ed7b1dd23a6a74ffd3a1e7aace1302f56dfb7bda650db2256e44809d6281e9d6f4fe977d2663b3d7fb7e49c0e2f0a42959b51f710e1da383397872c02ff3837599c77f52cef94661470ced18cc3aa990be6ec531a5d9b50dafeae79604dca13f2824dfd4f6ef00d2a806e67a759b64371b9d86e8fd2788b214e2cf8b2f83a82256d45953fe00b3f207c761df8c5c7fb3d03f0a873d5ab591bdbb8adda45b731204efb0d9691f62fbafd93eba98f21d458f0951c9424668af73c5a4b67d76db71726a5ec0041d857b88c996091722eeda512c240903021a916e686cb56e24f541f2d3ebbf3e74d54192596bf6398ed247aba73bebf1effabaaa6d36f0b95f40b247cc238d0ee295cff431af56218d6d92116def9ffff6dae3cab2808e4f0956c60acb479836a9c7af90670f452f8d5875197e8e68a9613e5a9ac05addb40d3dd6ac9a2df74605154c444a8c73d8bb1a47422f8c9c0dbed5786d646970a58331be1db04a1c971510991f7c190b08424bc1c69e4f0c019de8ad3411af0c19475476668d29/134/640x360_791841/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9daa2f9022a84bcdbdf063230805e692~mv2.jpg" group-title="005-CINE_VARIOS_2",HORRORFY | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9daa2f9022a84bcdbdf063230805e692~mv2.jpg" group-title="5 CINE VARIOS-2",HORRORFY | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_400a4e83aa2e443197ac54f3d506fc3e~mv2.jpg" group-title="005-CINE_VARIOS_2",JUNTOS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_400a4e83aa2e443197ac54f3d506fc3e~mv2.jpg" group-title="5 CINE VARIOS-2",JUNTOS | ESP
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="005-CINE_VARIOS_2",MOVIE_FE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="5 CINE VARIOS-2",MOVIE FE | ESP
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1120384666.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_46b55838105047af9ea6c41b8aee5004~mv2.jpg" group-title="005-CINE_VARIOS_2",TOP_CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_46b55838105047af9ea6c41b8aee5004~mv2.jpg" group-title="5 CINE VARIOS-2",TOP CINE | ESP
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="005-CINE_VARIOS_2",TU_CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="5 CINE VARIOS-2",TU CINE | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
 
 
@@ -210,73 +208,73 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="006-PLUTO_CINE",ACCIÓN_1 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="6 PLUTO CINE",ACCIÓN-1 | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c31abb55782c4e99a4fef96fe787717a~mv2.jpg" group-title="006-PLUTO_CINE",ACCIÓN_2 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c31abb55782c4e99a4fef96fe787717a~mv2.jpg" group-title="6 PLUTO CINE",ACCIÓN-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_add322b8df7a4800ba6b37a389a62ef6~mv2.jpg" group-title="006-PLUTO_CINE",ADRENALINA_FREEZONE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_add322b8df7a4800ba6b37a389a62ef6~mv2.jpg" group-title="6 PLUTO CINE",ADRENALINA FREEZONE | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="006-PLUTO_CINE",CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="6 PLUTO CINE",CINE | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_113d396d129544d5a0ff8a4bbd2e9b3a~mv2.jpg" group-title="006-PLUTO_CINE",CLÁSICO_1 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_113d396d129544d5a0ff8a4bbd2e9b3a~mv2.jpg" group-title="6 PLUTO CINE",CLÁSICO-1 | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b05f83f6dc364ecb9e6a865fa3826dbb~mv2.jpg" group-title="006-PLUTO_CINE",CLÁSICO_2 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b05f83f6dc364ecb9e6a865fa3826dbb~mv2.jpg" group-title="6 PLUTO CINE",CLÁSICO-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="006-PLUTO_CINE",COMEDIA_1 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="6 PLUTO CINE",COMEDIA-1 | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_19d8c28556e24f71aa4ae731725b2c8d~mv2.jpg" group-title="006-PLUTO_CINE",COMEDIA_2 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_19d8c28556e24f71aa4ae731725b2c8d~mv2.jpg" group-title="6 PLUTO CINE",COMEDIA-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b614a9a33759469dbd09cc171d1c5189~mv2.jpg" group-title="006-PLUTO_CINE",CRIMEN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b614a9a33759469dbd09cc171d1c5189~mv2.jpg" group-title="6 PLUTO CINE",CRIMEN | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f64771bc56364ac5872940071d142064~mv2.jpg" group-title="006-PLUTO_CINE",DRAMA_1 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f64771bc56364ac5872940071d142064~mv2.jpg" group-title="6 PLUTO CINE",DRAMA-1 | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0c58f314cfbd429a8307edc79c5c38bc~mv2.jpg" group-title="006-PLUTO_CINE",DRAMA_2 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0c58f314cfbd429a8307edc79c5c38bc~mv2.jpg" group-title="6 PLUTO CINE",DRAMA-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f539fed59f7b471a891a9b41b03673d9~mv2.jpg" group-title="006-PLUTO_CINE",DRAMA_3_BBC | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f539fed59f7b471a891a9b41b03673d9~mv2.jpg" group-title="6 PLUTO CINE",DRAMA-3-BBC | ESP
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="006-PLUTO_CINE",ESTELAR_1 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="6 PLUTO CINE",ESTELAR-1 | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0510f5eada5f451680d577f1025d6001~mv2.jpg" group-title="006-PLUTO_CINE",ESTELAR_2 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0510f5eada5f451680d577f1025d6001~mv2.jpg" group-title="6 PLUTO CINE",ESTELAR-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5157ae9436254aeb8b54be9e60ff0415~mv2.jpg" group-title="006-PLUTO_CINE",ESTRELLAS_DE_ACCIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5157ae9436254aeb8b54be9e60ff0415~mv2.jpg" group-title="6 PLUTO CINE",ESTRELLAS DE ACCIÓN | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26a86618efa84ef783e728bfab71d844~mv2.jpg" group-title="006-PLUTO_CINE",FAMILIA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26a86618efa84ef783e728bfab71d844~mv2.jpg" group-title="6 PLUTO CINE",FAMILIA | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ee0292812642449cd4e269df37ae91~mv2.jpg" group-title="006-PLUTO_CINE",FILM_STREAM | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ee0292812642449cd4e269df37ae91~mv2.jpg" group-title="6 PLUTO CINE",FILM STREAM | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_18554180f5794b129e107915568bad0c~mv2.jpg" group-title="006-PLUTO_CINE",NUESTRO_CINE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_18554180f5794b129e107915568bad0c~mv2.jpg" group-title="6 PLUTO CINE",NUESTRO CINE | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8ab244f956b5460a87a2be1ced806015~mv2.jpg" group-title="006-PLUTO_CINE",ROMANCE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8ab244f956b5460a87a2be1ced806015~mv2.jpg" group-title="6 PLUTO CINE",ROMANCE | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c95e171c29984561acbebdda384117c6~mv2.jpg" group-title="006-PLUTO_CINE",SCIFI | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c95e171c29984561acbebdda384117c6~mv2.jpg" group-title="6 PLUTO CINE",SCIFI | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_21f92911d0324f1ca59c3ea40d9dcf6e~mv2.jpg" group-title="006-PLUTO_CINE",SUSPENSO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_21f92911d0324f1ca59c3ea40d9dcf6e~mv2.jpg" group-title="6 PLUTO CINE",SUSPENSO | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="006-PLUTO_CINE",TERROR_1 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="6 PLUTO CINE",TERROR-1 | ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_588f7612b00d4e6c95b5507c1fc5ba4b~mv2.jpg" group-title="006-PLUTO_CINE",TERROR_2 | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_588f7612b00d4e6c95b5507c1fc5ba4b~mv2.jpg" group-title="6 PLUTO CINE",TERROR-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -284,52 +282,55 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 
 
 
-#EXTINF:-1 tvg-logo="https://wikiless.org/media/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="007-PROGRAMACIÓN TV",ANIMAL_PLANET | ESP
+#EXTINF:-1 tvg-logo="https://wikiless.org/media/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="7 PROGRAMACIÓN TV",ANIMAL PLANET | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg" group-title="007-PROGRAMACIÓN TV",ANTENA_3 | ESP
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg" group-title="7 PROGRAMACIÓN TV",ANTENA_3 | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/96
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="007-PROGRAMACIÓN TV",AZTECA_UNO | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="7 PROGRAMACIÓN TV",AZTECA_UNO | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 
-#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Z2wrGMDBjfHLsEpJQomCoKfJGug=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YFQKFBA4JZFKJNF53RA6LSKH54.jpg" group-title="007-PROGRAMACIÓN TV",CARACOL | ESP
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/02/AE.max-640x640-1.jpg" group-title="7 PROGRAMACIÓN TV",A&E | ESP
+http://167.114.156.136:25461/INFINITV/ZX89NM22/178
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Z2wrGMDBjfHLsEpJQomCoKfJGug=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YFQKFBA4JZFKJNF53RA6LSKH54.jpg" group-title="7 PROGRAMACIÓN TV",CARACOL | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/157
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="007-PROGRAMACIÓN TV",DISCOVERY_KIDS | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="7 PROGRAMACIÓN TV",DISCOVERY_KIDS | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/210
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="007-PROGRAMACIÓN TV",DISCOVERY SCIENCE | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="7 PROGRAMACIÓN TV",DISCOVERY SCIENCE | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/216
 
-#EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="007-PROGRAMACIÓN TV",EL_GOUMERT | ESP
+#EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="7 PROGRAMACIÓN TV",EL_GOUMERT | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/219
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/10/59f1b1b576f8f__838x390.jpg" group-title="007-PROGRAMACIÓN TV",GARAGE | ESP
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/10/59f1b1b576f8f__838x390.jpg" group-title="7 PROGRAMACIÓN TV",GARAGE | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/184
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="007-PROGRAMACIÓN TV",INVESTIGATION_DISCOVERY | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="7 PROGRAMACIÓN TV",INVESTIGATION_DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/220
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="007-PROGRAMACIÓN TV",NICK_JR | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="7 PROGRAMACIÓN TV",NICK_JR | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/64
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/08/IMG_7120.png" group-title="007-PROGRAMACIÓN TV",SONY_CHANNEL | ESP
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/08/IMG_7120.png" group-title="7 PROGRAMACIÓN TV",SONY_CHANNEL | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="007-PROGRAMACIÓN TV",TELECINCO | ESP
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="7 PROGRAMACIÓN TV",TELECINCO | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
 
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="007-PROGRAMACIÓN TV",TELEMUNDO | ESP
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="7 PROGRAMACIÓN TV",TELEMUNDO | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/155
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="007-PROGRAMACIÓN TV",TLC | ESP
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="7 PROGRAMACIÓN TV",TLC | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/124
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="007-PROGRAMACIÓN TV",TURBO_DISCOVERY | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="7 PROGRAMACIÓN TV",TURBO_DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="007-PROGRAMACIÓN TV",USA | ESP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="7 PROGRAMACIÓN TV",USA | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
 
 
