@@ -567,8 +567,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a1f1dfe1c8bf4c298eef242c9811044e~mv2.jpg" group-title="10 MÉXICO",AGUASCALIENTES | MX
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1b3916942d3443eb8a936adfae304ab3~mv2.jpg" group-title="G MÉXICO_1",CAMPECHE | MX
-https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1761933323.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1b3916942d3443eb8a936adfae304ab3~mv2.jpg" group-title="10 MÉXICO",CAMPECHE | MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83210e7d310747bf89559cf07f4e30d1~mv2.jpg" group-title="G MÉXICO_1",CDMX | MX
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
