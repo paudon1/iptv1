@@ -748,118 +748,95 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",VISIÓN TV | GT
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f4cbfb79236445128696aa266d5a2ca9~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",V!VO | AR
-https://stmv1.voxhdnet.com/msinteractiva/msinteractiva/chunklist_w1862157651.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24c39c5e04734483830a47be1bf796d5~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELESISTEMA SAN JOSÉ | CR
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_774c572a2216486abca23b9c1b0b1713~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELESUR ILO | PE
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24c6c40489044485b4367089f93744bf~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELE CINCO TRELEW | AR
-https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_668574d2a6694339b06bf988a8ce5ce3~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",STV SAN VITO | EC
-https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_dff392a309f1424e84d56ecb89453d9b~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELESUR CAMANA | PE
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7ab30da9278e4afe8cf24d0442e8ac84~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TIGUERITOS | DO
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w1505701865.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_569d7c8d19c0476ba5bb34e24636b783~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",STV SARAPIQUI | CR
-https://lstv.duckdns.org:449/hls/stv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8d3d5592beca4ccabe325b946fac0b6a~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",SEÑAL 21 TV | CL
-https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9fc89083837425395ecf99335e91d38~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",URANIO | PE
-https://live.obslivestream.com/uraniotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a52990b68048475895fea8c3c5fc3191~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",SÍ TV | DO
-http://190.122.104.221/Player/sitv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_459c038e165f4b92acaf79a32d3cbe0d~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELESUR | CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e3241c819ff486eb32b931edd98aa0c~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELERED | CR
-https://video20.klm99.com:3558/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",EXTREMA | CR
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_696b2e7735f247e2a5bef6f10dc860d2~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TV EN LÍNEA CUSCO | PE
-https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_45df6ebc9001470fb625f169e9f2aea8~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",INKA | PE
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8137d4efbf854ea68d82f10e28b0288f~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",MEGA JAÉN | PE
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c92b05559ef346f08675328cc721d065~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",ABYA YALA TV | BO
+https://master.tucableip.com/abyayalatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_88d8c94f1477440792a5de864e56dbab~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",CANAL 4 POSADAS | AR
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ec269a316acf495db7b31d2ef8de51ff~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",URBANA TEVÉ | AR
-https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0e479212afcf4a2da7147a7c27339bbd~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",SEO TV 1 | BO
-https://live.seo.tv.bo/live/1SEO.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_59a3d357e77b417dac6af6f163b8fbd7~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",RIBERA TV | ES
-https://common01.todostreaming.es/live/ribera-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",MEGAVISIÓN | DO
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0926500f93144831aa2806f7ed3cec04~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",DOBLE C | PE
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_721e5944395a4609851ddbaa7eb82ad4~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",COLOSAL TV | CR
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c92b05559ef346f08675328cc721d065~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",ABYA YALA TV | BO
-https://master.tucableip.com/abyayalatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_68a9fdcd87734d93a356fc8a07e08077~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",CREO TV | PE
-https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5ab1e186c489405ba8596f4143883a3d~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",T V R | CL
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_629939f26ba74c51a437094cbbce05b3~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",CANAL 26 | AR
-http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",CANAL 8 PUNTA CANA | DO
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7b248fde220d459ca2770b5ef8c3fb3e~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",CANAL 9 LITORAL | AR
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2c232beb4e9d4f668dbad65fcdd22569~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",COMO ANTES TV | GT
-https://cdn.streamhispanatv.net:3877/live/comoantestvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_721e5944395a4609851ddbaa7eb82ad4~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",COLOSAL | CR
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_68a9fdcd87734d93a356fc8a07e08077~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",CREO | PE
+https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0926500f93144831aa2806f7ed3cec04~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",DOBLE C | PE
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",EXTREMA | CR
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d3646633ef5943c887ce952cf86a3a00~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",FAMILI CHANNEL | CO
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e156273647db4543b5c764e019adff9b~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",RETRO PLAY | CL
-https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8137d4efbf854ea68d82f10e28b0288f~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",MEGA JAÉN | PE
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3fb50cb072e94d89b9b14ef196a11c1d~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",ATV PILAR | PE
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c54ba68d8e44338b594292bf000c214~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",CANAL 8 PUNTA CANA TV | DO
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00b7c5fcf10f4089a31f15209b6e4f16~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",T V S | GT
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",MEGAVISIÓN | DO
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_235a2829e9dd468089efe6b77e08172c~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",PLANETA TV MOYOBAMBA | PE
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e156273647db4543b5c764e019adff9b~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",RETRO PLAY | CL
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_59a3d357e77b417dac6af6f163b8fbd7~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",RIBERA | ES
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0e479212afcf4a2da7147a7c27339bbd~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",SEO TV 1 | BO
+https://live.seo.tv.bo/live/SEO-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_8d3d5592beca4ccabe325b946fac0b6a~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",SEÑAL 21 | CL
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_668574d2a6694339b06bf988a8ce5ce3~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",STV SAN VITO | EC
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_569d7c8d19c0476ba5bb34e24636b783~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",STV SARAPIQUI | CR
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24c6c40489044485b4367089f93744bf~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELE CINCO TRELEW | AR
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e3241c819ff486eb32b931edd98aa0c~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELERED | CR
+https://video20.klm99.com:3558/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_24c39c5e04734483830a47be1bf796d5~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELESISTEMA SAN JOSÉ | CR
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_dff392a309f1424e84d56ecb89453d9b~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELESUR CAMANA | PE
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_459c038e165f4b92acaf79a32d3cbe0d~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TELESUR TICOS | CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7ab30da9278e4afe8cf24d0442e8ac84~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TIGUERITOS | DO
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w1505701865.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_696b2e7735f247e2a5bef6f10dc860d2~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TV EN LÍNEA CUSCO | PE
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5ab1e186c489405ba8596f4143883a3d~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TVR | CL
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00b7c5fcf10f4089a31f15209b6e4f16~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",TVS | GT
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e9fc89083837425395ecf99335e91d38~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",URANIO | PE
+https://live.obslivestream.com/uraniotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ec269a316acf495db7b31d2ef8de51ff~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",URBANA TEVÉ | AR
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="M PROGRAMACIÓN VARIADA-2",VISIÓN | GT
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 
 
