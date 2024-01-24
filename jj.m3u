@@ -330,7 +330,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/124
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="G PROGRAMACIÓN TV",TURBO DISCOVERY | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
 
-#EXTINF:-1 tvg-logo="https://okdiario.com/img/2022/10/31/tve.jpg" group-title="7 PROGRAMACIÓN TV",TVE | ES
+#EXTINF:-1 tvg-logo="https://okdiario.com/img/2022/10/31/tve.jpg" group-title="G PROGRAMACIÓN TV",TVE | ES
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="G PROGRAMACIÓN TV",USA | ESP
