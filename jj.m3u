@@ -9,19 +9,6 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0a91c55d20e94ef29d221d9f34aa9758~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",CASCARA | DO
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",SOL | GT
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
@@ -95,17 +82,32 @@ https://live.seo.tv.bo/live/SEO-4.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/Play-Medios-TV-Logo.webp" group-title="A PROGRAMACIÓN CINE-1",PLAY MEDIOS | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_9a5daa8ec9c44d92b073aa8f99b4473c~mv2.png" group-title="A PROGRAMACIÓN CINE-1",PLAY MEDIOS | GT
 https://fl1002.bozztv.com/ssh101/playmedios/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_65d43779fb554a2282027c7d32e4ab33~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Supercable.png" group-title="A PROGRAMACIÓN CINE-1",SUPERCABLE | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_65d43779fb554a2282027c7d32e4ab33~mv2.png" group-title="A PROGRAMACIÓN CINE-1",SUPERCABLE | GT
 https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
 
-#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="A PROGRAMACIÓN CINE-1",TOTOVISIÓN | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png" group-title="A PROGRAMACIÓN CINE-1",TOTOVISIÓN | GT
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_fafd7c471aee4a48a463323014970628~mv2.png/v1/fill/w_524,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Buzzertv.png" group-title="A PROGRAMACIÓN CINE-1",BUZZER TV | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_fafd7c471aee4a48a463323014970628~mv2.png" group-title="A PROGRAMACIÓN CINE-1",BUZZER | GT
 https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png" group-title="A PROGRAMACIÓN CINE-1",FULL CHANNEL | GT
+https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_6724b4d57d0c43e6a84ef0e51227d08d~mv2.png" group-title="A PROGRAMACIÓN CINE-1",SAS TV | GT
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8f6a6793a6bf456bb91195841ff55ff2~mv2.png" group-title="A PROGRAMACIÓN CINE-1",CNI DIGITAL | GT
+https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_14f0cac6b5034f55a921ce5cfa22926d~mv2.png" group-title="A PROGRAMACIÓN CINE-1",CANAL 21 RUDYVISIÓN | GT
+https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_f4b7cdcc0ece45da99aa840acc865730~mv2.png" group-title="A PROGRAMACIÓN CINE-1",PRESENCIA TV | GT
+https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 
 
 
