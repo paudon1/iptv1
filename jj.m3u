@@ -88,13 +88,13 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="AA XTREMA",CINE ACCIÓN | ESP
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w904912076.m3u8
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="AA XTREMA",CINE DRAMA | ESP
 https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1119196838.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="AA XTREMA",CINE SUSPENSO | ESP
-https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w89932573.m3u8
+https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6797d1e488874f97ada9cfdc43198ebd~mv2.jpg" group-title="AA XTREMA",CINE TERROR | ESP
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1989699500.m3u8
