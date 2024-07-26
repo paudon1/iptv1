@@ -63,19 +63,8 @@ https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_f4b7cdcc0ece45da99aa840acc865730~mv2.png" group-title="A PROGRAMACIÓN CINE-1",PRESENCIA TV | GT
 https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",OPINIÓN SUR | CL
-https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/chunklist_w727491770.m3u8
+https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_42700fd6a51b4c7693df41badb235cc6~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",BAYRES | AR
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -84,22 +73,13 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",ORBIT | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://videos.domint.net:4443/BKoffline.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",ORIGEN | CL
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0da22ff57d384cb3998fbc360b2025c7~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",BLU | AR
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_28524ff377e143ce8256b1dc3a7c0565~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",RETRO PLUS 3 | CL
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1862656614.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0d34db9a4b134222ba7d64b8e32dfc80~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",PLANETA FAMILY | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9c09f2f95f51479c8c418f25cfc5ab82~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",MOVIE PLANETA | CL
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
 
 
@@ -107,27 +87,20 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="AA XTREMA",CINE ACCIÓN | ESP
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w904912076.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="AA XTREMA",CINE DRAMA | ESP
+https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1119196838.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="AA XTREMA",CINE SUSPENSO | ESP
+https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w89932573.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6797d1e488874f97ada9cfdc43198ebd~mv2.jpg" group-title="AA XTREMA",CINE TERROR | ESP
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1989699500.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",MULTIVISIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="AA XTREMA",MULTIVISIÓN | ESP
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
-
-
-
-
-
-
-
-
 
 
 
@@ -229,17 +202,7 @@ https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/warner-tv-2968130.jpg" group-title="D CINE VARIOS-1",WARNER | ESP
 http://167.114.156.136:25461/INFINITV/ZX89NM22/59
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="D CINE VARIOS-1",XTREMA CINE ACCIÓN | ESP
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w904912076.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="D CINE VARIOS-1",XTREMA CINE DRAMA | ESP
-https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1119196838.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="D CINE VARIOS-1",XTREMA CINE SUSPENSO | ESP
-https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w89932573.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6797d1e488874f97ada9cfdc43198ebd~mv2.jpg" group-title="D CINE VARIOS-1",XTREMA CINE TERROR | ESP
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1989699500.m3u8
 
 
 
