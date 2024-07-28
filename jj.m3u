@@ -12,9 +12,6 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_270027f36e764aad90c98af2c7c006be~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",SOL | GT
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",BELLA ASUNCIÓN| PE
-https://tvdatta.com:3602/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3028b7a9c89e43a898c4e418303a6926~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",COSMOS | AR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -165,23 +162,8 @@ https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2fa25e1fc10c4c5db967017eaa4b1f3d~mv2.jpg" group-title="D CINE VARIOS-1",CINE AR | AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w99459546.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="D CINE VARIOS-1",CINE ROMÁNTICO | ESP
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 tvg-logo="https://cdn.eldeforma.com/wp-content/uploads/2020/09/Cover-Clases-Televisio%CC%81n-Golden-Edge-Anatomi%CC%81a.jpg" group-title="D CINE VARIOS-1",EDGE | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/181
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LkHqclekEuA/YI4m4DvveQI/AAAAAAAAQMM/4fWE6pycXWU6ifPGXWMSWaB2t-YbNb4-wCPcBGAYYCw/s800/FX.jpg" group-title="D CINE VARIOS-1",FX | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/70
-
-#EXTINF:-1 tvg-logo="https://www.1prox.com/upload/images/h%20(1).jpg" group-title="D CINE VARIOS-1",HBO+ | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/215
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="D CINE VARIOS-1",MOVISTAR DRAMA | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/146
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="D CINE VARIOS-1",MY TIME ESPAÑA | ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -192,15 +174,11 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="D CINE VARIOS-1",SONY CINE | ESP
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41llCt37l7L.png" group-title="D CINE VARIOS-1",TNT | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="D CINE VARIOS-1",CINE ROMÁNTICO | ESP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1afb293948a4a2d9dadc39bb092ff5b~mv2.jpg" group-title="D CINE VARIOS-1",VIDEO CLUB | ESP
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/warner-tv-2968130.jpg" group-title="D CINE VARIOS-1",WARNER | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/59
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",BELLA ASUNCIÓN| PE
+https://tvdatta.com:3602/stream/play.m3u8
 
 
 
