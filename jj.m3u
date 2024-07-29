@@ -135,19 +135,34 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="03 XTREMA",CINE ACCIÓN | ESP
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/12-1.jpg" group-title="03 XTREMA",CINE DE ACCIÓN | ESP
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d9730bd481184030ac8ca80512208854~mv2.jpg" group-title="03 XTREMA",CINE DRAMA | ESP
-https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1119196838.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4d063fe537e14fcd93ff1435dd8d897d~mv2.jpg" group-title="03 XTREMA",CINE SUSPENSO | ESP
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/13-1.jpg" group-title="03 XTREMA",CINE DE SUSPENSO | ESP
 https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6797d1e488874f97ada9cfdc43198ebd~mv2.jpg" group-title="03 XTREMA",CINE TERROR | ESP
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/14-1.jpg" group-title="03 XTREMA",CINE DE TERROR | ESP
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1989699500.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="03 XTREMA",MULTIVISIÓN | ESP
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/15-1.jpg" group-title="03 XTREMA",CINE CLASICO | ESP
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/chunklist_w1301034171.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/16-1.jpg" group-title="03 XTREMA",CINE COMEDY | ESP
+https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/chunklist_w873154899.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/17-1.jpg" group-title="03 XTREMA",CINE FAMILY | ESP
+https://stmv6.voxtvhd.com.br/cinefamiliy/cinefamiliy/chunklist_w26491104.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/19-1.jpg" group-title="03 XTREMA",CINE ASIA | ESP
+https://stmv6.voxtvhd.com.br/cineasia/cineasia/chunklist_w1196611816.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/21-1.jpg" group-title="03 XTREMA",CINE DRAMA | ESP
+https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1119196838.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/22-2.jpg" group-title="03 XTREMA",CINE LATINO | ESP
+https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/chunklist_w2011931425.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/23-1.jpg" group-title="03 XTREMA",MULTIVISIÓN | ESP
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 
