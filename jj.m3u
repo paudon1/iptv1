@@ -405,32 +405,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_99f4baaa8a444aacb542a097db393ae1~mv2.jpg" group-title="I EDUCATIVO",PLUTO SMITHSONIAN CHANNEL | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_cd3ed54b8de2467f8d55201023f77162~mv2.jpg" group-title="I EDUCATIVO",ATN | CO
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="I EDUCATIVO",BUAP | MX
-https://tvenvivo.buap.mx/livestream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d21ea3ebb394d559d27e425819cfeb4~mv2.jpg" group-title="I EDUCATIVO",CAPITAL | CO
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e24a9c83ab5488bb9f53cbe6de73165~mv2.jpg" group-title="I EDUCATIVO",CGTN | ESP
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_044329ad26b143f3b2adfc67a70413fa~mv2.jpg" group-title="I EDUCATIVO",DW | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d753eceb41334279a915c7c175317a65~mv2.jpg" group-title="I EDUCATIVO",EDUCANAL | PY
-https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f8749e2025014ce8bb46da0f880249ce~mv2.jpg" group-title="I EDUCATIVO",ENCUENTRO | AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d25f22b5108441dd910aeaf13d0cc830~mv2.jpg" group-title="I EDUCATIVO",HISPAN | ESP
 https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w899813674_b394100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="I EDUCATIVO",ILCE | ESP
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w364183830_b2430208.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f367b1a0bd764670a8fa42fa142218ea~mv2.jpg" group-title="I EDUCATIVO",BUAP | MX
+https://tvenvivo.buap.mx/livestream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00c599a5b2774564b75d33b3b5bcb79a~mv2.jpg" group-title="I EDUCATIVO",NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8
@@ -440,9 +428,6 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67a3dbe42cf7445b81d9002acd2ca042~mv2.jpg" group-title="I EDUCATIVO",SUYAI | CL
 https://5ff3d9babae13.streamlock.net/ewdnnusyjt/ewdnnusyjt/chunklist_w763390363.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d146e25b136e4d3bba91810f880e9bdc~mv2.jpg" group-title="I EDUCATIVO",TELEPACÍFICO | CO
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/28/logo-transmedia-horiz-07a679f9-282775e3.png" group-title="I EDUCATIVO",TRANSMEDIA UNaM | AR
 http://192.100.186.53:8090/hls/live.stream.m3u8
@@ -464,9 +449,6 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aa680355b2fb463d89c088e6361d38e0~mv2.jpg" group-title="I EDUCATIVO",UNI | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="I EDUCATIVO",UNIVERSITARIA | BO
-https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="I EDUCATIVO",UNLP | AR
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -492,13 +474,13 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w18152
 https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4388d4a2c16a48a382a043853ae51486~mv2.jpg" group-title="J MÉXICO",JALISCO | MX
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26cf2efd7ae646f6a4e0312e1fbd5ea9~mv2.jpg" group-title="J MÉXICO",MICHOACÁN | MX
 https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w1554403236.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_85adb9ef713f4546b4fccddfe04d0459~mv2.jpg" group-title="J MÉXICO",MORELOS | MX
-https://stream8.mexiserver.com:19360/morelostvx/morelostvx.m3u8
+https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_421462fa0cc5485382a796c024cb83da~mv2.jpg" group-title="J MÉXICO",NUEVO LEÓN | MX
 https://s5.mexside.net:1936/canal28/canal28/chunklist_w633558775.m3u8
@@ -513,7 +495,7 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/4982/4982/chunklist_w1932546396.m3u8
 
 #EXTINF:-1 tvg-logo="https://corat.mx/wp-content/uploads/2019/06/logo_tvt_corat-300x300.png" group-title="J MÉXICO",TABASCO | MX
-https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/chunklist_w2091801211.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDI0IDY6MDk6MjcgQU0maGFzaF92YWx1ZT1kS25LWTBzOExudCtFVVJXaFhka0ZBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/2022/Logo-Tlaxcala-Television.png" group-title="J MÉXICO",TLAXCALA | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
@@ -544,9 +526,6 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="J MÉXICO",ZX-RCG MEDIA | MX
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/suma.jpg" group-title="J MÉXICO",ZX-SUMA TV | MX
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1680717119&e=1680717239&h=5fe56ab2b8b8b835edf38aab5a0c3253
 
 #EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/tvp-culiacan.webp" group-title="J MÉXICO",ZX-TVP | MX
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
