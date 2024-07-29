@@ -215,44 +215,18 @@ https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="E CINE VARIOS-2",CANELA | ESP
 https://stream.ads.ottera.tv/cl/240729cqji4frm3pjs2kn45k50/854x480_1355200_2_f.m3u8?i=475_653
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1953dfb9-e6ed-4aac-8727-f46d60a9e6c1/CM-Plex-logo-CanelaCinema_-_Camila_Conti.jpg" group-title="E CINE VARIOS-2",CANELA CINEMA 1 | ESP
-https://ov.ottera.tv/channels/cnm_cn_mv/master350000.m3u8;session=cnm_cn_mv
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7183b954-cfdd-4fd7-90e5-028d6d3ef400/CM-Plex-logo-CanelaCinema_-_Camila_Conti_HOR.jpg" group-title="E CINE VARIOS-2",CANELA CINEMA 2 | ESP
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7183b954-cfdd-4fd7-90e5-028d6d3ef400/CM-Plex-logo-CanelaCinema_-_Camila_Conti_HOR.jpg" group-title="E CINE VARIOS-2",CANELA CINEMA 1 | ESP
 https://ov.ottera.tv/channels/cnm_cn_mv_mx/master350000.m3u8;session=cnm_cn_mv_mx
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-cinema-16x9.jpg" group-title="E CINE VARIOS-2",CANELA CINEMA 3 | ESP
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-cinema-16x9.jpg" group-title="E CINE VARIOS-2",CANELA CINEMA 2 | ESP
 https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/cb573d167c6c648a9fd43e63d2ef4782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e3594c8a3af5b2014cc1294dfa83439c8201e9d1d35e8343d323f341c9c0f3de851981e43d5293768acb9acb4307fbad41d1af70b3c2936a36ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb245f79a52e2ef64dbe7ea61daef542a1a3fbdb470114a5d6526029afa58599f83a31b862f4e09ab5db992e97661b6aec55a245069b59e5c2178b8972fcd376d1ed3d4b6a89f931eaf8e6f2b9ec7019bc5cbc5c5f1694e976c34e71a750a78864d8289255add61a22537267a48e4cfe4bb8343f4f409c8952d81254ec95dbc3973932c464144dfb20f76f453d9c7a3c27a51af0946a38d26612d36174bb7925904ef98f29f78cd2f1496ee6898911a92fa79e22e6db2ee52d305009b6b20b5a46477299ae45052276ce40ab8298b739594ebcb99dbef3523e062b1e1d59d8b5a923cdfcb5437721c85d226f630357c754a40ef13409517e874ea9ef6312a2092e2aeaa2452d796484c7bc84c79b8a73bc71d7c0ea2a6d5c7d66ae3811297ed9d4de08e559ab1f94fa7cda024f19a35aad24a7ca61119aeea5b23305/31/854x480_1821204/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="E CINE VARIOS-2",CINE REAL | ESP
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d47eccbffe8a4c49a3d5485f947fbfd5~mv2.jpg" group-title="E CINE VARIOS-2",CINE SUREÑO | ESP
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ebf9aaef9366405ea216242cfca7b9b9~mv2.jpg" group-title="E CINE VARIOS-2",ESTRELLA CINE | ESP
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb553d16726c648d93d43d64d1ef41a3dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27753c79e0a957f378bbdbe306f2c180680585ee2be5da5edf50b448b39f7b2184f887a14e5d45fc8d549ef9ddc539d129b77a4159495a2d88118d1d2c7010566884561a7b1eef8fa1bbef11fd0f79f71309f7e5a3e7437c882e333caa1e43d2e72f7eddfb725de1ecb9b2c82614dff685aea3251f8169e1cabf547b4a1bad102453ce4e95a732ea1ebafcade2630b264fea6e69f00143113a31935aa40fd1a515fbd5e020c8dc01adcd149e0e13d446c98c30cf399c3b581fd5fb76376eabe0e61c4bbb7ca3ca2cc2e839768c920de79e7e31639554e4b92b95cd09fe393510840ab8f44dd1f17b894decd8f4e73fd69155ee777ca1b2b588c653c32b576b9ad3562df7251c52d6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0265b4ebcb99db090130b063f164005c4b7b427d5dd965b687cab642f6e701f0085448739ad6767346e984e9dfc7337ef600622e9a03358201cb5c0a38e8ad38a09f548dac1f93638281b049936162d7adca6873baa6c6c37e6d7cccb3fce6de62f1b4fd9854d/74/1280x720_2657019/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bdd40dc751a54225a74c3d6348d1e569~mv2.jpg" group-title="E CINE VARIOS-2",EVAVISIÓN RETRO | CL
-https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7f64eeb079814963a63b5c5031c7122a~mv2.jpg" group-title="E CINE VARIOS-2",FLOU CINE | ESP
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb573d16726c648d93d43d67d1ef4182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30f10da38a2b00148972945fa83439c8101b3d2d60a83458076f340cc9bf0df8644828cb5599312f10b194a2b6b988360e1af37d28b836774c60a422b1f51f5ed80f75a39b9494251fd8da1d50dfc12c08c29807421e17bf23c85349925ae0cb1e84da592b7de4c462ca5c35e1343ca87a599a11d59d067ffb1a7ce7a689cc9047940cc1f8f487e3084e9db07c19014d3e425c0e66f0a2fd7df469a93b78feefe995cd977ccc2e7dd6f44426a0a07874fe7c86bdd25d26de5cd1a2f591717c7f754c095975a357446858561dd1769fbb1cbd5dd596292364803b8338a030335cf313c7ae32ffb993a3ade235edd6738af0f6ffd2896b928e6e9dce0083fb0ccb52d9502e1ba1eede512ac6e355f0bb6f676272f227cd4fd28182346d357edc5cbe26e7b6686939ce7ce1e627d5367530898ace3758d87c32c2201c857326806767df25584318f5a336a5fc81ac0e20d71930f2228d9af3a545d6482bad4ebe4819814ef11b9a8fc3d3c75406cbf41664c0f83ecd9338c394f6d345c901f5b50a9084847d580dbe9ebff04b39470be28714e2c8ae700564751726d0f979126c348ad9718af92c959dfb5e2782d8438b04f179ac0ce1e9b87e097157ffac3561d74d9d028d5632cb574be4ad88801b2da54020f72495bfd8255eb2ddab5fb9771ed46dd4e076da47fbf8cf18cd56958f4944427416a3f762e08344662b9dec62a016bfc8325f353e2e750db323e5d3c48d3cc035f88ed7b1dd23a6a74ffd3a1e7aace1302f56dfb7bda650db2256e44809d6281e9d6f4fe977d2663b3d7fb7e49c0e2f0a42959b51f710e1da383397872c02ff3837599c77f52cef94661470ced18cc3aa990be6ec531a5d9b50dafeae79604dca13f2824dfd4f6ef00d2a806e67a759b64371b9d86e8fd2788b214e2cf8b2f83a82256d45953fe00b3f207c761df8c5c7fb3d03f0a873d5ab591bdbb8adda45b731204efb0d9691f62fbafd93eba98f21d458f0951c9424668af73c5a4b67d76db71726a5ec0041d857b88c996091722eeda512c240903021a916e686cb56e24f541f2d3ebbf3e74d54192596bf6398ed247aba73bebf1effabaaa6d36f0b95f40b247cc238d0ee295cff431af56218d6d92116def9ffff6dae3cab2808e4f0956c60acb479836a9c7af90670f452f8d5875197e8e68a9613e5a9ac05addb40d3dd6ac9a2df74605154c444a8c73d8bb1a47422f8c9c0dbed5786d646970a58331be1db04a1c971510991f7c190b08424bc1c69e4f0c019de8ad3411af0c19475476668d29/134/640x360_791841/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_9daa2f9022a84bcdbdf063230805e692~mv2.jpg" group-title="E CINE VARIOS-2",HORRORFY | ESP
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_400a4e83aa2e443197ac54f3d506fc3e~mv2.jpg" group-title="E CINE VARIOS-2",JUNTOS | ESP
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="E CINE VARIOS-2",MOVIE FE | ESP
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1120384666.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_46b55838105047af9ea6c41b8aee5004~mv2.jpg" group-title="E CINE VARIOS-2",TOP CINE | ESP
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e7e37d1301954016b389aa552a743a78~mv2.jpg" group-title="E CINE VARIOS-2",TU CINE | ESP
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
 
 
 
@@ -307,9 +281,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26a86618efa84ef783e728bfab71d844~mv2.jpg" group-title="F PLUTO CINE",FAMILIA | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ee0292812642449cd4e269df37ae91~mv2.jpg" group-title="F PLUTO CINE",FILM STREAM | ESP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_18554180f5794b129e107915568bad0c~mv2.jpg" group-title="F PLUTO CINE",NUESTRO CINE | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -328,64 +299,37 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_588f7612b00d4e6c95b5507c1fc5ba4b~mv2.jpg" group-title="F PLUTO CINE",TERROR-2 | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ee0292812642449cd4e269df37ae91~mv2.jpg" group-title="F PLUTO CINE",FILM STREAM | ESP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://wikiless.org/media/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="G PROGRAMACIÓN TV",ANIMAL PLANET | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg" group-title="G PROGRAMACIÓN TV",ANTENA_3 | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/96
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="G PROGRAMACIÓN TV",AZTECA_UNO | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/02/AE.max-640x640-1.jpg" group-title="G PROGRAMACIÓN TV",A&E | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/178
 
-#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Z2wrGMDBjfHLsEpJQomCoKfJGug=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YFQKFBA4JZFKJNF53RA6LSKH54.jpg" group-title="G PROGRAMACIÓN TV",CARACOL | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/157
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="G PROGRAMACIÓN TV",DISCOVERY_KIDS | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/210
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="G PROGRAMACIÓN TV",DISCOVERY SCIENCE | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/216
 
-#EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="G PROGRAMACIÓN TV",EL_GOUMERT | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/219
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/10/59f1b1b576f8f__838x390.jpg" group-title="G PROGRAMACIÓN TV",GARAGE | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/184
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="G PROGRAMACIÓN TV",INVESTIGATION_DISCOVERY | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/220
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="G PROGRAMACIÓN TV",NICK_JR | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/64
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/08/IMG_7120.png" group-title="G PROGRAMACIÓN TV",SONY_CHANNEL | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/53
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="G PROGRAMACIÓN TV",TELECINCO | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/203
-
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="G PROGRAMACIÓN TV",TELEMUNDO | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/155
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="G PROGRAMACIÓN TV",TLC | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/124
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="G PROGRAMACIÓN TV",TURBO DISCOVERY | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/230
 
 #EXTINF:-1 tvg-logo="https://okdiario.com/img/2022/10/31/tve.jpg" group-title="G PROGRAMACIÓN TV",TVE | ES
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="G PROGRAMACIÓN TV",USA | ESP
-http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+
+
+
+
+
+
+
+
 
 
 
@@ -405,7 +349,7 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d6f0dcec27a543d1b7e61ead9fcba744~mv2.jpg" group-title="H NOTICIAS",EURONEWS | ESP
-https://euronews-euronews-spanish-2-us.plex.wurl.tv/b1226c8df34ab98f1374c57fa4fdf804.m3u8
+https://euronews-euronews-spanish-2-us.plex.wurl.tv/b424cd7df1b1932fae23a278c61958be.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2e39a5a96e8e49eca0764fc8408d00c6~mv2.jpg" group-title="H NOTICIAS",FORO TV | MX
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
