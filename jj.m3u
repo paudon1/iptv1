@@ -60,17 +60,14 @@ https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_f4b7cdcc0ece45da99aa840acc865730~mv2.png" group-title="A PROGRAMACIÓN CINE-1",PRESENCIA TV | GT
 https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d13317fd154f482cab6cae719967f97b~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",AURORA MEDIA FILMS | GT
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",OPINIÓN SUR | CL
 https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_42700fd6a51b4c7693df41badb235cc6~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",BAYRES | AR
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d13317fd154f482cab6cae719967f97b~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",AURORA MEDIA FILMS | GT
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",ORBIT | DO
-https://videos.domint.net:4443/BKoffline.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1a2774f7645c49a2a781753d5ac0aef8~mv2.jpg" group-title="A PROGRAMACIÓN CINE-1",ORIGEN | CL
 https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
@@ -216,7 +213,7 @@ https://tvdatta.com:3602/stream/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="E CINE VARIOS-2",CANELA | ESP
-https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_low.m3u8
+https://stream.ads.ottera.tv/cl/240729cqji4frm3pjs2kn45k50/854x480_1355200_2_f.m3u8?i=475_653
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2d0ca71978c2403cbf6f25c8cfc686b4~mv2.jpg" group-title="E CINE VARIOS-2",CINE REAL | ESP
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8
