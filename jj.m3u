@@ -26,7 +26,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1e
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3594e4d1b76a4163a5742dafc4141e73~mv2.jpg" group-title="01-A MÁS VISTOS",PLUTO ANIMALES | ESP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sabermas_1080x1080_02092024.jpg" group-title="01-A MÁS VISTOS",FREE TV SABER MÁS | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_5c6d09a74d264eb99fcbd0e36aa782a3~mv2.jpg" group-title="01-A MÁS VISTOS",FREE TV SABER MÁS | ESP
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/cb573d167c6c648a9fd43e63d2ef4782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee50b4dde6af0e0014cc12941fa83439c8201e986865d8312d77ef111c994f9ddd045848cb0599306e6274751314295816de1aa37d78ac03c53ed702c555054f6b3aced5a3394427c49eaf3b9ff0f811bda9d35923a78f4178f58ca36986eaf1db1af4dafa0f4db475730a7c1483b5fca89a18ee87b32ad76c4ace8d0760ef19c725e55cc68ec14717bfa94ca10978d1293b83180c61f774cef834c9c94bc82e3b59e0a98208ae1e69d387678397068ec48b1a57dc920cb79abd7614736291594b47b9ef1b33931665cc8954cd86177d3b18d91da0b2fdc2e1855e53aa1316b6dc8272269f612e988357a882513f753579f090cae6ca6c8469ca6dff64838baced7438d0c85d45a88be68c76c384a4cb2e23c60475973d4e2637f4613b746ebde84ee7b100dfce2deffd41d1e153c12663ad18c8d179a8ad3671918d521450a15404dea6eb868db13070311d90cdca81c77801453478ccf2c5c586984c5b092dd9ba023b47bc081f9302b491b09fd3000276cd0b5d40cad6e4e2f7959d50d3010eb535f41ba97c8bdcc846a99cc6798c4037e12ad0f84d26828114e32d9f645d246eb9012cbe3a03ee2cefddfc1185ed96c3e91c2c864b8cc8cc25d0693ab2d5d0f557691a40150f302d83f81c67cd9be1502197c6d49d08755f150f9fa89c4249829a940410d82d05e2b82c1b54b73dfeb2d1e90c04d1e7c5d3c4b66dd8f813d542dbef54f922c83bf24ff1ea9601f3ea819abd02f434fbcd6465f6da0b2c288ac852e15d267f77af6430ab24e37e380a637c78ca8faf68b6e1b5597e6eb048ca88685c3c1d966503f2c61cb8f0f0e37ef2ffeda53baed052abbc0cbc4ca7e9b70d530b9afbf3aab69f39cf25df8d0d5d5d3433a721617f0c8fcff54fcb9094eb4329b6e250a9387e1bb34a98cf25736ba13b0c5346fa83f6c5486fea8538678ee944c408db06057d17b25d2a0ae766eaf0a9360632dbf9dfb2d51a9e4009c4a97908d7f6f841a11e9421e2cec4bf389bb6678f2fe742454fe001383678eab88050f6acf7207e8f0f1d9731a62bfbb4ff803afaa5e8d7e6616d304/196/1920x1080_6046040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4a641f87cb7c41538052220c66ca2b78~mv2.jpg" group-title="01-A MÁS VISTOS",MILENIO | MX
@@ -75,16 +75,16 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b8728304118a4d949fe4d976164c137e~mv2.jpg" group-title="02 PROGRAMACIÓN CINE-1",IMAGEN UNIVERSAL | DO
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_fafd7c471aee4a48a463323014970628~mv2.png" group-title="02 PROGRAMACIÓN CINE-1",BUZZER | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_88ec29156e894e8eacd9270e49785ab5~mv2.jpg" group-title="02 PROGRAMACIÓN CINE-1",BUZZER | GT
 https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png" group-title="02 PROGRAMACIÓN CINE-1",FULL CHANNEL | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_30c45a4e19ac45498abcfb3569812e87~mv2.jpg" group-title="02 PROGRAMACIÓN CINE-1",FULL CHANNEL | GT
 https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_14f0cac6b5034f55a921ce5cfa22926d~mv2.png" group-title="02 PROGRAMACIÓN CINE-1",CANAL 21 RUDYVISIÓN | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_48a2fb13f53748efa2963f66ffd4399c~mv2.jpg" group-title="02 PROGRAMACIÓN CINE-1",CANAL 21 RUDYVISIÓN | GT
 https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_f4b7cdcc0ece45da99aa840acc865730~mv2.png" group-title="02 PROGRAMACIÓN CINE-1",PRESENCIA TV | GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6027a3baf27e484cb716dbdb530c73b2~mv2.jpg" group-title="02 PROGRAMACIÓN CINE-1",PRESENCIA TV | GT
 https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="02 PROGRAMACIÓN CINE-1",OPINIÓN SUR | CL
