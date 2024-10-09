@@ -140,28 +140,28 @@ https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="05 CINE OPCIÓN 2",MY TIME ESPAÑA | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="05a CINE OPCIÓN 2",MY TIME ESPAÑA | ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="05 CINE OPCIÓN 2",MY TIME MÉXICO | MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="05a CINE OPCIÓN 2",MY TIME MÉXICO | MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7183b954-cfdd-4fd7-90e5-028d6d3ef400/CM-Plex-logo-CanelaCinema_-_Camila_Conti_HOR.jpg" group-title="05 CINE OPCIÓN 2",CANELA CINEMA 1 | ESP
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7183b954-cfdd-4fd7-90e5-028d6d3ef400/CM-Plex-logo-CanelaCinema_-_Camila_Conti_HOR.jpg" group-title="05a CINE OPCIÓN 2",CANELA CINEMA 1 | ESP
 https://ov.ottera.tv/channels/cnm_cn_mv_mx/master350000.m3u8;session=cnm_cn_mv_mx
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-cinema-16x9.jpg" group-title="05 CINE OPCIÓN 2",CANELA CINEMA 2 | ESP
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-cinema-16x9.jpg" group-title="05a CINE OPCIÓN 2",CANELA CINEMA 2 | ESP
 https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/cb573d167c6c648a9fd43e63d2ef4782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e3594c8a3af5b2014cc1294dfa83439c8201e9d1d35e8343d323f341c9c0f3de851981e43d5293768acb9acb4307fbad41d1af70b3c2936a36ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb245f79a52e2ef64dbe7ea61daef542a1a3fbdb470114a5d6526029afa58599f83a31b862f4e09ab5db992e97661b6aec55a245069b59e5c2178b8972fcd376d1ed3d4b6a89f931eaf8e6f2b9ec7019bc5cbc5c5f1694e976c34e71a750a78864d8289255add61a22537267a48e4cfe4bb8343f4f409c8952d81254ec95dbc3973932c464144dfb20f76f453d9c7a3c27a51af0946a38d26612d36174bb7925904ef98f29f78cd2f1496ee6898911a92fa79e22e6db2ee52d305009b6b20b5a46477299ae45052276ce40ab8298b739594ebcb99dbef3523e062b1e1d59d8b5a923cdfcb5437721c85d226f630357c754a40ef13409517e874ea9ef6312a2092e2aeaa2452d796484c7bc84c79b8a73bc71d7c0ea2a6d5c7d66ae3811297ed9d4de08e559ab1f94fa7cda024f19a35aad24a7ca61119aeea5b23305/31/854x480_1821204/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="05 CINE OPCIÓN 2",BELLA ASUNCIÓN| PE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_14a0c37102b74a2992154aef29a5f9f7~mv2.jpg" group-title="05a CINE OPCIÓN 2",BELLA ASUNCIÓN| PE
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="05 CINE OPCIÓN 2",CANELA | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1d245389f50e4a6da5f9b513a0ec0f0f~mv2.jpg" group-title="05a CINE OPCIÓN 2",CANELA | ESP
 https://stream.ads.ottera.tv/cl/240729cqji4frm3pjs2kn45k50/854x480_1355200_2_f.m3u8?i=475_653
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="05 CINE OPCIÓN 2",CINE ROMÁNTICO | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_13ef3fbb44ff4acebbb2b97d78eeb5c4~mv2.jpg" group-title="05a CINE OPCIÓN 2",CINE ROMÁNTICO | ESP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="05 CINE OPCIÓN 2",MOVIE FE | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_73512e74cda34c6089ec4caf2a1862b7~mv2.jpg" group-title="05a CINE OPCIÓN 2",MOVIE FE | ESP
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1120384666.m3u8
 
 
