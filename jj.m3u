@@ -667,9 +667,6 @@ https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_30c45a4e19ac45498abcfb3569812e87~mv2.jpg" group-title="99 REVISIÓN",FULL CHANNEL | GT
 https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6027a3baf27e484cb716dbdb530c73b2~mv2.jpg" group-title="99 REVISIÓN",PRESENCIA TV | GT
-https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_339b05d4776a440e847f20a4b149ee44~mv2.jpg" group-title="99 REVISIÓN",OPINIÓN SUR | CL
 https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 
