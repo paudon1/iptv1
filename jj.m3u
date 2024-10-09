@@ -568,7 +568,7 @@ https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_0926500f93144831aa2806f7ed3cec04~mv2.jpg" group-title="12 PROGRAMACIÓN VARIADA 2",DOBLE C | PE
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="14 PROGRAMACIÓN VARIADA-2",EXTREMA | CR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_b7b51debbfed478c98e8e877b3cd2235~mv2.jpg" group-title="14 PROGRAMACIÓN VARIADA 2",EXTREMA | CR
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="12 PROGRAMACIÓN VARIADA 2",MEGAVISIÓN | DO
