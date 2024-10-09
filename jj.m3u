@@ -140,13 +140,13 @@ https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="05 CINE OPCIÓN2",MY TIME ESPAÑA | ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="05 CINE OPCIÓN 2",MY TIME ESPAÑA | ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg" group-title="05 CINE OPCIÓN 2",MY TIME MÉXICO | MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7183b954-cfdd-4fd7-90e5-028d6d3ef400/CM-Plex-logo-CanelaCinema_-_Camila_Conti_HOR.jpg" group-title="05 VARIADO 1",CANELA CINEMA 1 | ESP
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7183b954-cfdd-4fd7-90e5-028d6d3ef400/CM-Plex-logo-CanelaCinema_-_Camila_Conti_HOR.jpg" group-title="05 cine opción 2",CANELA CINEMA 1 | ESP
 https://ov.ottera.tv/channels/cnm_cn_mv_mx/master350000.m3u8;session=cnm_cn_mv_mx
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-cinema-16x9.jpg" group-title="05 CINE OPCIÓN 2",CANELA CINEMA 2 | ESP
