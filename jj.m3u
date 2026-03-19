@@ -8,9 +8,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_3819d27f602a489c869c90168533f483~mv2.jpg" group-title="01 FRECUENTES",BARBE | GT
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_bb4851789ee243afa973932f89dee78b~mv2.jpg" group-title="01 FRECUENTES",PLUTO CINE (EN ESPAÑOL) | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_4a641f87cb7c41538052220c66ca2b78~mv2.jpg" group-title="01 FRECUENTES",MILENIO | MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
@@ -38,19 +35,16 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f90577c9ee5c44b6ac9a2b9901ebb222~mv2.jpg" group-title="01 FRECUENTES",NIM | GT
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f64771bc56364ac5872940071d142064~mv2.jpg" group-title="01 FRECUENTES",PLUTO CINE DRAMA-1 | ESP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_67ad41ce96d14d94a111a36f2408d9f2~mv2.jpg" group-title="01 FRECUENTES",COTO BRUS | CR
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="01 FRECUENTES",XTREMA MULTIVISIÓN | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_29602d676f02459eb904a0bdb365786e~mv2.jpg" group-title="01 FRECUENTES",MULTIVISIÓN | ESP
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="01 FRECUENTES",XTREMA CINE DE ACCIÓN | ESP
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d8d0f6b1412e4d6f95e95eb1b3921de3~mv2.jpg" group-title="01 FRECUENTES",XTREMA VIDEO CLUB | ESP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d8d0f6b1412e4d6f95e95eb1b3921de3~mv2.jpg" group-title="01 FRECUENTES",VIDEO CLUB | ESP
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 
@@ -92,24 +86,6 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_48a2fb13f53748efa2963f66ffd4399c~mv2.jpg" group-title="02 ESTABLES",CANAL 21 RUDYVISIÓN | GT
 https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_1897a39d2d724eaa92e2c5b1d07ef3ee~mv2.jpg" group-title="02 ESTABLES",PLUTO CINE ACCIÓN-1 | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_34e7066840044d26a1b525d852788fea~mv2.jpg" group-title="02 ESTABLES",PLUTO CINE ESTELAR-1 | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId&appName=web&appStoreUrl&appVersion=DNT&app_name&architecture&buildVersion&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat&deviceLon&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_113d396d129544d5a0ff8a4bbd2e9b3a~mv2.jpg" group-title="02 ESTABLES",PLUTO CINE CLÁSICO-1 | ESP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f1d3c664a46c4e8ba7abecd1c9fff3bb~mv2.jpg" group-title="02 ESTABLES",PLUTO CINE COMEDIA-1 | ESP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_f539fed59f7b471a891a9b41b03673d9~mv2.jpg" group-title="02 ESTABLES",PLUTO CINE BBC DRAMA | ESP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_44b0a985ba8346fab957f57f5a8497d3~mv2.jpg" group-title="02 ESTABLES",PLUTO CINE TERROR-1 | ESP
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg" group-title="02 ESTABLES",RUN:TIME CINE | ESP
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
