@@ -42,14 +42,8 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_aed8c5e7a79f43baa35a6b99827c0ebb~mv2.jpg" group-title="ESTABLES",XTREMA CINE DE ACCIÓN | ESP
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d8d0f6b1412e4d6f95e95eb1b3921de3~mv2.jpg" group-title="ESTABLES",VIDEO CLUB | ESP
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_fea78cc689e5475d8bfc7b2bc02610e4~mv2.jpg" group-title="ESTABLES",FRECUENCIA_MUSICAL | EC
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_439cd28b48a24e8aaa034cda18b8404d~mv2.jpg" group-title="ESTABLES",MULTICANAL CATAMAYO | EC
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="ESTABLES",VISIÓN | GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
@@ -105,9 +99,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a27b7ac7c5142a99b7881ef3144a80d~mv2.jpg" group-title="ESTABLES",MY TIME ESPAÑA | ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6a2d90f028044f229f7a70ab9cac0ada~mv2.jpg" group-title="ESTABLES",ANTARES | PE
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_58e51066992548b2a31e199ac6d47b41~mv2.jpg" group-title="ESTABLES",LA MELINKANA | CL
 https://v1.tustreaming.cl/melinkana/tracks-v1a1/mono.m3u8
 
@@ -153,6 +144,12 @@ https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_00b7c5fcf10f4089a31f15209b6e4f16~mv2.jpg" group-title="ESTABLES",TVS | GT
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_721e5944395a4609851ddbaa7eb82ad4~mv2.jpg" group-title="ESTABLES",COLOSAL | CR
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="REVISIÓN",MEGAVISIÓN | DO
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
 
 
 
@@ -179,9 +176,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_93beac715d544ea19ea895e04ec47a48~mv2.jpg" group-title="04 INFORMACIÓN",ILCE | ESP
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w364183830_b2430208.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_a1f1dfe1c8bf4c298eef242c9811044e~mv2.jpg" group-title="04 INFORMACIÓN",AGUASCALIENTES | MX
-https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83210e7d310747bf89559cf07f4e30d1~mv2.jpg" group-title="04 INFORMACIÓN",CDMX | MX
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
@@ -197,17 +191,11 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26cf2efd7ae646f6a4e0312e1fbd5ea9~mv2.jpg" group-title="04 INFORMACIÓN",MICHOACÁN | MX
 https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w1554403236.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_85adb9ef713f4546b4fccddfe04d0459~mv2.jpg" group-title="04 INFORMACIÓN",MORELOS | MX
-https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_421462fa0cc5485382a796c024cb83da~mv2.jpg" group-title="04 INFORMACIÓN",NUEVO LEÓN | MX
 https://s5.mexside.net:1936/canal28/canal28/chunklist_w633558775.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="04 INFORMACIÓN",QUERÉTARO | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/cd97a832bbe767b99fc4cc0883a0636ef6f2f681e8f43b7c05e8629bece26b19.png" group-title="04 INFORMACIÓN",TABASCO | MX
-https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/chunklist_w2091801211.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="04 INFORMACIÓN",VERACRUZ | MX
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -217,9 +205,6 @@ https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.telediario.mx/uploads/media/2021/11/18/tv-en-vivo-telediario-monterrey.jpg" group-title="04 INFORMACIÓN",CANAL 06 MTY | MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="04 INFORMACIÓN",CANAL 10 CANCÚN | MX
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="04 INFORMACIÓN",RCG MEDIA | MX
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w216223782.m3u8
@@ -235,9 +220,6 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7e98fe5156744c89b54c746cc212191c~mv2.jpg" group-title="04 INFORMACIÓN",UCV-2 | CL
 https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ee07e3b497374629a2bdf41bb6c3b668~mv2.jpg" group-title="04 INFORMACIÓN",UESTV | CL
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_c92bffe26bb447bd985d66d30958a085~mv2.jpg" group-title="04 INFORMACIÓN",UMAG-2 | CL
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
@@ -264,35 +246,9 @@ https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v4FV7h0cWbY/maxresdefault.jpg" group-title="05 MÚSICA",NOW 70´S | UK
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_hits_1080x1080_02092024.jpg" group-title="05 MÚSICA",FREE TV HITS | ESP
-https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/playlist/amg01024-olympusat-flash-ono/cb573d167c6c648a9fd43e63d2ef4782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7feb00917dc3ea7e2014cc12946fa83439c8201b282dd5b83418024f746cfc0f283d713838cbd599006e627475f27738b850bfca330b3d48e6c2b887021481350e8b7c9b6245287435012f9efdb8067ea1dca8520f3165dcf039742ca3f8672a719b2f24fb4e39dcd47440d929e2b0b4ea1e1b3c4f83a23ad6789c183bc2326cc9c657943da23d9323b0783e9c40681fc0084ba51c5de17152cd48156c1d2fd94f8a7c34c8e20cfd3e2d63e4d432c00079054a19f7e8151b716a9ca006f495e7bbd885cd287da47420425e2d167fa3d41d7b1ec82db1d75ce6e0f288b0ab80b5f21a6536d78f663fd93381ecb4c4a86303cf95b36d917acee29a4a4dfb0046fe6889347fc3fedb45287f206fe3d3f0375d9952d5b560268c2e214615a13c557e1d6def7390a0fe1adbc94aa523c14771e413387e3f302f8e4a1794762ab3933734b00059f12d76ac6722f6a4a9827fd82530cef6a2029f5e93e4d4a5398c9bc84f5bea022936dd6cac90f1dc73809cc5bfab5fdb2ccef74c57a2d537f45890c6b31c56d386ccbe5046104e214a3b26bb82c6a5442c8f505480a530927625935deb62c9fa708b58fc348c0ee835241807c8e000297d1d263b8c892c4400d95ae585b14ff7bc272125fa43af113f2b55d7b794d0f1f330a2fa8eb01ab06ed89c88e43ee5dc81b7228b685e8bc9ac54dcdd84e3a7293797a741a7a407f2f0df7f7d07c0978e38304ef49ffd198c8285b1e305dd78e0c5fc9bd394cdc7d4969aba4c49cbe8a2d248a3fa43b993b43915e0378b59778f2d5e6babaa67f440cdc81ae4e90a89cce99859d682d5d2c78b0e96b785b9466fc850ce4ed3a79ec8284ac9a4d9f67ed38becbe77cb272f085ec40fed0aefffd7605571502af96b9a942a9c9602f8c72d549220f8fcab5a4179cf4884729ba13b0ff4404c8197152cea7fe7eb808b0f43627e2c72419e27d3cc5efe8355eaf00a2333969fedd8b0d6a9a9317f2adfa6222f399ead6b1870bbcf504c192ed6b658c34db4a/150/1920x1080_6046040/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_banda_1080x1080_02092024.jpg" group-title="05 MÚSICA",FREE TV BANDA | ESP
-https://amg01024-olympusat-mmcfreetv-ono-ad-kj.amagi.tv/playlist/amg01024-olympusat-mmcfreetv-ono/cb573d167c6c648a9fd43e63d2ef4782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fcb55842d16fa3e2014cc12941fa83439c8201b38881088315d723f5119897f18d8114868caf599e06e627475c2c69ebe313f29907c2b0f07c2aa3613a4f0854e5bae1982458d77e6d72a287a1d164fb00809c36be7025b216994c9d42ec01ce589ecf60fadcd1b543452aeacd485e2ba1f1d2e9915463e72591cbe8d960329ef31a6a42bb1bb256042a99fac21a85cf1085f62780f44f0f3dc5a573c1edd8eaeeb49e049f2adad7f5ea5e282f335e4aec33a39e7e9528cd6897cc062f584141dfec3fb085d6537e6d439f8d4ec1001aad95ad91da0b0ffc3a6c308f61dd484b79de381e108f47ff8839699d3044863a30a1205fec43f8ab62f4b7cbda083ab8dbb52a9509c9a70fd7c234f338562803b7e1625e555c42c3fa691f3546d657e8a18a8b090114f8e7dea48f1c2f102e59541e8ee7f366d58dcf245212c4452f6371034ddb6eb168db13070427cd6c91c649778007232ee5fe6a0d0c69c7cbb5d485829912e17ad09fff38776e5d67ea63061492b2dcfc3102abd81f003fad3726259002424be99abb9df3e240efeca92ea5006e0eebff05550112526e0f89996bd624a6fbdf1c2dab2eb1db981e518c28af001eded4d92cd5ec93ce4e019fea720a6498d122c17c6fb47f7cce3fb302bb9d703e665b6deb0b965dfc50f3b8f0a27ece75f9195137820ccaf9b7c2803aabb4b13345a8a2dbbed46ad6667f99d7d0760978edf30ae345efe85a96615d27267d13e36a51abe76d1590397f2ff0ee9bcbe5fd0a1ece61e366894e37e6065d60b19778dd8abca5aedc2f4c568dffeb6dabb18484fbd3c80d771f2365c896110621986edba433cc81513ce38080e09a499276e93af2c49526f633adcef35ffcc6d3aeb527590e1a64fdc7f6e81d94e95912f5288d3f5872f6bdedfa61f4cdaf4729ba2f87ab332eff6e300db3e89162ef24b7e1352f9df74a51c77b3fc4a0b2662bc12aa32f256eb3aaa56b28c4d7008347f8c4a45f54ede87f7b9fa2b4caa800ff81327daf17d9db9514f8feae01/130/1920x1080_6046040/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="05 MÚSICA",TELERITMO | MX
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_2832659b4d844fd1ae5854903ed27a02~mv2.jpg" group-title="REVISIÓN",BOREAL | DO
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_48a2fb13f53748efa2963f66ffd4399c~mv2.jpg" group-title="REVISIÓN",CANAL 21 RUDYVISIÓN | GT
-https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_72ac1ecdc2274ad293d200aa9459c744~mv2.jpg" group-title="REVISIÓN",COCO | DO
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0a56fe220b8e4fe3a54a32bf98a9f9ff~mv2.png" group-title="REVISIÓN",MÁS TV | GT
-https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_721e5944395a4609851ddbaa7eb82ad4~mv2.jpg" group-title="REVISIÓN",COLOSAL | CR
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_6967eecf540844fca0f93828b384b50c~mv2.jpg" group-title="REVISIÓN",MEGAVISIÓN | DO
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
